@@ -11,6 +11,22 @@
     padding: 0;
 }
 
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+svg {
+    width: 90%;
+}
+
+
 body {
     background: color #01171b;
 }
@@ -25,7 +41,7 @@ svg {
     padding-top:50px;
     display: block; 
     margin: 0 auto;
-    width: 100%;    
+    width: 90%;    
     height: auto;    
 }
 
@@ -97,3 +113,4 @@ svg path:hover {
 .navbar a:hover {
     border-radius: 5px;
 }
+

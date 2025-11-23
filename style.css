@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Felipa&display=swap');
+
+.felipa-regular {
+    font-family: "Felipa", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: color #01171b;
+}
+
+html, body {
+    background-color: black;
+    height:100%;
+    margin:0;
+}
+
+svg {
+    padding-top:50px;
+    display: block; 
+    margin: 0 auto;
+    width: 100%;    
+    height: auto;    
+}
+
+
+svg path {
+    fill: #ffffff;
+    stroke: #eee;
+    stroke-width: .25;
+}
+
+svg path:hover {
+    fill: #4099e2;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.dm-serif-text-regular {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.dm-serif-text-regular-italic {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.content {
+    width: 30%;
+    border: 2px solid white;
+    padding: 15px;
+    box-shadow: 0 0 12px rgba(255,255,255,0.1);
+    
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.ccontent {
+    width:46%;
+    border:2px solid white;
+    padding:15px;
+}
+
+.navbar {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    z-index: 1000;
+    align-items: center;
+    transition: transform .15s ease, box-shadow .15s ease;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    font-size: 14px;
+}
+
+.navbar a:hover {
+    border-radius: 5px;
+}

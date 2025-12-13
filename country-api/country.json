@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Afghanistan",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Kabul",
+                "details": {
+                    "annual tourists": "9,000",
+                    "popular attractions": [
+                        "Gardens of Babur",
+                        "National Museum of Afghanistan",
+                        "Darul Aman Palace",
+                        "Qargha Lake",
+                        "Ziarat-e Sakhi"
+                    ],
+                    "transportation": {
+                        "taxi":"Yellow taxi's are common but don't use meters. App rides are generally safer and prices are clearer.",
+                        "buses": "Cheap but oftern crowded, unpredictable, and not recommended for foreigners unfamilier with the area.",
+                        "walking": "Kabul is not a very pedestrian-friendly city. Sidewalks are uneven or missing and traffic can be chaotic. Avoid walking at night.",
+                        "airport": "Use official airport taxis or arrange a hotel pickup in advance. Avoid accepting rides from individuals inside or outisde the terminals."
+                    },
+                    "image-url": "https://www.theglobetrottingdetective.com/wp-content/uploads/2023/10/beautiful-afghanistan-travel-guide-sakhi-shrine-kabul.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d420615.25486517954!2d68.57385472041007!3d34.55212029789309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38d1694c3c1e6d49%3A0xebdf473578214429!2sKabul%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765586371223!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Mazar-i-Sharif",
+                "details": {
+                    "annual tourists": "1,500",
+                    "popular attractions": [
+                        "Blue Mosque",
+                        "Buzakshi Stadium",
+                        "Mazari Sharif"
+                    ],
+                    "transportation": {
+                        "taxi":"Taxis are the most common way for visitors to get around. The fares are cash and negotiated in advance similarily to Kabul.",
+                        "buses": "Local buses and operate without a route map.",
+                        "walking": "The center around the Blue Mosque and bazaar's is walkable but similar to Kabul the sidewalks and traffic is unpredictable.",
+                        "airport": "Taxis are the primary way to go between the airport and the city and many hotels offer aiport pickup."
+                    },
+                    "image-url": "https://koryogroup.com/ckeditor_assets/pictures/3881/content_Afghanistan_koryo_tours_4696.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102361.78810045123!2d67.06552143473954!3d36.703202407121054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f34b8a3605314bd%3A0xb27a5e1a6c1fcf71!2sMazar-i-Sharif%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765587418968!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Herat",
+                "details": {
+                    "annual tourists": "400",
+                    "popular attractions": [
+                        "Herat Citadel",
+                        "Friday Mosque",
+                        "Khwaja Abd Allah Ansari Shrine",
+                        "Malan Bridge"
+                    ],
+                    "transportation": {
+                        "taxi":"Taxis are widely available but make sure to agree on the fare before starting the trip.",
+                        "buses": "Does not have a city bus network but has intercity buses that are limited. When inside the city, minibuses are cheap but often crowded.",
+                        "walking": "Historical area around Herat are walkable by day and be mindful of surroundings at night.",
+                        "airport": "Taxis are the most reliable airport connection to and from airport. A formal public airport shuttle bus does not exist but many hotels are able to organize airport pickup and dropoff."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/08/0b/61/citadel-of-herat-herat.jpg?w=500&h=500&s=1",
+                    "map-url":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52702.13213621964!2d62.16987039102475!3d34.35344909923775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f3ce6a894be6cf7%3A0x9db9f81752d677c4!2sHerat%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765588219399!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Angola",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Luanda",
+                "details": {
+                    "annual tourists": "",
+                    "popular attractions": [],
+                    "transportation": {},
+                    "image-url": "",
+                    "map-url":""
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Lubango",
+                "details": {
+                    "annual tourists": "",
+                    "popular attractions": [],
+                    "transportation": {},
+                    "image-url": "",
+                    "map-url":""
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Benguela",
+                "details": {
+                    "annual tourists": "",
+                    "popular attractions": [],
+                    "transportation": {},
+                    "image-url": "",
+                    "map-url":""
+                }
+            }
+        ]
+    },
+    {
+        "name": "Albania",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Tirana",
+                "details": {
+                    "annual tourists": "",
+                    "popular attractions": [],
+                    "transportation": {},
+                    "image-url": "",
+                    "map-url":""
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Sarande",
+                "details": {
+                    "annual tourists": "",
+                    "popular attractions": [],
+                    "transportation": {},
+                    "image-url":"" ,
+                    "map-url":""
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Durres",
+                "details": {
+                    "annual tourists": "",
+                    "popular attractions": [],
+                    "transportation": {},
+                    "image-url": "",
+                    "map-url":""
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country List</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 2rem;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            background: #f4f4f4;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Country Directory</h1>
+    <button onclick="fetchCountries()">Load Countries</button>
+    <div id="country-list"></div>
+
+    <script>
+        async function fetchCountries() {
+            try {
+                // 1. Call the API we created
+                const response = await fetch('http://127.0.0.1:8000/countries');
+
+                // 2. Convert the response to JSON
+                const countries = await response.json();
+
+                // 3. Find the list element in HTML
+                const list = document.getElementById('country-list');
+
+                // Clear existing list to avoid duplicates
+                list.innerHTML = '';
+
+                // 4. Loop through countries and add them to the list
+                countries.forEach(country => {
+                    const item = document.createElement('div');
+                    item.innerHTML = `<h2>${country.name}</h2>
+                                  <p>Top Cities:</p>
+                                  <ul>
+                                      ${country.top_cities.map(city => `<li>${city.rank}. ${city.name} (Population: ${city.population})</li>`).join('')}
+                                  </ul>`;
+=                    list.appendChild(item);
+                });
+            } catch (error) {
+                console.error('Error fetching data:', error);
+                alert('Failed to load data. Is the python server running?');
+            }
+        }
+
+        // Function to generate the HTML string for a single city
+        function generateCityHtml(cityData) {
+            const cityName = cityData.city_name || 'N/A';
+            const annualTourists = cityData.details['annual tourists'] || 'Data not available';
+            const attractions = cityData.details['popular attractions'] && cityData.details['popular attractions'].length > 0
+                ? cityData.details['popular attractions'].join(', ')
+                : 'Data not available';
+            const imageUrl = cityData.details['image-url'] || '#';
+
+            // The innerHTML structure is adapted to the fields available in your JSON
+            return `
+<div class="content">
+    <h2>${cityName}</h2>
+    <br>
+    <p>
+        <b>Annual Tourists: </b> ${annualTourists} <br>
+        <br><b>Most Popular Attractions: </b>${attractions}<br>
+    </p>
+    <br>
+    <img src="${imageUrl}" alt="${cityName}">
+</div>`;
+        }
+    </script>
+</body>
+
+</html>

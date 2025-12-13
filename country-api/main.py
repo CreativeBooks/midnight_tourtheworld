@@ -19,7 +19,7 @@ app.add_middleware(
 @app.get("/countries")
 def get_countries():
     # 1. Open the json file
-    with open("country.json", "r") as f:
+    with open("country-api/country.json", "r") as f:
         # 2. Load data from file into a python variable
         data = json.load(f)
     

@@ -1,6 +1,7 @@
 [
     {
         "name": "Afghanistan",
+        "background-image-url": "https://zawiamedia.com/storage/app/thumb/n7DBoJaKMksxIagN8ZG8ljjVyTPOK87bsnhcdxw1.jpeg",
         "top_cities": [
             {
                 "rank": 1,
@@ -15,7 +16,7 @@
                         "Ziarat-e Sakhi"
                     ],
                     "transportation": {
-                        "taxi":"Yellow taxi's are common but don't use meters. App rides are generally safer and prices are clearer.",
+                        "taxi": "Yellow taxi's are common but don't use meters. App rides are generally safer and prices are clearer.",
                         "buses": "Cheap but oftern crowded, unpredictable, and not recommended for foreigners unfamilier with the area.",
                         "walking": "Kabul is not a very pedestrian-friendly city. Sidewalks are uneven or missing and traffic can be chaotic. Avoid walking at night.",
                         "airport": "Use official airport taxis or arrange a hotel pickup in advance. Avoid accepting rides from individuals inside or outisde the terminals."
@@ -27,6 +28,7 @@
             {
                 "rank": 2,
                 "city_name": "Mazar-i-Sharif",
+                "background-image-url": "",
                 "details": {
                     "annual tourists": "1,500",
                     "popular attractions": [
@@ -35,7 +37,7 @@
                         "Mazari Sharif"
                     ],
                     "transportation": {
-                        "taxi":"Taxis are the most common way for visitors to get around. The fares are cash and negotiated in advance similarily to Kabul.",
+                        "taxi": "Taxis are the most common way for visitors to get around. The fares are cash and negotiated in advance similarily to Kabul.",
                         "buses": "Local buses and operate without a route map.",
                         "walking": "The center around the Blue Mosque and bazaar's is walkable but similar to Kabul the sidewalks and traffic is unpredictable.",
                         "airport": "Taxis are the primary way to go between the airport and the city and many hotels offer aiport pickup."
@@ -56,19 +58,20 @@
                         "Malan Bridge"
                     ],
                     "transportation": {
-                        "taxi":"Taxis are widely available but make sure to agree on the fare before starting the trip.",
+                        "taxi": "Taxis are widely available but make sure to agree on the fare before starting the trip.",
                         "buses": "Does not have a city bus network but has intercity buses that are limited. When inside the city, minibuses are cheap but often crowded.",
                         "walking": "Historical area around Herat are walkable by day and be mindful of surroundings at night.",
                         "airport": "Taxis are the most reliable airport connection to and from airport. A formal public airport shuttle bus does not exist but many hotels are able to organize airport pickup and dropoff."
                     },
                     "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/08/0b/61/citadel-of-herat-herat.jpg?w=500&h=500&s=1",
-                    "map-url":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52702.13213621964!2d62.16987039102475!3d34.35344909923775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f3ce6a894be6cf7%3A0x9db9f81752d677c4!2sHerat%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765588219399!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52702.13213621964!2d62.16987039102475!3d34.35344909923775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f3ce6a894be6cf7%3A0x9db9f81752d677c4!2sHerat%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765588219399!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             }
         ]
     },
     {
         "name": "Angola",
+        "background-image-url": "",
         "top_cities": [
             {
                 "rank": 1,
@@ -78,7 +81,7 @@
                     "popular attractions": [],
                     "transportation": {},
                     "image-url": "",
-                    "map-url":""
+                    "map-url": ""
                 }
             },
             {
@@ -89,7 +92,7 @@
                     "popular attractions": [],
                     "transportation": {},
                     "image-url": "",
-                    "map-url":""
+                    "map-url": ""
                 }
             },
             {
@@ -100,7 +103,7 @@
                     "popular attractions": [],
                     "transportation": {},
                     "image-url": "",
-                    "map-url":""
+                    "map-url": ""
                 }
             }
         ]
@@ -116,7 +119,7 @@
                     "popular attractions": [],
                     "transportation": {},
                     "image-url": "",
-                    "map-url":""
+                    "map-url": ""
                 }
             },
             {
@@ -126,8 +129,8 @@
                     "annual tourists": "",
                     "popular attractions": [],
                     "transportation": {},
-                    "image-url":"" ,
-                    "map-url":""
+                    "image-url": "",
+                    "map-url": ""
                 }
             },
             {
@@ -138,7 +141,7 @@
                     "popular attractions": [],
                     "transportation": {},
                     "image-url": "",
-                    "map-url":""
+                    "map-url": ""
                 }
             }
         ]

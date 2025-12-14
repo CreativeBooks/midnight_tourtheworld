@@ -13,7 +13,26 @@ document.querySelectorAll('svg a').forEach(area => {
     });
 });
 
+// function getURLParameter(name) {
+//    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+//    const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+//    const results = regex.exec(location.search);
+//    return results === null? '': decodeURIComponent(results[1].replace(/\+/g, ' '));
+// }
 
+// const selectedCountryName = getURLParameter('country');
+
+// fetch(`country-api/country.json`)
+//     .then(response => response.json())
+//     .then (allCountriesData =>{
+//         const selectedCountry = allCountriesData.find(country => country.name === selectedCountryName);
+
+//         if (selectedCountry) {
+//             renderSingleCountry(selectedCountry);
+//         } else {
+//             document.getElementById('')
+//         }
+//     })
 
 
 //window.onload = async () => {

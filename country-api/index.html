@@ -20,6 +20,9 @@
             text-align: center;
             margin: 0;
             font-family: 'felipa', 'Times New Roman', Times, serif;
+            background-color:black;
+            padding-left: 30px;
+            padding-right:30px;
         }
 
         h3 {
@@ -28,16 +31,16 @@
         }
 
         hr {
-            margin-top: 20px; /* Increased margin for better separation */
-            margin-bottom: 20px; /* Increased margin for better separation */
-            border-color: #555;
+             margin-top: 10px; 
+            margin-bottom: 10px; 
+            
         }
 
         .content img {
             width: 100%;
             height: auto;
             object-fit: cover;
-            border-radius: 5px; /* Added small border-radius for modern look */
+            
         }
 
         h2 {
@@ -48,43 +51,44 @@
             font-family: "DM Serif Text", serif;
         }
 
-        /* Classes copied from india.html/australia.html */
+        
         .container {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
             margin-top: 20px;
-            justify-content: space-around; /* Center items better */
+            justify-content: space-around; 
         }
 
         .content {
             flex: 1 1 300px; /* Allows up to 3 columns on wide screens */
             padding: 15px;
             background-color: #333; /* Slightly lighter background for contrast */
-            border-radius: 8px;
+           
         }
 
         .ccontent {
             flex: 1 1 45%; /* Used for the two-column transportation layout */
             padding: 15px;
             background-color: #333;
-            border-radius: 8px;
+           
         }
 
         iframe {
             width: 100%;
             height: 300px;
-            border-radius: 5px;
+            
         }
         
         .country-banner {
-            height: 150px;
+            height: 350px;
             display: flex;
             justify-content: center;
             align-items: center;
             background-color: #1a1a1a;
-            margin-bottom: 30px;
-            border-bottom: 5px solid #ffcc00;
+            background-repeat: no-repeat;
+            background-size: cover; 
+            background-position: center;
         }
 
         .country-section {
@@ -127,6 +131,7 @@
                 // 3. Iterate over each country
                 countries.forEach(country => {
                     const countrySlug = country.name.toLowerCase().replace(/\s/g, '-');
+                    const backimage = country['background-image-url'];
                     const cityNames = country.top_cities.map(city => city.city_name).join(', ');
 
                     // Start HTML construction for a single country, adopting australia.html structure
@@ -135,7 +140,7 @@
                     // --- Country Header (Simplified Banner) ---
                     countryHtml += `
                         <div class="country-section">
-                            <div class="country-banner">
+                            <div class="country-banner" style="background-image: url('${backimage}');">
                                 <h1>${country.name}</h1>
                             </div>
                             <hr>
@@ -174,7 +179,7 @@
 
 
                     // --- 3.2. Maps Section ---
-                    countryHtml += `<hr><h1 style="text-align: center;margin-bottom:10px;" id="dynamic-maps">Maps for Each City in ${country.name}</h1>`;
+                    countryHtml += `<hr><h1 style="text-align: center;margin-bottom:10px;" id="dynamic-maps">Maps for Each City</h1>`;
                     countryHtml += `<div class="container">`;
                     
                     country.top_cities.forEach(city => {
@@ -192,7 +197,7 @@
                     countryHtml += `</div>`; // Close Maps container
 
                     // --- 3.3. Transportation Section ---
-                    countryHtml += `<hr><h1 style="margin-bottom:10px;" id="dynamic-trans">Transportation Tips in ${country.name}</h1>`;
+                    countryHtml += `<hr><h1 style="margin-bottom:10px;" id="dynamic-trans">Transportation Tips</h1>`;
                     countryHtml += `<div class="container">`;
 
                     // Aggregate Airport Tips from all cities
@@ -237,7 +242,6 @@
             }
         }
 
-        // Run the function when the page loads
         renderCountryData();
     </script>
 </body>

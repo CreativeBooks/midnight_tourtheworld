@@ -13,6 +13,138 @@ document.querySelectorAll('svg a').forEach(area => {
     });
 });
 
+function getURLParameter(name) {
+    const results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+}
+
+const selectedCountryName = getURLParameter('country');
+const API_URL = 'http://127.0.0.1:8000/countries';
+
+async function renderCountryData() {
+    const mainContainer = document.getElementById('main-container');
+    if(!mainContainer) return;
+    mainContainer.innerHTML = '';
+
+    try {
+        const response = await fetch(API_URL);
+        if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+
+        const countries = await response.json();
+
+        const country = countries.find(c => c.name === selectedCountryName);
+
+        if (country) {
+            const backimage = country['background-image-url'];
+            const cityNames = country.top_cities.map(city => city.name).join(', ');
+
+            let countryHtml = '';
+
+            // --- Country Header ---
+            countryHtml += `
+                <div class="country-section">
+                     <div class="country-banner" style="background-image: url('${backimage}');">
+                        <h1>${country.name}</h1>
+                    </div>
+                    <hr>
+                    <h3>Some of the most visited cities are: ${cityNames}</h3>
+                    <hr>
+            `;
+
+            // --- Cities Section ---
+            countryHtml += `<h1 style="text-align: center;" id="dynamic-cities">Top Cities in ${country.name}</h1>`;
+            countryHtml += `<div class="container">`;
+                    
+            country.top_cities.forEach((city, index) => {
+                        
+                const details = city.details;
+                const annualTourists = details['annual tourists'] || 'N/A';
+                const popularAttractions = (details['popular attractions'] && details['popular attractions'].length > 0)
+                    ? details['popular attractions'].join(', ') 
+                    : 'N/A';
+                const imageUrl = details['image-url'] || '#';
+                const firstCityId = (index === 0) ? `id="${city.city_name.toLowerCase().replace(/\s/g, '-')}"` : '';
+
+                countryHtml += `
+                     <div class="content" ${firstCityId}>
+                        <h2>${city.city_name}</h2>
+                        <br>
+                        <p>
+                            <b>Annual Tourists: </b> ${annualTourists} <br>
+                            <br><b>Most Popular Attractions: </b>${popularAttractions}
+                        </p>
+                        <br>
+                        <img src="${imageUrl}" alt="${city.city_name}">
+                    </div>
+                `;
+            });
+            countryHtml += `</div>`; 
+
+            // --- Maps Section ---
+            countryHtml += `<hr><h1 style="text-align: center;margin-bottom:10px;" id="dynamic-maps">Maps for Each City</h1>`;
+            countryHtml += `<div class="container">`;
+                    
+            country.top_cities.forEach(city => {
+                    
+                const mapIframe = city.details["map-url"] || '<p>Map not available</p>';
+                countryHtml += `
+                    <div class="content">
+                        <h2>${city.city_name}</h2>
+                        <br>
+                        ${mapIframe}
+                    </div>
+                `;
+            });
+            countryHtml += `</div>`;
+
+            // --- Transportation Section ---
+            countryHtml += `<hr><h1 style="margin-bottom:10px;" id="dynamic-trans">Transportation Tips</h1>`;
+            countryHtml += `<div class="container">`;
+
+                    
+            let airportTips = `<h2>Airport</h2><br><p>`;
+            country.top_cities.forEach(city => {
+                const tip = city.details.transportation.airport || 'Information not available.';
+                airportTips += `<b>${city.city_name}:</b> ${tip} <br><br>`;
+            });
+            airportTips += `</p>`;
+
+                    
+            let publicTips = `<h2>Local Public Transport</h2><br><p>`;
+            country.top_cities.forEach(city => {
+                const taxi = city.details.transportation.taxi || 'N/A';
+                const buses = city.details.transportation.buses || 'N/A';
+                const walking = city.details.transportation.walking || 'N/A';
+                        
+                publicTips += `
+                    <b>${city.city_name}</b><br>
+                    <b>Taxi/Rideshares: </b>${taxi}<br>
+                    <b>Buses: </b>${buses}<br>
+                    <b>Walking: </b>${walking}<br>
+                    <br>
+                `;
+            });
+            publicTips += `</p>`;
+
+                    
+            countryHtml += `<div class="ccontent">${airportTips}</div>`;
+            countryHtml += `<div class="ccontent">${publicTips}</div>`;
+            countryHtml += `</div></div>`;
+
+            mainContainer.innerHTML = countryHtml;
+        } else {
+            mainContainer.innerHTML = `<h1>Country "${selectedCountryName}" not found.</h1>`;
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        mainContainer.innerHTML = '<p style="color:red;">Error loading country data.</p>';
+    }
+}
+
+renderCountryData();
+
+
+
 // function getURLParameter(name) {
 //    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
 //    const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');

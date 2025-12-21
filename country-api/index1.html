@@ -13,7 +13,7 @@
         body {
             background-color: black;
             color: white;
-            padding: 20px; /* Added padding for a better visual buffer */
+            padding: 20px; 
         }
 
         h1 {
@@ -61,14 +61,14 @@
         }
 
         .content {
-            flex: 1 1 300px; /* Allows up to 3 columns on wide screens */
+            flex: 1 1 300px; 
             padding: 15px;
-            background-color: #333; /* Slightly lighter background for contrast */
+            background-color: #333;
            
         }
 
         .ccontent {
-            flex: 1 1 45%; /* Used for the two-column transportation layout */
+            flex: 1 1 45%; 
             padding: 15px;
             background-color: #333;
            
@@ -110,34 +110,34 @@
     </div>
 
     <script>
-        // Ensure your Python server is running with 'uvicorn main:app --reload'
+        
         const API_URL = 'http://127.0.0.1:8000/countries';
 
         async function renderCountryData() {
             const mainContainer = document.getElementById('main-content');
-            mainContainer.innerHTML = ''; // Clear loading message
+            mainContainer.innerHTML = ''; 
 
             try {
-                // 1. Fetch data from the FastAPI endpoint
+                
                 const response = await fetch(API_URL);
                 
                 if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
                 }
 
-                // 2. Parse the JSON response
+                
                 const countries = await response.json(); 
 
-                // 3. Iterate over each country
+                
                 countries.forEach(country => {
                     const countrySlug = country.name.toLowerCase().replace(/\s/g, '-');
                     const backimage = country['background-image-url'];
                     const cityNames = country.top_cities.map(city => city.city_name).join(', ');
 
-                    // Start HTML construction for a single country, adopting australia.html structure
+                   
                     let countryHtml = '';
 
-                    // --- Country Header (Simplified Banner) ---
+                    // --- Country Header ---
                     countryHtml += `
                         <div class="country-section">
                             <div class="country-banner" style="background-image: url('${backimage}');">
@@ -148,12 +148,12 @@
                             <hr>
                     `;
 
-                    // --- 3.1. Cities Section ---
+                    // --- Cities Section ---
                     countryHtml += `<h1 style="text-align: center;" id="dynamic-cities">Top Cities in ${country.name}</h1>`;
                     countryHtml += `<div class="container">`;
                     
                     country.top_cities.forEach((city, index) => {
-                        // Extract details, providing fallback text for empty fields
+                        
                         const details = city.details;
                         const annualTourists = details['annual tourists'] || 'N/A';
                         const popularAttractions = (details['popular attractions'] && details['popular attractions'].length > 0)
@@ -175,15 +175,15 @@
                             </div>
                         `;
                     });
-                    countryHtml += `</div>`; // Close City container
+                    countryHtml += `</div>`; 
 
 
-                    // --- 3.2. Maps Section ---
+                    // --- Maps Section ---
                     countryHtml += `<hr><h1 style="text-align: center;margin-bottom:10px;" id="dynamic-maps">Maps for Each City</h1>`;
                     countryHtml += `<div class="container">`;
                     
                     country.top_cities.forEach(city => {
-                        // The map-url contains the full <iframe> tag from your JSON
+                        
                         const mapIframe = city.details["map-url"] || '<p>Map not available</p>';
 
                         countryHtml += `
@@ -194,13 +194,13 @@
                             </div>
                         `;
                     });
-                    countryHtml += `</div>`; // Close Maps container
+                    countryHtml += `</div>`;
 
-                    // --- 3.3. Transportation Section ---
+                    // --- Transportation Section ---
                     countryHtml += `<hr><h1 style="margin-bottom:10px;" id="dynamic-trans">Transportation Tips</h1>`;
                     countryHtml += `<div class="container">`;
 
-                    // Aggregate Airport Tips from all cities
+                    
                     let airportTips = `<h2>Airport</h2><br><p>`;
                     country.top_cities.forEach(city => {
                         const tip = city.details.transportation.airport || 'Information not available.';
@@ -208,7 +208,7 @@
                     });
                     airportTips += `</p>`;
 
-                    // Aggregate Local Transport Tips from all cities
+                    
                     let publicTips = `<h2>Local Public Transport</h2><br><p>`;
                     country.top_cities.forEach(city => {
                         const taxi = city.details.transportation.taxi || 'N/A';
@@ -225,14 +225,14 @@
                     });
                     publicTips += `</p>`;
 
-                    // Insert the two transportation content blocks using the ccontent class
+                    
                     countryHtml += `<div class="ccontent">${airportTips}</div>`;
                     countryHtml += `<div class="ccontent">${publicTips}</div>`;
 
-                    countryHtml += `</div>`; // Close Transportation container
-                    countryHtml += `</div>`; // Close Country Section wrapper
+                    countryHtml += `</div>`; 
+                    countryHtml += `</div>`; 
 
-                    // Append the entire country's HTML to the main page
+                   
                     mainContainer.innerHTML += countryHtml;
                 });
 

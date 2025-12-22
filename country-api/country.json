@@ -71,28 +71,48 @@
     },
     {
         "name": "Angola",
-        "background-image-url": "",
+        "background-image-url": "https://images.trvl-media.com/place/1997/60fdee01-45f0-4c3d-9b53-ca5e3dca8190.jpg?impolicy=fcrop&w=450&h=280&q=medium",
         "top_cities": [
             {
                 "rank": 1,
                 "city_name": "Luanda",
                 "details": {
-                    "annual tourists": "",
-                    "popular attractions": [],
-                    "transportation": {},
-                    "image-url": "",
-                    "map-url": ""
+                    "annual tourists": "800,000",
+                    "popular attractions": [
+                        "Miradouriro da Lua",
+                        "Ilha do Mussulo",
+                        "Fortaleza de Sao Miguel",
+                        "Sangano Beach"
+                    ],
+                    "transportation": {
+                        "taxi": "Most taxis are yellow and blue and they do not always use meters so agree on a fare before starting the trip. Ride-hailing apps like Yango and Heetch are also available in Luanda.",
+                        "buses": "Shared minibuses are available but are often crowded and route information is confusing for foreigners. Not recommended for first-time visitors. Government buses cover different routes but are unpredictable and can be crowded.",
+                        "walking": "Certain areas of Luanda are walkable during the day such as the Marginal area along the coast and the city center. Avoid walking at night due to safety concerns.",
+                        "airport": "Services such as Yango, Heetch, an Allo are available in Luanda for transportation. Many hotels provide airport pickup and droppoff."
+                    },
+                    "image-url": "https://pohcdn.com/sites/default/files/styles/big_gallery_image/public/text_gallery/Luanda-3.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126152.95307894894!2d13.201702225075662!3d-8.853523338765648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a51f15cdc8d2c7d%3A0x850c1c5c5ecc5a92!2sLuanda%2C%20Angola!5e0!3m2!1sen!2sus!4v1766444815214!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             },
             {
                 "rank": 2,
                 "city_name": "Lubango",
                 "details": {
-                    "annual tourists": "",
-                    "popular attractions": [],
-                    "transportation": {},
-                    "image-url": "",
-                    "map-url": ""
+                    "annual tourists": "18,000",
+                    "popular attractions": [
+                        "Tundavala",
+                        "Serra da Leba",
+                        "Christ the King Statue",
+                        "Parque da Nossa Senhora do Monte"
+                    ],
+                    "transportation": {
+                        "taxi": "Agree on fare before starting the trip and they are easly found near hotels or central areas. Local ride-hailing apps may be available but are inconsistent.",
+                        "buses": "Shared minibuses are available but are often crowded and route information is confusing for foreigners. Not recommended for first-time visitors. ",
+                        "walking": "The city center and markets are walkable but be cautious when walking at night.",
+                        "airport": "Ride to center of city is about 10-15 minutes and the most reliable transportation options would be taxis or prearranged hotel shuttles."
+                    },
+                    "image-url": "https://cdn.prod.website-files.com/63ffc00250b39a7c67ac3ba5/64131e785da37236790be908_Lubango.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d123375.19324485592!2d13.446098334129797!3d-14.910618516376607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ba34b79115f7f23%3A0xcaa20e87e439fb10!2sLubango%2C%20Angola!5e0!3m2!1sen!2sus!4v1766445304794!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             },
             {
@@ -110,6 +130,7 @@
     },
     {
         "name": "Albania",
+        "background-image-url": "",
         "top_cities": [
             {
                 "rank": 1,

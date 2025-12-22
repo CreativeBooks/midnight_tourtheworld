@@ -13,6 +13,7 @@ document.querySelectorAll('svg a').forEach(area => {
     });
 });
 
+
 function getURLParameter(name) {
     const results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(window.location.href);
     return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
@@ -22,7 +23,7 @@ const selectedCountryName = getURLParameter('country');
 const API_URL = 'http://127.0.0.1:8000/countries';
 
 async function renderCountryData() {
-    const mainContainer = document.getElementById('main-container');
+    const mainContainer = document.getElementById('main-content');
     if(!mainContainer) return;
     mainContainer.innerHTML = '';
 
@@ -36,7 +37,7 @@ async function renderCountryData() {
 
         if (country) {
             const backimage = country['background-image-url'];
-            const cityNames = country.top_cities.map(city => city.name).join(', ');
+            const cityNames = country.top_cities.map(city => city.city_name).join(', ');
 
             let countryHtml = '';
 
@@ -46,7 +47,7 @@ async function renderCountryData() {
                      <div class="country-banner" style="background-image: url('${backimage}');">
                         <h1>${country.name}</h1>
                     </div>
-                    <hr>
+                    <hr style="margin-top:0px;">
                     <h3>Some of the most visited cities are: ${cityNames}</h3>
                     <hr>
             `;
@@ -81,7 +82,7 @@ async function renderCountryData() {
             countryHtml += `</div>`; 
 
             // --- Maps Section ---
-            countryHtml += `<hr><h1 style="text-align: center;margin-bottom:10px;" id="dynamic-maps">Maps for Each City</h1>`;
+            countryHtml += `<h1 style="text-align: center;margin-bottom:10px;" id="dynamic-maps">Maps for Each City</h1>`;
             countryHtml += `<div class="container">`;
                     
             country.top_cities.forEach(city => {
@@ -98,7 +99,7 @@ async function renderCountryData() {
             countryHtml += `</div>`;
 
             // --- Transportation Section ---
-            countryHtml += `<hr><h1 style="margin-bottom:10px;" id="dynamic-trans">Transportation Tips</h1>`;
+            countryHtml += `<h1 style="margin-bottom:10px;" id="dynamic-trans">Transportation Tips</h1>`;
             countryHtml += `<div class="container">`;
 
                     

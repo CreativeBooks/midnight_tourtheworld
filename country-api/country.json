@@ -329,5 +329,91 @@
                 }
             }
         ]
+    },
+    {
+       
+        "name": "Argentina",
+        "background-image-url": "https://images.ctfassets.net/wv75stsetqy3/Vla3adzOpYEMDyD15GhFI/e6784c316589799c2d02042aefdc2dd6/Argentina.jpg?q=60&fit=fill&fm=webp",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Buenos Aires",
+                "details": {
+                    "annual tourists": "2,500,000",
+                    "popular attractions": [
+                        "Teatro Colón",
+                        "Recoleta Cemetery",
+                        "Casa Rosada",
+                        "Palermo Soho",
+                        "La Boca (Caminito)",
+                        "Puerto Madero",
+                        "San Telmo Market",
+                        "National Museum of Fine Arts",
+                        "Floralis Genérica",
+                        "El Ateneo Grand Splendid"
+                    ],
+                    "transportation": {
+                        "taxi": "Radio Taxis are widely available and metered. Ride-hailing apps like Uber and Cabify are very popular and generally safer for tourists.",
+                        "buses": "The 'Colectivo' system is extensive and runs 24/7. You must have a SUBE card to pay; cash is not accepted.",
+                        "walking": "The city is known as the 'Paris of the South' and is highly walkable, especially in areas like Recoleta and Palermo. Use caution in Microcentro at night.",
+                        "airport": "Ezeiza (EZE) is the main international hub (45 mins away), while Aeroparque (AEP) is for domestic flights and located within the city limits."
+                    },
+                    "image-url": "https://images.squarespace-cdn.com/content/v1/52efc94ae4b01409c74273d6/1585836711975-N7XHQ1OEB1VT1Q28Y0NP/BuenosAires-1815x1200.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.27456551473!2d-58.51569989937324!3d-34.61579604814654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos%20Aires%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463057212!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+               "rank": 2,
+                "city_name": "San Carlos de Bariloche",
+                "details": {
+                    "annual tourists": "1,200,000",
+                    "popular attractions": [
+                        "Nahuel Huapi Lake",
+                        "Cerro Catedral (Ski Resort)",
+                        "Circuito Chico",
+                        "Civic Center (Centro Cívico)",
+                        "Cerro Campanario",
+                        "Isla Victoria",
+                        "Chocolate Museum",
+                        "Mount Otto Cable Car",
+                        "Colonia Suiza"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis and 'remises' (fixed-rate cars) are common. It is best to call one from a hotel or restaurant rather than hailing on the street.",
+                        "buses": "Local buses require a SUBE card. There are frequent routes connecting the city center to Llao Llao and the ski base.",
+                        "walking": "The town center is small and walkable, but most natural attractions require a car or bus due to the mountainous terrain.",
+                        "airport": "Teniente Luis Candelaria Airport (BRC) is about 15km from the city center. Public buses and shuttles are available."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d0/5f/0a/cerro-campanario.jpg?w=600&h=-1&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96169.09141472145!2d-71.4223156020613!3d-41.12832349342862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x961a7b1520c860e5%3A0x8210ae97cb7b9a65!2sSan%20Carlos%20de%20Bariloche%2C%20R%C3%ADo%20Negro%20Province%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463157915!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+               "rank": 3,
+                "city_name": "Mendoza",
+                "details": {
+                    "annual tourists": "1,000,000",
+                    "popular attractions": [
+                        "Mount Aconcagua (Provincial Park)",
+                        "General San Martín Park",
+                        "Plaza Independencia",
+                        "Maipú Wine Region",
+                        "Uco Valley",
+                        "Cacheuta Hot Springs",
+                        "Villavicencio Natural Reserve",
+                        "The Andes Museum",
+                        "Aristides Villanueva Street (Nightlife)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are affordable and use meters. Remises are also a popular way to visit distant wineries for a flat daily or hourly fee.",
+                        "buses": "The city has a clean and efficient bus system and a light rail (Metrotranvía) that connects the center to southern suburbs.",
+                        "walking": "The city is designed with wide, tree-lined avenues and five main plazas, making the downtown area very pleasant for walking.",
+                        "airport": "Governor Francisco Gabrielli International Airport (MDZ) is a 15-20 minute drive from the city center."
+                    },
+                    "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/71/96/93.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3359564.2306635547!2d-73.54696628358215!3d-34.68437999238633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9679745b5dd5fffd%3A0x902586f1d047824!2sMendoza%20Province%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463285282!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
     }
 ]

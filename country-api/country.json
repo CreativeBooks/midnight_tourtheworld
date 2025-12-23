@@ -13,7 +13,13 @@
                         "National Museum of Afghanistan",
                         "Darul Aman Palace",
                         "Qargha Lake",
-                        "Ziarat-e Sakhi"
+                        "Ziarat-e Sakhi",
+                        "Kabul Zoo",
+                        "Shah-Do Shamshira Mosque",
+                        "OMAR Mine Museum",
+                        "Chicken Street",
+                        "Eidgah Great Mosque",
+                        "Bibi Mahru Hill (TV Hill)"
                     ],
                     "transportation": {
                         "taxi": "Yellow taxi's are common but don't use meters. App rides are generally safer and prices are clearer.",
@@ -32,9 +38,11 @@
                 "details": {
                     "annual tourists": "1,500",
                     "popular attractions": [
-                        "Blue Mosque",
-                        "Buzakshi Stadium",
-                        "Mazari Sharif"
+                        "Blue Mosque (Shrine of Hazrat Ali)",
+                        "Buzkashi Stadium",
+                        "Ancient City of Balkh (day trip)",
+                        "Takht-e Rustam (Stupa)",
+                        "Mazar-i-Sharif Bazaar"
                     ],
                     "transportation": {
                         "taxi": "Taxis are the most common way for visitors to get around. The fares are cash and negotiated in advance similarily to Kabul.",
@@ -52,10 +60,14 @@
                 "details": {
                     "annual tourists": "400",
                     "popular attractions": [
-                        "Herat Citadel",
-                        "Friday Mosque",
-                        "Khwaja Abd Allah Ansari Shrine",
-                        "Malan Bridge"
+                        "Herat Citadel (Qala Ikhtyaruddin)",
+                        "Great Mosque of Herat (Friday Mosque)",
+                        "Khwaja Abd Allah Ansari Shrine (Gazar Gah)",
+                        "Malan Bridge (Pul-e Malan)",
+                        "Musalla Complex and Minarets",
+                        "Tomb of Jami",
+                        "Herat National Museum",
+                        "Jihad Museum (Military Museum)"
                     ],
                     "transportation": {
                         "taxi": "Taxis are widely available but make sure to agree on the fare before starting the trip.",
@@ -71,7 +83,7 @@
     },
     {
         "name": "Angola",
-        "background-image-url": "https://images.trvl-media.com/place/1997/60fdee01-45f0-4c3d-9b53-ca5e3dca8190.jpg?impolicy=fcrop&w=450&h=280&q=medium",
+        "background-image-url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMcKi6wPFf_o/v0/-1x-1.webp",
         "top_cities": [
             {
                 "rank": 1,
@@ -79,10 +91,15 @@
                 "details": {
                     "annual tourists": "800,000",
                     "popular attractions": [
-                        "Miradouriro da Lua",
+                       "Miradouro da Lua (Viewpoint of the Moon)",
                         "Ilha do Mussulo",
                         "Fortaleza de Sao Miguel",
-                        "Sangano Beach"
+                        "Sangano Beach",
+                        "Palácio de Ferro (Iron Palace)",
+                        "National Museum of Slavery",
+                        "Avenida 4 de Fevereiro (The Marginal)",
+                        "Quiçama National Park (day trip)",
+                        "Ship Graveyard (Praia de Santiago)"
                     ],
                     "transportation": {
                         "taxi": "Most taxis are yellow and blue and they do not always use meters so agree on a fare before starting the trip. Ride-hailing apps like Yango and Heetch are also available in Luanda.",
@@ -100,10 +117,12 @@
                 "details": {
                     "annual tourists": "18,000",
                     "popular attractions": [
-                        "Tundavala",
-                        "Serra da Leba",
-                        "Christ the King Statue",
-                        "Parque da Nossa Senhora do Monte"
+                        "Tundavala Gap",
+                        "Serra da Leba Pass",
+                        "Christ the King Statue (Cristo Rei)",
+                        "Nossa Senhora do Monte",
+                        "Fenda do Bimbe",
+                        "Huila Plateau Waterfall"
                     ],
                     "transportation": {
                         "taxi": "Agree on fare before starting the trip and they are easly found near hotels or central areas. Local ride-hailing apps may be available but are inconsistent.",
@@ -119,50 +138,194 @@
                 "rank": 3,
                 "city_name": "Benguela",
                 "details": {
-                    "annual tourists": "",
-                    "popular attractions": [],
-                    "transportation": {},
-                    "image-url": "",
-                    "map-url": ""
+                    "annual tourists": "15,000",
+                    "popular attractions": [
+                        "Praia Morena",
+                        "Baía Azul (Blue Bay)",
+                        "Cathedral of Our Lady of Pópulo",
+                        "Benguela Railway Station",
+                        "Art Deco Architecture in City Center",
+                        "Caota Beach",
+                        "Sombreiro Viewpoint"
+                    ],
+                    "transportation": {
+                        "taxi": "Blue and white shared taxis (Candongueiros) are the norm, but private taxis are safer for tourists. Always negotiate the fare beforehand.",
+                        "buses": "Intercity buses (Macon) are reliable for getting there, but within the city, minibuses are chaotic and routes are not clearly marked.",
+                        "walking": "The colonial center and beachfront promenade are pleasant and walkable during the day. Exercise caution after dark.",
+                        "airport": "Catumbela Airport serves the city. Taxis are the main way to reach the center, and arranging a transfer through your hotel is recommended."
+                    },
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Palacio_das_Bolas_%2819819765355%29.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62301.93124263719!2d13.355312234354423!3d-12.590772048645642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1bafd10adecd1033%3A0x9f62cf882e30a616!2sBenguela%2C%20Angola!5e0!3m2!1sen!2sus!4v1766458901163!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             }
         ]
     },
     {
         "name": "Albania",
-        "background-image-url": "",
+        "background-image-url": "https://i.natgeofe.com/n/8e7ed875-9ef5-465d-945f-ccdb451e63df/albania.jpg",
         "top_cities": [
             {
                 "rank": 1,
                 "city_name": "Tirana",
                 "details": {
-                    "annual tourists": "",
-                    "popular attractions": [],
-                    "transportation": {},
-                    "image-url": "",
-                    "map-url": ""
+                    "annual tourists": "2,500,000",
+                    "popular attractions": [
+                        "Skanderbeg Square",
+                        "Bunk'Art 1 & 2",
+                        "Dajti Ekspres Cable Car",
+                        "Et'hem Bey Mosque",
+                        "Grand Park of Tirana (Artificial Lake)",
+                        "Pyramid of Tirana",
+                        "House of Leaves Museum",
+                        "National History Museum",
+                        "Blloku District",
+                        "Clock Tower of Tirana"
+                    ],
+                    "transportation": {
+                        "taxi": "Official yellow taxis are metered and generally reliable. Ride-hailing via WhatsApp (Speed Taxi, Merr Taxi) is common; Uber is not available. Airport trips have fixed rates (approx. 20-25 EUR).",
+                        "buses": "City 'Urban' buses are cheap (40 Lek) but often crowded during rush hours. The Rinas Express shuttle runs hourly between the city center and the airport (400 Lek).",
+                        "walking": "The city center is compact and very walkable, especially around Skanderbeg Square and the trendy Blloku district. Sidewalks in the center are wide and well-maintained.",
+                        "airport": "Tirana International Airport (TIA) is about 20-30 minutes by car. Hourly shuttle buses and 24/7 taxis are the primary connection methods."
+                    },
+                    "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/13/e1/76/6a.jpg",
+                    "map-url":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47934.11336687134!2d19.776623561124975!3d41.33317735423635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1350310470fac5db%3A0x40092af10653720!2sTiran%C3%AB%2C%20Albania!5e0!3m2!1sen!2sus!4v1766459555521!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             },
             {
                 "rank": 2,
                 "city_name": "Sarande",
                 "details": {
-                    "annual tourists": "",
-                    "popular attractions": [],
-                    "transportation": {},
-                    "image-url": "",
-                    "map-url": ""
+                    "annual tourists": "800,000",
+                    "popular attractions": [
+                        "Lekuresi Castle",
+                        "Butrint National Park (UNESCO Site)",
+                        "Mirror Beach (Pasqyra)",
+                        "Blue Eye Spring (Syri i Kalter)",
+                        "Saranda Embankment (Xhiro)",
+                        "Synagogue Complex",
+                        "Monastery of 40 Saints",
+                        "Ksamil Islands (day trip)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis gather near the Port and Friendship Park. They rarely use meters, so it is essential to negotiate and agree on the fare before entering.",
+                        "buses": "Public buses run frequently to Ksamil and Butrint (100-200 Lek). They are the most affordable option but get extremely crowded in summer. The main bus station is near the Synagogue ruins.",
+                        "walking": "The 'Xhiro' (evening walk) along the seaside promenade is a cultural staple. The city itself is built on a steep hill, making walking inland physically demanding.",
+                        "airport": "Sarande has no airport. Most visitors arrive via ferry from Corfu, Greece (30-70 mins) or by a 4-5 hour bus/car ride from Tirana."
+                    },
+                    "image-url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/52/9b/cc/sarande.jpg?w=900&h=-1&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40019.73005120775!2d19.960206151237443!3d39.87498223294524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x135b14ffafac5431%3A0xd6d55e7e08a21910!2sSarand%C3%AB%2C%20Albania!5e0!3m2!1sen!2sus!4v1766459679518!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             },
             {
                 "rank": 3,
-                "city_name": "Durres",
+                "city_name": "Durrës",
                 "details": {
-                    "annual tourists": "",
-                    "popular attractions": [],
-                    "transportation": {},
-                    "image-url": "",
-                    "map-url": ""
+                    "annual tourists": "1,500,000",
+                    "popular attractions": [
+                        "Amphitheatre of Durrës",
+                        "Venetian Tower",
+                        "Archaeological Museum",
+                        "Durrës Beach",
+                        "Royal Villa of Durrës (King Zog's Villa)",
+                        "Byzantine Forum (Macellum)",
+                        "Sfinksi (Cape Square)",
+                        "Fatih Mosque",
+                        "Vollga Promenade"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are widely available at the port and along the beach. Always agree on a price beforehand or insist on the meter. Apps are less common than in Tirana.",
+                        "buses": "Durres is a major transport hub with connections to most Albanian cities. Local buses run along the coast to the southern beach areas (Golem/Plepa).",
+                        "walking": "The 'Volga' promenade and the historic town center are pedestrian-friendly. The main beach area stretches for kilometers and is best explored on foot.",
+                        "airport": "Located just 30-40 minutes from Tirana International Airport. A direct shuttle bus (Adis Travel) costs around 600 Lek, or taxis can be hired for ~25-30 EUR."
+                    },
+                    "image-url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/94/b3/3a/durres-castle.jpg?w=1200&h=-1&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95870.98009375!2d19.38395615955221!3d41.331306415890595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134fd97c5fbbbcc7%3A0x77f377eae6cd81ee!2sDurr%C3%ABs%2C%20Albania!5e0!3m2!1sen!2sus!4v1766459782551!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+       "name": "United Arab Emirates",
+        "background-image-url": "https://ralphdeal.s3.amazonaws.com/wp-content/uploads/2024/05/UAE_Blog-321.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Dubai",
+                "details": {
+                    "annual tourists": "17,000,000",
+                    "popular attractions": [
+                        "Burj Khalifa",
+                        "The Dubai Mall",
+                        "Palm Jumeirah",
+                        "Dubai Marina",
+                        "Museum of the Future",
+                        "Dubai Miracle Garden",
+                        "The Dubai Fountain",
+                        "Global Village",
+                        "Al Fahidi Historical Neighbourhood",
+                        "Ski Dubai"
+                    ],
+                    "transportation": {
+                        "taxi": "Ubiquitous and relatively affordable. Use the Hala app (via Careem) for easier booking. Taxis use meters and accept cards or cash.",
+                        "buses": "Extensive network connecting most parts of the city. Requires a Nol card for payment as cash is not accepted on board.",
+                        "walking": "Walkable in specific areas like Dubai Marina, Downtown, and Al Fahidi during cooler months (November to March). Not recommended during summer heat.",
+                        "airport": "Dubai International (DXB) is connected via the Metro Red Line. Taxis and ride-sharing (Uber/Careem) are available 24/7."
+                    },
+                    "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/b7/4d/4f.jpg",
+                    "map-url":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d462563.0327308177!2d54.897827027045196!3d25.075658391797713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43496ad9c645%3A0xbde66e5084295162!2sDubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sus!4v1766460714033!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+               "rank": 2,
+                "city_name": "Abu Dhabi",
+                "details": {
+                    "annual tourists": "4,100,000",
+                    "popular attractions": [
+                        "Sheikh Zayed Grand Mosque",
+                        "Louvre Abu Dhabi",
+                        "Ferrari World Yas Island",
+                        "Qasr Al Watan (Presidential Palace)",
+                        "Yas Waterworld",
+                        "Warner Bros. World",
+                        "Emirates Palace",
+                        "Heritage Village",
+                        "Saadiyat Island",
+                        "Corniche Road"
+                    ],
+                    "transportation": {
+                        "taxi": "Silver taxis are plentiful and metered. Most drivers speak English. Use the 'Abu Dhabi Taxi' app or Careem.",
+                        "buses": "Modern air-conditioned buses cover the city and suburbs. Payment is made via the Hafilat smart card.",
+                        "walking": "The Corniche is a beautiful 8km stretch perfect for walking or cycling. Most other areas require vehicle transport.",
+                        "airport": "Zayed International Airport (AUH) is about 30 minutes from the city center. Airport buses (A1, A2) run 24/7."
+                    },
+                    "image-url": "https://www.cunard.com/content/dam/cunard/inventory-assets/ports/AEA/AEA.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d462563.0327308177!2d54.897827027045196!3d25.075658391797713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e440f723ef2b9%3A0xc7cc2e9341971108!2sAbu%20Dhabi%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sus!4v1766460807197!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Sharjah",
+                "details": {
+                    "annual tourists": "1,800,000",
+                    "popular attractions": [
+                        "Sharjah Art Museum",
+                        "Al Noor Island",
+                        "Blue Souk (Central Souk)",
+                        "Sharjah Museum of Islamic Civilization",
+                        "Al Majaz Waterfront",
+                        "Rain Room",
+                        "Khor Fakkan Beach",
+                        "Sharjah Desert Park",
+                        "Eye of the Emirates Ferris Wheel"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are easily available and essential for getting around. They are metered and have a higher starting rate for trips into Dubai.",
+                        "buses": "The Mowasalat bus service covers the city well and also provides frequent intercity links to Dubai and Ajman.",
+                        "walking": "The Al Majaz and Al Qasba areas are very pedestrian-friendly and popular for evening strolls.",
+                        "airport": "Sharjah International Airport (SHJ) is the hub for Air Arabia. Taxis and public Mowasalat buses connect the airport to the city."
+                    },
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Majaz_2012.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d465136.36276215105!2d53.934661654921285!3d24.38555290020128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5f5fede7964b%3A0x2a830aa19c1f6d89!2sSharjah%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sus!4v1766460926131!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             }
         ]

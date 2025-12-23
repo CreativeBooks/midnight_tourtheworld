@@ -20,7 +20,7 @@ function getURLParameter(name) {
 }
 
 const selectedCountryName = getURLParameter('country');
-const API_URL = 'https://psychic-space-goggles-g4rvq9j7rg6r3p9w7-8000.app.github.dev/countries';
+const API_URL = 'http://127.0.0.1:8000/countries';
 
 async function renderCountryData() {
     const mainContainer = document.getElementById('main-content');

@@ -331,7 +331,6 @@
         ]
     },
     {
-       
         "name": "Argentina",
         "background-image-url": "https://images.ctfassets.net/wv75stsetqy3/Vla3adzOpYEMDyD15GhFI/e6784c316589799c2d02042aefdc2dd6/Argentina.jpg?q=60&fit=fill&fm=webp",
         "top_cities": [
@@ -412,6 +411,760 @@
                     },
                     "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/71/96/93.jpg",
                     "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3359564.2306635547!2d-73.54696628358215!3d-34.68437999238633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9679745b5dd5fffd%3A0x902586f1d047824!2sMendoza%20Province%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463285282!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Armenia",
+        "background-image-url": "https://i.natgeofe.com/n/fb00dd03-20f5-4128-a2bb-62fbee4d754d/Tatev-Monastery_2x1.gif",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Yerevan",
+                "details": {
+                    "annual tourists": "1,200,000",
+                    "popular attractions": [
+                        "The Cascade Complex",
+                        "Republic Square",
+                        "Armenian Genocide Memorial (Tsitsernakaberd)",
+                        "Matenadaran (Ancient Manuscripts Museum)",
+                        "Vernissage Market",
+                        "History Museum of Armenia",
+                        "Blue Mosque",
+                        "Saint Gregory the Illuminator Cathedral",
+                        "Victory Park & Mother Armenia Statue",
+                        "Kond Neighborhood"
+                    ],
+                    "transportation": {
+                        "taxi": "Extremely affordable and the most common way to get around. Ride-hailing apps like Yandex Go and GG are highly recommended over hailing on the street.",
+                        "buses": "The city has a network of buses and 'marshrutkas' (minibuses). There is also a single-line Metro system that is very efficient for crossing the city center.",
+                        "walking": "The city center (Kentron) is highly walkable and designed with many pedestrian streets, parks, and outdoor cafes.",
+                        "airport": "Zvartnots International Airport (EVN) is about 15-20 minutes from the center. The Airport Shuttle bus runs every 30 minutes, and app-based taxis are very cheap."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/29/ac/2d/bild-1.jpg?w=1400&h=1400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195168.42081631377!2d44.32375741985987!3d40.15327357431817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406aa2dab8fc8b5b%3A0x3d1479ae87da526a!2sYerevan%2C%20Armenia!5e0!3m2!1sen!2sus!4v1766498686375!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 2,
+                "city_name": "Gyumri",
+                "details": {
+                    "annual tourists": "150,000",
+                    "popular attractions": [
+                        "Vartanants Square",
+                        "Black Fortress (Sev Berd)",
+                        "Museum of National Architecture and Urban Life",
+                        "Seven Wounds Church",
+                        "Kumayri Historic District",
+                        "Iron Fountain",
+                        "The Statue of Mother Armenia",
+                        "Mher Mkrtchyan Museum"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are the primary mode of transport within the city and are very inexpensive. Walking is preferred for the historic district.",
+                        "buses": "Minibuses connect the different neighborhoods. The city is also connected to Yerevan via a modern high-speed train.",
+                        "walking": "The Kumayri district features beautiful 18th and 19th-century black tuff architecture and is best explored on foot.",
+                        "airport": "Shirak Airport (LWN) serves mainly low-cost carriers and is located just a few kilometers from the city center."
+                    },
+                    "image-url": "https://www.utours.am/webroot/myfiles/images/blog/gy30.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96671.56210067439!2d43.7580048283618!3d40.784314993463894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041fb8b9b34fc9f%3A0x4f4bed0e45f99102!2sGyumri%2C%20Armenia!5e0!3m2!1sen!2sus!4v1766509461948!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+               "rank": 3,
+                "city_name": "Dilijan",
+                "details": {
+                    "annual tourists": "250,000",
+                    "popular attractions": [
+                        "Haghartsin Monastery",
+                        "Goshavank Monastery",
+                        "Lake Parz",
+                        "Dilijan National Park",
+                        "Sharambeyan Street (Old Dilijan)",
+                        "Matosavank Monastery",
+                        "Jukhtak Vank",
+                        "The 'King' and 'Queen' Tree Sculptures"
+                    ],
+                    "transportation": {
+                        "taxi": "Local taxis are available for reaching trailheads and monasteries. Negotiating a daily rate is common for visiting multiple sites.",
+                        "buses": "Marshrutkas run frequently from Yerevan to Dilijan. Within the town, transport is limited to taxis or walking.",
+                        "walking": "Dilijan is known as the 'Armenian Switzerland' and is a premier destination for hiking and walking through forested trails.",
+                        "airport": "There is no local airport; visitors typically drive or take a bus from Yerevan (approx. 1.5 hours)."
+                    },
+                    "image-url": "https://www.wanderlustmagazine.com/wp-content/uploads/2023/10/cropped-shutterstock_520595992.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48375.69987497942!2d44.83271825263478!3d40.729435075786924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041acd13eb6c271%3A0xc2c4cd041074fe13!2sDilijan%2C%20Armenia!5e0!3m2!1sen!2sus!4v1766509546043!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Australia",
+        "background-image-url": "https://hblimg.mmtcdn.com/content/hubble/img/sydney/mmt/destination/m_Sydney_destination_l_571_857.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Sydney",
+                "details": {
+                    "annual tourists": "4,100,000",
+                    "popular attractions": [
+                        "Sydney Opera House",
+                        "Sydney Harbour Bridge",
+                        "Bondi Beach",
+                        "The Rocks",
+                        "Darling Harbour",
+                        "Royal Botanic Garden",
+                        "Taronga Zoo",
+                        "Manly Beach",
+                        "Art Gallery of New South Wales",
+                        "Blue Mountains (day trip)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis and ride-shares (Uber, Ola) are everywhere. Public transport uses the Opal card or contactless credit cards.",
+                        "buses": "An extensive bus, train, and light rail network. Ferries are also a major part of the public transport system and offer great views.",
+                        "walking": "The CBD and harbor foreshore are very walkable. Coastal walks, like the Bondi to Coogee path, are world-famous.",
+                        "airport": "Sydney Airport (SYD) is connected to the city via the Airport Link train (approx. 15 mins) and various shuttle services."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/cf/69/07/sydney-harbour.jpg?w=900&h=500&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d424143.87587871496!2d150.60232037625775!3d-33.84780525229795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b129838f39a743f%3A0x3017d681632a850!2sSydney%20NSW%2C%20Australia!5e0!3m2!1sen!2sus!4v1766513594802!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 2,
+                "city_name": "Melbourne",
+                "details": {
+                    "annual tourists": "3,000,000",
+                    "popular attractions": [
+                        "Federation Square",
+                        "Royal Botanic Gardens Melbourne",
+                        "Queen Victoria Market",
+                        "Melbourne Cricket Ground (MCG)",
+                        "Great Ocean Road (start point)",
+                        "National Gallery of Victoria (NGV)",
+                        "Hosier Lane (Street Art)",
+                        "St Kilda Pier",
+                        "Eureka Skydeck",
+                        "Phillip Island (Penguin Parade)"
+                    ],
+                    "transportation": {
+                        "taxi": "Easily available. Uber is the dominant ride-share. The city is famous for its tram network.",
+                        "buses": "Trams are the primary way to move around the inner city; the 'Free Tram Zone' in the CBD is a major perk for tourists.",
+                        "walking": "The city layout is a grid, making it very easy to navigate on foot, especially through its famous hidden laneways.",
+                        "airport": "Melbourne Airport (MEL) is reached by the SkyBus (runs 24/7) or taxi/ride-share, as there is currently no train link."
+                    },
+                    "image-url": "https://www.cruiseandtravel.co.uk/_gatsby/file/4b9f6add774f6a00098fdfa2f32d358f/98543_iStock-876026224-1024x705.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d805190.2374226892!2d144.3937129755639!3d-37.97072593576685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad646b5d2ba4df7%3A0x4045675218ccd90!2sMelbourne%20VIC%2C%20Australia!5e0!3m2!1sen!2sus!4v1766513661696!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Brisbane",
+                "details": {
+                    "annual tourists": "1,400,000",
+                    "popular attractions": [
+                        "South Bank Parklands",
+                        "Lone Pine Koala Sanctuary",
+                        "Story Bridge",
+                        "Queensland Art Gallery & Gallery of Modern Art (QAGOMA)",
+                        "Mount Coot-tha Lookout",
+                        "City Botanic Gardens",
+                        "Fortitude Valley",
+                        "Moreton Island",
+                        "Brisbane Riverwalk",
+                        "Eat Street Northshore"
+                    ],
+                    "transportation": {
+                        "taxi": "Standard taxis and ride-shares are widely used. TransLink cards (Go Card) or contactless payment are used for public transit.",
+                        "buses": "The city uses buses, trains, and the 'CityCat' ferry service, which is a popular way to travel along the Brisbane River.",
+                        "walking": "South Bank and the CBD are highly pedestrianized. The Howard Smith Wharves area is a popular walkable riverside precinct.",
+                        "airport": "Brisbane Airport (BNE) is connected to the city by the Airtrain (20 mins) and taxis/ride-shares."
+                    },
+                    "image-url": "https://a.storyblok.com/f/112937/568x464/d506d45dbf/10-reasons-to-love-brisbane_1920x1080.jpg/m/620x0/filters:quality(70)/",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d453479.2414135378!2d152.6635370811607!3d-27.381755591946643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b91579aac93d233%3A0x402a35af3deaf40!2sBrisbane%20QLD%2C%20Australia!5e0!3m2!1sen!2sus!4v1766513747128!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Austria",
+        "background-image-url": "https://s1.it.atcdn.net/wp-content/uploads/2019/09/IT_LandingPage_HeaderImage_Austria_2019_Sept.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Vienna",
+                "details": {
+                    "annual tourists": "7,500,000",
+                    "popular attractions": [
+                        "Schönbrunn Palace",
+                        "St. Stephen's Cathedral",
+                        "The Hofburg",
+                        "Belvedere Museum",
+                        "Vienna State Opera",
+                        "Prater Amusement Park",
+                        "Museumsquartier",
+                        "Kunsthistorisches Museum",
+                        "Naschmarkt",
+                        "Albertina"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are reliable and metered. Ride-sharing apps like Uber and Bolt are widely available. Taxis can be found at designated stands or hailed via phone apps.",
+                        "buses": "Vienna has an exceptional public transport system including U-Bahn (metro), trams, and buses. A single ticket covers all modes within the city zone.",
+                        "walking": "The Innere Stadt (District 1) is highly pedestrianized and very walkable. Most major historic sites are within comfortable walking distance of each other.",
+                        "airport": "Vienna International Airport (VIE) is connected by the City Airport Train (CAT), the S-Bahn (S7), and various airport bus lines."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/8a/25/5d/caption.jpg?w=500&h=400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d170131.1410265772!2d16.214834766290313!3d48.22011533304524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d079e5136ca9f%3A0xfdc2e58a51a25b46!2sVienna%2C%20Austria!5e0!3m2!1sen!2sus!4v1766514034125!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 2,
+                "city_name": "Salzburg",
+                "details": {
+                    "annual tourists": "3,000,000",
+                    "popular attractions": [
+                        "Hohensalzburg Fortress",
+                        "Mirabell Palace and Gardens",
+                        "Mozart's Birthplace",
+                        "Salzburg Cathedral",
+                        "Getreidegasse",
+                        "Hellbrunn Palace & Trick Fountains",
+                        "Residenzplatz",
+                        "Hangar-7",
+                        "St. Peter's Abbey"
+                    ],
+                    "transportation": {
+                        "taxi": "Readily available at the train station and major plazas. Prices are regulated and vehicles are high-quality.",
+                        "buses": "The city uses an efficient trolleybus (Obus) system. The Salzburg Card offers unlimited use of public transport and free entry to many sights.",
+                        "walking": "The Old Town (Altstadt) is a UNESCO World Heritage site and is almost entirely pedestrianized, making walking the ideal way to explore.",
+                        "airport": "Salzburg Airport (SZG) is the second largest in Austria and is located just 20 minutes from the city center by bus line 2 or 10."
+                    },
+                    "image-url": "https://pohcdn.com/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/Salzburger-1.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d85756.79641437554!2d12.974179203016236!3d47.80277636524865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47769adda908d4b1%3A0xc1e183a1412af73d!2sSalzburg%2C%20Austria!5e0!3m2!1sen!2sus!4v1766514103290!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Innsbruck",
+                "details": {
+                    "annual tourists": "1,500,000",
+                    "popular attractions": [
+                        "Golden Roof (Goldenes Dachl)",
+                        "Nordkette Cable Car",
+                        "Ambras Castle",
+                        "Bergisel Ski Jump",
+                        "Imperial Palace (Hofburg)",
+                        "Court Church (Hofkirche)",
+                        "Swarovski Crystal Worlds (nearby)",
+                        "Alpenzoo Innsbruck-Tirol",
+                        "Maria-Theresien-Strasse"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are found at the main station and central hubs. They are the best option for late-night travel after public transport stops.",
+                        "buses": "An integrated network of trams and buses covers the city and surrounding villages. The Hungerburgbahn funicular is a unique part of the transport system.",
+                        "walking": "The medieval Altstadt is compact and easily explored on foot. Many hiking trails are accessible directly from the city edges.",
+                        "airport": "Innsbruck Airport (INN) is very close to the city center, reachable in approximately 15 minutes by bus line F."
+                    },
+                    "image-url": "https://www.jufahotels.com/wp-content/uploads/2024/08/christkindlmarkt-innsbruck-berge-jufa-hotels-scaled-1620x1080.jpg.webp",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d86607.48522191575!2d11.222908786202307!3d47.28534225006783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479d6ecfe1f8ca73%3A0x9d201c7d281d9b0d!2sInnsbruck%2C%20Austria!5e0!3m2!1sen!2sus!4v1766514164405!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Azerbaijan",
+        "background-image-url": "https://www.tataneu.com/pages/travel/_next/image?url=https%3A%2F%2Fd1msew97rp2nin.cloudfront.net%2Fprodin%2Ftntravel%2Fblogimages%2F7-must-see-places-to-visit-in-azerbaijan-this-vacation-e084415b-d92b-4dc8-bc14-dab7e4376a55.webp&w=3840&q=75",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Baku",
+                "details": {
+                    "annual tourists": "2,000,000",
+                    "popular attractions": [
+                        "Flame Towers",
+                        "Heydar Aliyev Center",
+                        "Icherisheher (Old City)",
+                        "Maiden Tower",
+                        "Baku Boulevard",
+                        "Palace of the Shirvanshahs",
+                        "Azerbaijan Carpet Museum",
+                        "Mud Volcanoes (day trip)",
+                        "Nizami Street",
+                        "Gobustán National Park (day trip)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are plentiful and cheap. Bolt is the most popular and reliable ride-hailing app. Official 'London-style' purple taxis are also common.",
+                        "buses": "The BakuCard is used for modern red buses and the Baku Metro. The metro is efficient and famous for its ornate station designs.",
+                        "walking": "The Boulevard and the Old City are perfect for pedestrians. Central Baku is very walkable, though some streets are hilly.",
+                        "airport": "Heydar Aliyev International Airport (GYD) is connected to the city by the Airport Express bus which runs every 30-60 minutes to 28 May Metro station."
+                    },
+                    "image-url": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2024/07/18163215/Baku-city-1-1600x900.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d194473.5237705193!2d49.69014997544802!3d40.39447551052464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307d6bd6211cf9%3A0x343f6b5e7ae56c6b!2sBaku%2C%20Azerbaijan!5e0!3m2!1sen!2sus!4v1766514408676!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 2,
+                "city_name": "Ganja",
+                "details": {
+                    "annual tourists": "120,000",
+                    "popular attractions": [
+                        "Nizami Ganjavi Mausoleum",
+                        "Shah Abbas (Juma) Mosque",
+                        "Bottle House",
+                        "Ganja City Park (Khan's Garden)",
+                        "Lake Goygol (nearby)",
+                        "Chokak Hamam",
+                        "Imamzadeh Mausoleum",
+                        "Ganja State Philharmonic Hall"
+                    ],
+                    "transportation": {
+                        "taxi": "Local taxis are the main way for tourists to get around. It is best to agree on a price beforehand or use a ride-hailing app if available.",
+                        "buses": "Marshrutkas (minibuses) serve most parts of the city and connect to the nearby regions and Baku.",
+                        "walking": "The central area around the Khan's Garden and the main boulevard is very walkable and pleasant.",
+                        "airport": "Ganja International Airport (KVD) has flights from Baku and Russia. Taxis are the most reliable way to reach the city center from there."
+                    },
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/G%C9%99nc%C9%99d%C9%99_Triumfal_Arka.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96803.9074420627!2d46.21278419931339!3d40.69330830513594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x403f50fd8d5a9991%3A0xbe3f536560c50969!2sGanja%2C%20Azerbaijan!5e0!3m2!1sen!2sus!4v1766514497604!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Sheki",
+                "details": {
+                    "annual tourists": "100,000",
+                    "popular attractions": [
+                        "Palace of Sheki Khans",
+                        "Sheki Karvansaray",
+                        "Church of Kish (Albanian Church)",
+                        "Sheki Fortress",
+                        "Gelersen-Gerersen Fortress",
+                        "Sheki History Museum",
+                        "House of Sheki Khanovs",
+                        "Local Sweet Shops (Halva)"
+                    ],
+                    "transportation": {
+                        "taxi": "Local taxis are cheap and can be used to reach the Kish village or the fortress ruins outside the main town.",
+                        "buses": "Minibuses are the standard for travel within the town and for moving between the upper and lower parts of the city.",
+                        "walking": "The historic center of Sheki is a UNESCO site and is best explored on foot due to its narrow, cobbled streets.",
+                        "airport": "There is no active commercial airport in Sheki; most visitors arrive by bus or private car from Baku (approx. 4-5 hours)."
+                    },
+                    "image-url": "https://www.remotelands.com/storage/media/5335/conversions/b210929007-banner-size.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96060.52501247688!2d47.08121916329728!3d41.20234103340222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x404787c6c2deab39%3A0xa57076df3a269f4c!2sSheki%2C%20Azerbaijan!5e0!3m2!1sen!2sus!4v1766514565190!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Belgium",
+        "background-image-url": "https://www.pamojatoursandtravel.com/wp-content/uploads/2025/07/Karera-falls-1024x675-1.webp",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Bujumbura",
+                "details": {
+                    "annual tourists": "250,000",
+                    "popular attractions": [
+                        "Lake Tanganyika Beaches (Saga Beach)",
+                        "Rusizi National Park",
+                        "Livingstone-Stanley Monument",
+                        "Bujumbura Central Market",
+                        "Museé Vivant (Open-air Museum)",
+                        "Monument de l'Unité",
+                        "Islamic Cultural Centre",
+                        "Prince Louis Rwagasore Stadium",
+                        "Kigwena Forest Nature Reserve",
+                        "Bora Bora Beach Club"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are available but do not use meters; negotiating the price beforehand is mandatory. For higher security and reliability, hotel-arranged taxis are recommended.",
+                        "buses": "Minibuses and 'coaster' buses are the primary public transport. They are cheap but often overcrowded and follow irregular schedules.",
+                        "walking": "The city center is relatively small, but walking long distances is not common for tourists due to safety concerns and humidity. Beach areas are pleasant for walking during the day.",
+                        "airport": "Bujumbura International Airport (BJM) is the main gateway. It is located about 15-20 minutes from the city center. Taxis are the only reliable connection."
+                    },
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/BujumburaFromCathedral.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127452.71045083311!2d29.271977120504612!3d-3.3752972173712896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19c1830f28a035a3%3A0xfeba9b97b50a4c3!2sBujumbura%2C%20Burundi!5e0!3m2!1sen!2sus!4v1766514932968!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+             "rank": 2,
+                "city_name": "Gitega",
+                "details": {
+                    "annual tourists": "45,000",
+                    "popular attractions": [
+                        "Gishora Drum Sanctuary",
+                        "National Museum of Gitega",
+                        "Ibwami (Royal Court)",
+                        "Gitega Church",
+                        "Chutes de la Kagera (Waterfalls)",
+                        "Mount Heha Hiking",
+                        "Ruvubu National Park",
+                        "Gitega Art School"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are less frequent than in Bujumbura. Most people rely on 'mototaxis' (motorcycles), which are fast but carry safety risks.",
+                        "buses": "Intercity buses connect Gitega to Bujumbura and other major towns daily. Inside the city, shared minibuses follow set routes.",
+                        "walking": "The central administrative area and museum district are walkable. The town is situated on a hill, so expect some steep inclines.",
+                        "airport": "There is no active commercial airport; visitors typically travel by road from Bujumbura (approx. 2-3 hours)."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/d0/af/7a/adjacent-to-the-hotel.jpg?w=1100&h=1100&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63722.380897196!2d29.877785143538887!3d-3.4353500139751914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19c14452ea1ca4e7%3A0x42aade0278ba3d8e!2sGitega%2C%20Burundi!5e0!3m2!1sen!2sus!4v1766515003351!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+             "rank": 3,
+                "city_name": "Ngozi",
+                "details": {
+                    "annual tourists": "15,000",
+                    "popular attractions": [
+                        "Ngozi Cathedral",
+                        "Lake Cohoha",
+                        "Lake Rweru",
+                        "Birds Lake (Lake Rwihinda)",
+                        "Local Coffee Plantations",
+                        "Ngozi City Market",
+                        "Agasumo ka Mwaro Waterfalls (nearby)"
+                    ],
+                    "transportation": {
+                        "taxi": "Private taxis are scarce; mototaxis are the primary means of moving quickly between points. Fares should be settled before the ride.",
+                        "buses": "Buses from Bujumbura and Gitega arrive at the main transport hub. Local travel is dominated by shared minibuses.",
+                        "walking": "The town is compact and easily navigated on foot, though it is primarily a commercial and agricultural hub rather than a tourist center.",
+                        "airport": "No local airport; the journey from Bujumbura takes roughly 3.5 to 4 hours by car or bus."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/55/d7/07/img-20181111-132359-largejpg.jpg?w=600&h=400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63755.0478665625!2d29.74802910781195!3d-2.9051887165304353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19c395c892983515%3A0x6e532ed13010e115!2sNgozi%2C%20Burundi!5e0!3m2!1sen!2sus!4v1766515070851!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Belgium",
+        "background-image-url": "https://cdn.adventure-life.com/10/76/26/Ghent_Belgium/1300x820.webp",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Brussels",
+                "details": {
+                    "annual tourists": "9,400,000",
+                    "popular attractions": [
+                        "Grand Place",
+                        "Atomium",
+                        "Manneken Pis",
+                        "Royal Palace of Brussels",
+                        "Mini-Europe",
+                        "Magritte Museum",
+                        "Parc du Cinquantenaire",
+                        "Saint-Michel Cathedral",
+                        "Comic Strip Center",
+                        "European Parliament (Parlamentarium)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are expensive and strictly regulated. Ride-sharing like Uber is active. Most visitors prefer the integrated STIB/MIVB metro, tram, and bus network.",
+                        "buses": "Buses and trams are frequent. A STIB ticket works for all city transport. The 'Brussels Card' provides unlimited transport and museum access.",
+                        "walking": "The central historic core (UNESCO area) is largely pedestrianized and very walkable. Distances between major landmarks like Grand Place and Manneken Pis are short.",
+                        "airport": "Brussels Airport (BRU) is connected by a direct train (15 mins). Brussels South Charleroi (CRL) is 60km away and requires a shuttle bus (Flibco)."
+                    },
+                    "image-url": "https://worldstrides.com/_next/image?url=https%3A%2F%2Fwst-p-001.sitecorecontenthub.cloud%2Fapi%2Fpublic%2Fcontent%2F4d536dbdcf3740d3ac71cd42163b9c9f%3Fv%3De7c01b14%26ampt%3D4x3w590&w=1920&q=75",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80598.65185333793!2d4.293016272356302!3d50.85509369049265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3a4ed73c76867%3A0xc18b3a66787302a7!2sBrussels%2C%20Belgium!5e0!3m2!1sen!2sus!4v1766515462793!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Bruges",
+                "details": {
+                    "annual tourists": "8,000,000",
+                    "popular attractions": [
+                        "Belfry of Bruges",
+                        "Market Square (Markt)",
+                        "Lake of Love (Minnewater)",
+                        "Church of Our Lady (Michelangelo’s Madonna)",
+                        "Basilica of the Holy Blood",
+                        "Historium Bruges",
+                        "Groeninge Museum",
+                        "Choco-Story (Chocolate Museum)",
+                        "Begijnhof (Beguinage)",
+                        "Canal Boat Tours"
+                    ],
+                    "transportation": {
+                        "taxi": "Rarely needed inside the city; mostly used for transport to the train station or hotels outside the ring road.",
+                        "buses": "De Lijn buses serve the city and connect to the railway station, but the historic center is mostly restricted for vehicles.",
+                        "walking": "Bruges is best explored on foot. The entire historic center is a UNESCO site and is compact enough to cross in 20-30 minutes.",
+                        "airport": "No local airport; most arrive via train from Brussels (approx. 1 hour)."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/1b/5f/81/the-beautiful-grand-marketplac.jpg?w=900&h=500&s=1",
+                    "map-url": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d159791.4558975472!2d3.057304055747861!3d51.260668756379175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c350d0c11e420d%3A0x1aa2f35ac8834df7!2sBruges%2C%20Belgium!5e0!3m2!1sen!2sus!4v1766515528595!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Antwerp",
+                "details": {
+                    "annual tourists": "2,200,000",
+                    "popular attractions": [
+                        "Antwerp Central Station",
+                        "Cathedral of Our Lady",
+                        "MAS (Museum aan de Stroom)",
+                        "Rubens House",
+                        "Plantin-Moretus Museum",
+                        "Antwerp Zoo",
+                        "Diamond District",
+                        "The Steen (Fortress)",
+                        "Grote Markt",
+                        "MoMu (Fashion Museum)"
+                    ],
+                    "transportation": {
+                        "taxi": "Available at major hubs. Ride-sharing (Uber) is also an option. The city is famous for its efficient pre-metro (underground tram) system.",
+                        "buses": "The tram and bus network (De Lijn) is extensive. Antwerp is also very bike-friendly, with a popular city-bike sharing scheme (Velo).",
+                        "walking": "The area between the Central Station and the Scheldt River is highly walkable, featuring the Meir (main shopping street) and historic squares.",
+                        "airport": "Antwerp International Airport (ANR) has limited flights. Most visitors use Brussels Airport (BRU) and take a 30-minute direct train."
+                    },
+                    "image-url": "https://youshouldgohere.com/wp-content/uploads/2016/04/DSC00816.jpg",
+                    "map-url": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d159792.49267505598!2d4.198515005671335!3d51.26037050611157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3f68ebfc3887d%3A0x3eaf448482a88ab8!2sAntwerp%2C%20Belgium!5e0!3m2!1sen!2sus!4v1766515577892!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Benin",
+        "background-image-url": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/267000/267397-Abomey.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Cotonou",
+                "details": {
+                    "annual tourists": "350,000",
+                    "popular attractions": [
+                        "Dantokpa Market",
+                        "Etoile Rouge (Red Star Square)",
+                        "Fidjrosse Beach",
+                        "Cotonou Cathedral",
+                        "Artisanal Center",
+                        "Amazon Statue (Esplanade des Amazones)",
+                        "Martyrs' Monument",
+                        "Fondation Zinsou",
+                        "Obama Beach",
+                        "Place de l'Indépendance"
+                    ],
+                    "transportation": {
+                        "taxi": "Traditional taxis exist, but 'Zémidjans' (motorcycle taxis) are the icon of Cotonou transport. They are fast, cheap, and everywhere; agree on a price before hopping on.",
+                        "buses": "There is no formal municipal bus system. Shared minibuses ('tokpa-tokpa') follow vague routes and are generally avoided by tourists for comfort reasons.",
+                        "walking": "Parts of the city like the beach road (Route des Pêches) are walkable, but the city is sprawling, dusty, and traffic-heavy, making walking less practical for long distances.",
+                        "airport": "Cotonou Cadjehoun International Airport (COO) is located within the city. Taxis and hotel shuttles are the main transport options."
+                    },
+                    "image-url": "https://sandee.com/_next/image?url=https%3A%2F%2Fcdn.sandee.com%2F58903_1050_700.avif&w=3840&q=75",
+                    "map-url": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253770.7969786813!2d2.0843186300683487!3d6.372208983727865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x102354e509f894f7%3A0xc8fde921f89849f6!2sCotonou%2C%20Benin!5e0!3m2!1sen!2sus!4v1766516055075!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Ganvie",
+                "details": {
+                    "annual tourists": "100,000",
+                    "popular attractions": [
+                        "Stilt Houses Tour",
+                        "The Water Market",
+                        "Lake Nokoué",
+                        "Local Fishing Workshops",
+                        "Ganvie Lovers' Lane (Water canal)",
+                        "Traditional Pirogue rides",
+                        "Bird watching on Lake Nokoué"
+                    ],
+                    "transportation": {
+                        "taxi": "There are no cars in Ganvie. Taxis from Cotonou bring you to the Abomey-Calavi pier.",
+                        "buses": "Not applicable inside the village.",
+                        "walking": "Not possible; the entire village is on water. All transport is by boat (pirogue). Some guest houses have small platforms, but travel is strictly by water.",
+                        "airport": "Travelers use Cotonou Airport and then take a 30-minute drive to the pier."
+                    },
+                    "image-url": "https://media.cntraveler.com/photos/53e2eecfdddaa35c30f65275/master/pass/ganvie-benin-village.maphead.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7928.806487633219!2d2.407121641227169!3d6.470496224084829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1024ab9f452525cf%3A0x45da8a96be602994!2sGanvie%2C%20Benin!5e0!3m2!1sen!2sus!4v1766516106476!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Ouidah",
+                "details": {
+                    "annual tourists": "80,000",
+                    "popular attractions": [
+                        "Door of No Return",
+                        "Route des Esclaves (Slave Route)",
+                        "Temple of Pythons",
+                        "Sacred Forest of Kpassè",
+                        "Ouidah Museum of History (Portuguese Fort)",
+                        "Zinsou Museum (Villa Ajavon)",
+                        "Basilica of the Immaculate Conception",
+                        "Voodoo Festival Site"
+                    ],
+                    "transportation": {
+                        "taxi": "Zémidjans are the most common way to get between sites like the town center and the beach. Private cars can be hired for the day from Cotonou.",
+                        "buses": "Intercity vans run frequently from Cotonou (approx. 45 mins - 1 hour).",
+                        "walking": "The town center is walkable, and many visitors choose to walk the 4km 'Slave Route' from the city to the beach to see the various monuments.",
+                        "airport": "No local airport; easy access via the paved highway from Cotonou."
+                    },
+                    "image-url": "https://cdn.britannica.com/77/162077-050-D5C1B169/No-Return-Ouidah-Gate-lives-slaves-beach.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63443.1088271978!2d2.0031626957222093!3d6.368895905500789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x102361980628a263%3A0xaec20944ccfbc4ee!2sOuidah%2C%20Benin!5e0!3m2!1sen!2sus!4v1766516185858!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Burkina Faso",
+        "background-image-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Moschee_von_Bobo-Dioulasso.jpg/250px-Moschee_von_Bobo-Dioulasso.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Ouagadougou",
+                "details": {
+                    "annual tourists": "185,000",
+                    "popular attractions": [
+                        "Grand Marché (Rood-Woko)",
+                        "Village Artisanal de Ouagadougou",
+                        "National Museum of Music",
+                        "Monument of National Heroes",
+                        "Cathédrale de l'Immaculée-Conception",
+                        "Bangr Weogo Park",
+                        "National Museum of Burkina Faso",
+                        "Laongo Sculpture Park",
+                        "Manega Museum",
+                        "Sacred Crocodiles of Bazoulé"
+                    ],
+                    "transportation": {
+                        "taxi": "Green taxis are ubiquitous but are usually shared; for a private ride, ask for a 'déplacement' and negotiate the fare upfront.",
+                        "buses": "The SOTRACO city buses are cheap but infrequent; most locals use motorcycles, and tourists often hire private cars with drivers.",
+                        "walking": "The city center is manageable, but long-distance walking is discouraged due to extreme heat, dust, and heavy traffic.",
+                        "airport": "Ouagadougou International Airport (OUA) is located nearly in the city center; taxis are the only practical way to reach your hotel."
+                    },
+                    "image-url": "https://discover-burkinafaso.com/wp-content/uploads/2020/07/Monument_des_martyrs.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124715.67320133296!2d-1.6192451794443985!3d12.35847966176332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xe2e95ecceaa44cd%3A0x799f67799c743b8b!2sOuagadougou%2C%20Burkina%20Faso!5e0!3m2!1sen!2sus!4v1766516759751!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Bobo-Dioulasso",
+                "details": {
+                    "annual tourists": "50.000",
+                    "popular attractions": [
+                        "Velika džamija (Grande Mosquée)",
+                        "Stari grad (Kibyra)",
+                        "Kulturni centar Sogossira Sanon",
+                        "Musée Communal Sogossira Sanon",
+                        "Sveti somovi u Dafri",
+                        "Tržnica rukotvorina",
+                        "Željeznički kolodvor (arhitektura)",
+                        "Noćni klubovi s glazbom uživo"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are the primary way to get around and are generally cheaper than in the capital; motorbike taxis are also available.",
+                        "buses": "Regular bus lines connect Bobo to Ouagadougou (approx. 5-6 hours); within the city, minibuses are rare.",
+                        "walking": "The historic Sya district and the area around the Grand Mosque are excellent for exploring on foot with a local guide.",
+                        "airport": "Bobo-Dioulasso Airport (BOY) has limited flights, primarily connecting to Ouagadougou."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/16/8e/20/photo0jpg.jpg?w=1400&h=1400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62626.513673948284!2d-4.343748186794277!3d11.17600123336927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xe34fb9f7d86d13f%3A0xa0e9136b20d27170!2sBobo-Dioulasso%2C%20Burkina%20Faso!5e0!3m2!1sen!2sus!4v1766516821866!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Banfora",
+                "details": {
+                    "annual tourists": "30.000",
+                    "popular attractions": [
+                        "Slapovi Banfora (Cascades de Karfiguéla)",
+                        "Dômes de Fabédougou",
+                        "Jezero Tengréla (promatranje vodenkonja)",
+                        "Polja šećerne trske",
+                        "Planine Sindou (izlet)",
+                        "Lokalne tržnice",
+                        "Šuma Niangoloko"
+                    ],
+                   "transportation": {
+                        "taxi": "Taxis are rare; it is best to hire a driver for the day to visit the waterfalls and the domes.",
+                        "buses": "Banfora is connected by bus to Bobo-Dioulasso (1.5 hours) and is a stop on the railway line leading to Abidjan.",
+                        "walking": "The town itself is small, but the main natural attractions are 10-15km away, requiring a vehicle or bicycle.",
+                        "airport": "No local airport; visitors typically arrive by road or train from Bobo-Dioulasso."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5c/77/4b/les-cascades-de-banfora.jpg?w=1400&h=1400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62738.45875532249!2d-4.7969709888029906!3d10.645167360771902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xe354a578603b01f%3A0x8deccdaec9e08fb2!2sBanfora%2C%20Burkina%20Faso!5e0!3m2!1sen!2sus!4v1766516896550!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Bangladesh",
+        "background-image-url": "https://toursntripsbd.com/wp-content/uploads/2020/11/cover-22.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Dhaka",
+                "details": {
+                    "annual tourists": "600,000",
+                    "popular attractions": [
+                        "Lalbagh Fort",
+                        "Ahsan Manzil (Pink Palace)",
+                        "Dhakeshwari Temple",
+                        "National Parliament House (Jatiya Sangsad Bhaban)",
+                        "Star Mosque (Tara Masjid)",
+                        "Ramna Park",
+                        "Bangladesh National Museum",
+                        "Shaheed Minar",
+                        "Sonargaon (Old Capital)",
+                        "Buriganga River Boat Ride"
+                    ],
+                    "transportation": {
+                        "taxi": "Air-conditioned taxis are available, but rickshaws and CNGs (auto-rickshaws) rule the streets; Uber and Pathao are popular for avoiding haggling.",
+                        "buses": "City buses are extremely crowded and difficult for foreigners to navigate; the new Metro Rail (MRT) is a modern and fast alternative.",
+                        "walking": "Walking is challenging due to immense crowds and chaotic traffic, except within specific residential areas like Gulshan.",
+                        "airport": "Hazrat Shahjalal International Airport (DAC) is connected by taxis and ride-sharing apps; traffic to the center can take hours."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/79/53/5a/caption.jpg?w=300&h=300&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233668.06396734415!2d90.25487749489973!3d23.780753031584876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8b087026b81%3A0x8fa563bbdd5904c2!2sDhaka%2C%20Bangladesh!5e0!3m2!1sen!2sus!4v1766517270781!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Cox's Bazar",
+                "details": {
+                    "annual tourists": "2,000,000",
+                    "popular attractions": [
+                        "Cox's Bazar Beach (Longest in the world)",
+                        "Inani Beach",
+                        "Himchari National Park",
+                        "Saint Martin's Island",
+                        "Aggmeda Khyang Buddhist Monastery",
+                        "Radiant Fish World",
+                        "Dulahazra Safari Park",
+                        "Marine Drive Road"
+                    ],
+                    "transportation": {
+                        "taxi": "Electric 'Easy-bikes' are the most common way to move along the coast; private cars can be hired for trips to remote beaches.",
+                        "buses": "Luxury AC buses connect Cox's Bazar to Dhaka (10-12 hours); within the city, rickshaws are the standard.",
+                        "walking": "Long walks on the sandy beach are the main activity; the tourist zone along the beachfront is safe and pedestrian-friendly.",
+                        "airport": "Cox's Bazar Airport (CXB) has frequent flights to Dhaka; taxis are readily available at the terminal."
+                    },
+                    "image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDx0Dba489-IG3uiLUI6RZtY3PcvaExbtiRw&s",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118842.0236591091!2d91.83696380430366!3d21.43658459871024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc7ea2ab928c3%3A0x3b539e0a68970810!2sCox&#39;s%20Bazar%2C%20Bangladesh!5e0!3m2!1sen!2sus!4v1766517357363!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+               "rank": 3,
+                "city_name": "Sylhet",
+                "details": {
+                    "annual tourists": "150,000",
+                    "popular attractions": [
+                        "Tea Gardens (Malnicherra)",
+                        "Hazrat Shah Jalal Mazar",
+                        "Ratargul Swamp Forest",
+                        "Jaflong",
+                        "Bisnakandi",
+                        "Lala Khal River",
+                        "Keane Bridge",
+                        "Lawachara National Park"
+                    ],
+                    "transportation": {
+                        "taxi": "CNG auto-rickshaws are the standard; for visiting remote attractions like Jaflong, hiring a private jeep is recommended.",
+                        "buses": "Local buses are slow; most tourists prefer using private drivers to tour the tea estates and natural sites.",
+                        "walking": "The areas around the tea gardens are beautiful for light walks, while the city center is noisy and best navigated by vehicle.",
+                        "airport": "Osmani International Airport (ZYL) receives flights from Dhaka and London; taxis to the city take about 20 minutes."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/1e/4a/33/pangthumai-waterfall.jpg?w=600&h=500&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57903.06236004458!2d91.81983584790224!3d24.89998049303097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375054d3d270329f%3A0xf58ef93431f67382!2sSylhet%2C%20Bangladesh!5e0!3m2!1sen!2sus!4v1766517423779!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             }
         ]

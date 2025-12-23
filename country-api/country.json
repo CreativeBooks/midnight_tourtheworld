@@ -1417,5 +1417,85 @@
                 }
             }
         ]
+    },
+     {
+        "name": "Belize",
+        "background-image-url": "https://www.anywhere.com/img-a/belize/destinations/ambergris-caye/ambergis-caye.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "San Pedro (Ambergris Caye)",
+                "details": {
+                    "annual tourists": "250,000",
+                    "popular attractions": [
+                        "Hol Chan Marine Reserve",
+                        "Shark Ray Alley",
+                        "Secret Beach",
+                        "The Truck Stop",
+                        "Belize Barrier Reef",
+                        "Bacalar Chico National Park",
+                        "Mexico Rocks",
+                        "Great Blue Hole (flyover tours)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are available but most people use golf carts. If using a taxi, agree on the BZD price before starting.",
+                        "buses": "There are no public buses on the island. Movement is limited to boats, golf carts, and bicycles.",
+                        "walking": "The main town area is very small and walkable, but the island is long; you will need transport to reach Secret Beach or the northern end.",
+                        "airport": "San Pedro Airport (SPR) receives frequent small-plane flights from Belize City (15 mins). Water taxis from the mainland are a cheaper alternative (1.5 hours)."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/45/4b/4e/san-pedro.jpg?w=1400&h=1400&s=1",
+                    "map-url": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30371.093240743514!2d-87.99746963304041!3d17.91411096617976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5c9ba0a413f6f9%3A0xf76bf0d49a91fdbc!2sSan%20Pedro%2C%20Belize!5e0!3m2!1sen!2sus!4v1766519725163!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+                }
+            },
+            {
+              "rank": 2,
+                "city_name": "Belize City",
+                "details": {
+                    "annual tourists": "1,000,000 (including cruise)",
+                    "popular attractions": [
+                        "Belize Zoo (nearby)",
+                        "Museum of Belize",
+                        "St. John’s Cathedral",
+                        "Baron Bliss Lighthouse",
+                        "Government House",
+                        "Old Belize Exhibit",
+                        "Swing Bridge",
+                        "Altun Ha Maya Ruins (day trip)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are not metered; set a price beforehand. Green license plates signify authorized taxis.",
+                        "buses": "The main bus terminal connects to all districts in Belize. Within the city, buses are basic and often crowded.",
+                        "walking": "Walking is okay in the Tourism Village and Fort George areas, but it is not recommended for tourists to walk long distances or explore outside the center at night.",
+                        "airport": "Philip S.W. Goldson International (BGP) is 15km from the city. Taxis have a fixed rate (~$25 USD)."
+                    },
+                    "image-url": "",
+                    "map-url": ""
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Caye Caulker",
+                "details": {
+                    "annual tourists": "120,000",
+                    "popular attractions": [
+                        "The Split",
+                        "Koko King",
+                        "Stingray Beach",
+                        "Caye Caulker Marine Reserve",
+                        "Swallow Caye Wildlife Sanctuary",
+                        "Caye Caulker Forest Reserve",
+                        "Sirenian Station"
+                    ],
+                    "transportation": {
+                        "taxi": "The 'taxis' here are golf carts. There are no cars on the island.",
+                        "buses": "None. The island’s motto is 'Go Slow'.",
+                        "walking": "Everything on the island is within a 15-minute walk. The roads are made of sand and unpaved.",
+                        "airport": "Caye Caulker Airport (CUK) is served by Tropic Air and Maya Island Air. Most visitors arrive via water taxi from Belize City or San Pedro."
+                    },
+                    "image-url": "",
+                    "map-url": ""
+                }
+            }
+        ]
     }
 ]

@@ -1168,5 +1168,254 @@
                 }
             }
         ]
+    },
+    {
+        "name": "Bulgaria",
+        "background-image-url": "https://assets.vogue.com/photos/66cf9fcf8e300baeca058f80/4:3/w_2560%2Cc_limit/1303587513",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Sofia",
+                "details": {
+                    "annual tourists": "1,300,000",
+                    "popular attractions": [
+                        "Alexander Nevsky Cathedral",
+                        "Saint Sophia Church",
+                        "Saint George Rotunda",
+                        "National Palace of Culture (NDK)",
+                        "Vitosha Boulevard",
+                        "National Historical Museum",
+                        "Vitosha Mountain",
+                        "Boyana Church (UNESCO)",
+                        "Serdica Ancient Complex",
+                        "Ivan Vazov National Theatre"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are affordable; use reputable companies like Yellow or OK Supertrans. The TaxiMe app is highly recommended.",
+                        "buses": "An excellent system of metro, trams, and trolleybuses; tickets can be purchased using contactless cards directly on the vehicle.",
+                        "walking": "The city center is compact and full of pedestrian zones; many Roman ruins are located below street level in pedestrian underpasses.",
+                        "airport": "Sofia Airport (SOF) is connected to the city center via Metro Line 1 (approx. 20 mins)."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/ba/ec/57/caption.jpg?w=500&h=400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187673.40777378902!2d23.159138639384572!3d42.695314017865726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40aa8682cb317bf5%3A0x400a01269bf5e60!2sSofia%2C%20Bulgaria!5e0!3m2!1sen!2sus!4v1766518008841!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Plovdiv",
+                "details": {
+                    "annual tourists": "800,000",
+                    "popular attractions": [
+                        "Ancient Roman Theatre",
+                        "Old Town (Revival Architecture)",
+                        "Roman Stadium",
+                        "Kapana Art District",
+                        "Nebet Tepe Hill",
+                        "Ethnographic Museum",
+                        "Dzhumaya Mosque",
+                        "Alyosha Monument"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are very accessible and the fastest way to move outside of the pedestrian-only zones.",
+                        "buses": "City buses cover the entire city; Plovdiv is also a major rail hub for travel toward Istanbul or Sofia.",
+                        "walking": "Plovdiv features one of the longest pedestrian streets in Europe; the Old Town is entirely pedestrian but involves cobblestones and slopes.",
+                        "airport": "Plovdiv Airport (PDV) has few flights; most visitors arrive by train or bus from Sofia (2 hours)."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b7/ef/6d/photo6jpg.jpg?w=1200&h=700&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d94665.26395293597!2d24.658473463849354!3d42.14409142059974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14acd108a248763d%3A0x6470d1fa6f1338a0!2sPlovdiv%2C%20Bulgaria!5e0!3m2!1sen!2sus!4v1766518067450!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Varna",
+                "details": {
+                    "annual tourists": "1,000,000",
+                    "popular attractions": [
+                        "Sea Garden (Morska gradina)",
+                        "Roman Thermae",
+                        "Dormition of the Mother of God Cathedral",
+                        "Archaeological Museum",
+                        "Varna Dolphinarium",
+                        "Varna Beach",
+                        "Pobiti Kamani (Stone Forest)",
+                        "Aladzha Monastery"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are plentiful, but prices in tourist zones can spike in summer; always check the rate sticker on the window.",
+                        "buses": "There is a good bus network connecting the city with seaside resorts like Golden Sands.",
+                        "walking": "The seaside promenade and the central pedestrian zone are ideal for walking; the Sea Garden is a massive park along the coast.",
+                        "airport": "Varna Airport (VAR) is modern and 8km from the center; bus line 409 connects the airport to the city and nearby resorts."
+                    },
+                    "image-url": "https://www.barcelo.com/guia-turismo/wp-content/uploads/2025/01/varna-2.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d186126.54361139878!2d27.778100604453225!3d43.204722817364235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40a4538baaf3d7a1%3A0x5727941c71a58b7c!2sVarna%2C%20Bulgaria!5e0!3m2!1sen!2sus!4v1766518126968!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "background-image-url": "https://i.natgeofe.com/k/682ff54d-41e8-490b-a58e-1c7d589d6ccc/bosnia-and-herzegovina-kravica-waterfalls_3x2.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Sarajevo",
+                "details": {
+                    "annual tourists": "700,000",
+                    "popular attractions": [
+                        "Baščaršija (Old Bazaar)",
+                        "Vijećnica (City Hall)",
+                        "Latin Bridge",
+                        "Sarajevo Cable Car (Trebević Mountain)",
+                        "Tunnel of Hope",
+                        "Gazi Husrev-beg Mosque",
+                        "Sacred Heart Cathedral",
+                        "Vrelo Bosne (Spring of Bosna)",
+                        "War Childhood Museum",
+                        "Yellow Bastion (Sunset viewpoint)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are very affordable; it is recommended to use apps like Moj Taxi or call dispatch centers (Sarajevo Taxi).",
+                        "buses": "The city has trams (the main artery), trolleybuses, and buses; tickets are bought from the driver or at kiosks.",
+                        "walking": "The historic center is flat and perfect for walking; exploring the transition from Ottoman to Austro-Hungarian architecture is best done on foot.",
+                        "airport": "Sarajevo International Airport (SJJ) is connected by a commercial shuttle bus to the Old Town and by taxis."
+                    },
+                    "image-url": "https://cdn.britannica.com/01/137401-050-C2F0EEDA/Sarajevo-Bos-Her.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184012.2591860689!2d18.071167309414744!3d43.89329934954256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4758cbb1ed719bd1%3A0x562ecda6de87b33e!2sSarajevo%2C%20Bosnia%20and%20Herzegovina!5e0!3m2!1sen!2sus!4v1766518413690!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Mostar",
+                "details": {
+                    "annual tourists": "300,000",
+                    "popular attractions": [
+                        "Stari Most (Old Bridge)",
+                        "Kriva Ćuprija (Crooked Bridge)",
+                        "Kujundžiluk (Old Bazaar)",
+                        "Koski Mehmed Pasha Mosque",
+                        "Muslibegović House",
+                        "Kravica Waterfall (day trip)",
+                        "Spanish Square",
+                        "Mount Hum (Cross and Viewpoint)"
+                    ],
+                    "transportation": {
+                        "taxi": "Local taxis are very cheap for rides within the city; for day trips to Blagaj or Kravice, fixed prices are common.",
+                        "buses": "The 'Mostar Bus' network connects various neighborhoods; Mostar is also famously connected to Sarajevo by one of Europe's most scenic train routes.",
+                        "walking": "The Old Town is a pedestrian-only zone; be cautious as the 'tenelija' stone on the bridge can be very slippery.",
+                        "airport": "Mostar Airport (OMO) has seasonal flights; most tourists arrive by bus or train from Sarajevo or Split."
+                    },
+                    "image-url": "https://www.earthtrekkers.com/wp-content/uploads/2017/07/Old-Bridge-Mostar.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46428.668026663174!2d17.78004095316165!3d43.3395466061201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134b43a43b6340a9%3A0x14f32b2d4e37c5a!2s88000%20Mostar%2C%20Bosnia%20and%20Herzegovina!5e0!3m2!1sen!2sus!4v1766518503688!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Blagaj",
+                "details": {
+                    "annual tourists": "150,000",
+                    "popular attractions": [
+                        "Pliva Waterfall (Jajce)",
+                        "Jajce Fortress",
+                        "Mlinčići (Watermills)",
+                        "Catacombs of Jajce",
+                        "Blagaj Tekke (Dervish Monastery)",
+                        "Vrelo Bune (Spring of the Buna River)",
+                        "Stjepan-grad Fortress (Blagaj)",
+                        "Church of St. Mary (Jajce)"
+                    ],
+                    "transportation": {
+                        "taxi": "In Blagaj, taxis are used for the short trip from Mostar; in Jajce, taxis are readily available at the main bus station.",
+                        "buses": "Jajce is well-connected by intercity lines; Blagaj is reached via local bus #10 from Mostar (runs every 45-60 mins).",
+                        "walking": "Jajce is an 'open-air museum' best explored on foot; Blagaj is a small village where all sights around the spring are within walking distance.",
+                        "airport": "No local airports; the closest are in Sarajevo, Mostar, or Banja Luka."
+                    },
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Blagaj_Ceilings.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23245.004528724323!2d17.868349980221936!3d43.25926865187452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134b679c07b08be9%3A0xc286db8364c630a2!2sBlagaj%2C%20Bosnia%20and%20Herzegovina!5e0!3m2!1sen!2sus!4v1766518594486!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Belarus",
+        "background-image-url": "https://media-cdn.tripadvisor.com/media/photo-s/16/27/cc/12/the-people-of-belarus.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Minsk",
+                "details": {
+                    "annual tourists": "1,000,000",
+                    "popular attractions": [
+                        "Independence Square",
+                        "Victory Park",
+                        "National Library of Belarus",
+                        "Island of Tears",
+                        "Trinity Hill (Troitskoye Predmestye)",
+                        "Church of Saints Simon and Helena",
+                        "Minsk City Hall",
+                        "Great Patriotic War Museum",
+                        "Bolshoi Opera and Ballet Theatre",
+                        "All Saints Church"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are affordable. It is highly recommended to use apps like Yandex Go or Bolt to ensure fixed pricing and avoid language barriers.",
+                        "buses": "Minsk has a comprehensive public transport system including buses, trolleybuses, and trams. The Minsk Metro is the fastest way to travel across the city.",
+                        "walking": "The city center is very pedestrian-friendly with wide sidewalks and numerous parks. Independence Avenue is one of the longest city thoroughfares in Europe.",
+                        "airport": "Minsk National Airport (MSQ) is about 40km from the city. It is connected by a regular shuttle bus (No. 300-E) and taxis."
+                    },
+                    "image-url": "https://cdn.britannica.com/09/144209-050-0C4F113B/statue-front-printer-Francysk-Skaryna-Belarusian-Minsk.jpg",
+                    "map-url": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d150506.0423440166!2d27.428563140268224!3d53.884527142269306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2sMinsk%2C%20Minsk%20Region%2C%20Belarus!5e0!3m2!1sen!2sus!4v1766518991476!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+                }
+            },
+            {
+               "rank": 2,
+                "city_name": "Brest",
+                "details": {
+                    "annual tourists": "350,000",
+                    "popular attractions": [
+                        "Brest Fortress",
+                        "Museum of Confiscated Art",
+                        "Railway Museum",
+                        "Sovetskaya Street",
+                        "Millennium Monument of Brest",
+                        "St. Nicholas Garrison Church",
+                        "Belovezhskaya Pushcha National Park (nearby)",
+                        "Brest City Park"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are the most convenient way to move around. Fares within the city are very low.",
+                        "buses": "A network of buses and minibuses (marshrutkas) covers the city. Brest is also a major railway hub connecting to Europe and Russia.",
+                        "walking": "Sovetskaya Street is a beautiful pedestrian-only area where a lamplighter still manually lights the kerosene lamps every evening.",
+                        "airport": "Brest Airport (BQT) has very limited scheduled flights; most visitors arrive by train or bus from Minsk."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/dc/fe/7a/caption.jpg?w=600&h=-1&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d156900.3710531859!2d23.391077358097533!3d52.08758813801891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47210c0223630975%3A0x4d319ea41f64ae99!2sBrest%2C%20Brest%20Region%2C%20Belarus!5e0!3m2!1sen!2sus!4v1766519024607!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Grodno",
+                "details": {
+                    "annual tourists": "200,000",
+                    "popular attractions": [
+                        "Old Castle",
+                        "New Castle",
+                        "Kolozha Church (12th century)",
+                        "St. Francis Xavier Cathedral",
+                        "Grodno Zoo",
+                        "Great Choral Synagogue",
+                        "Fire Tower",
+                        "Neman River Embankment"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are widely available. Apps like Yandex Go are the preferred method for booking.",
+                        "buses": "The city is well-served by buses and trolleybuses. Tickets can be purchased at kiosks or from the driver.",
+                        "walking": "The historic center is compact and largely preserved from WWII, making it one of the most pleasant cities in the country for walking.",
+                        "airport": "Grodno Airport (GNA) primarily handles seasonal or charter flights; most visitors arrive by land."
+                    },
+                    "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/b8/5a/34.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d151227.08369146107!2d23.68604563717808!3d53.683994491793136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dfd64beac55d1d%3A0xf013fd26569718c0!2sHrodna%2C%20Hrodna%20Region%2C%20Belarus!5e0!3m2!1sen!2sus!4v1766519077627!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
     }
 ]

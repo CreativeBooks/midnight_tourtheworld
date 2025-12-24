@@ -20,7 +20,7 @@ function getURLParameter(name) {
 }
 
 const selectedCountryName = getURLParameter('country');
-const API_URL = 'http://129.80.16.185:8000/countries';
+const API_URL = 'https://ambient-equally-css-completed.trycloudflare.com/countries';
 
 async function renderCountryData() {
     const mainContainer = document.getElementById('main-content');

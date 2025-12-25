@@ -20,7 +20,7 @@ function getURLParameter(name) {
 }
 
 const selectedCountryName = getURLParameter('country');
-const API_URL = 'https://ambient-equally-css-completed.trycloudflare.com/countries';
+const API_URL = 'https://5xo91tgqii.execute-api.us-east-1.amazonaws.com/countries';
 
 async function renderCountryData() {
     const mainContainer = document.getElementById('main-content');

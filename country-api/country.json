@@ -2082,5 +2082,407 @@
                 }
             }
         ]
+    },
+    {
+        "name": "China",
+        "background-image-url": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2017/08/Intrepid-Travel-china_shanghai_yuyuan-garden-city.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Beijing",
+                "details": {
+                    "annual tourists": "64,900,000 (International to China)",
+                    "popular attractions": [
+                        "Forbidden City (Palace Museum)",
+                        "Great Wall of China (Badaling or Mutianyu)",
+                        "Temple of Heaven",
+                        "Tian'anmen Square",
+                        "Summer Palace",
+                        "Beijing Hutongs",
+                        "National Museum of China",
+                        "Beijing Zoo (Panda House)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are abundant and can be hailed on the street or via the DiDi app (China's version of Uber). Fares are metered but can be expensive during peak traffic.",
+                        "buses": "The city has an extensive and very inexpensive bus network, though it can be crowded and challenging for non-Mandarin speakers to navigate.",
+                        "walking": "The central areas around the Forbidden City and various 'Hutongs' (ancient alleys) are very pedestrian-friendly and best explored on foot.",
+                        "airport": "Beijing Capital International Airport (PEK) and Daxing International (PKX) are connected to the city by dedicated express trains and airport shuttle buses."
+                    },
+                    "image-url": "https://www.asiaodysseytravel.com/images/china-tours/group-tours/temple-of-heaven-700-2.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d391565.9970613632!2d116.06781228084296!3d39.93894359182202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f05296e7142cb9%3A0xb9625620af0fa98a!2sBeijing%2C%20China!5e0!3m2!1sen!2sus!4v1766776793577!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+             "rank": 2,
+                "city_name": "Shanghai",
+                "details": {
+                    "annual tourists": "2,700,000 (Estimated International)",
+                    "popular attractions": [
+                        "The Bund",
+                        "Yu Garden",
+                        "Oriental Pearl TV Tower",
+                        "Nanjing Road",
+                        "Shanghai Museum",
+                        "Jade Buddha Temple",
+                        "Shanghai Disneyland",
+                        "French Concession"
+                    ],
+                    "transportation": {
+                        "taxi": "Similar to Beijing, taxis and DiDi are popular. High-speed Maglev trains also connect Pudong Airport to the city outskirts.",
+                        "buses": "Shanghai features a modern metro and bus system that is highly efficient and covers almost every corner of the city.",
+                        "walking": "The Bund and the French Concession are iconic for walking, offering a blend of colonial architecture and modern skylines.",
+                        "airport": "Pudong International (PVG) is the main international hub, while Hongqiao (SHA) serves mostly domestic and regional flights."
+                    },
+                    "image-url": "https://www.qantas.com/travelinsider/en/explore/asia/china/shanghai/first-timer-s-guide-to-shanghai/_jcr_content/verticalGalleryMain/gallery/galleryItems/784_1688445158618.img.1440.high.jpg/1728354355164.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d873443.2419770872!2d120.81731809877704!3d31.22384151860798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35b27040b1f53c33%3A0x295129423c364a1!2sShanghai%2C%20China!5e0!3m2!1sen!2sus!4v1766776976695!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Xi'an",
+                "details": {
+                    "annual tourists": "1,500,000 (Estimated International)",
+                    "popular attractions": [
+                        "Terracotta Army (Emperor Qinshihuang's Mausoleum)",
+                        "Ancient City Wall",
+                        "Giant Wild Goose Pagoda",
+                        "Muslim Quarter",
+                        "Great Mosque of Xi'an",
+                        "Mount Huashan (Day trip)",
+                        "Shaanxi History Museum"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are widely available and generally cheaper than in Beijing or Shanghai. Use the DiDi app for ease of communication.",
+                        "buses": " Xi'an has a well-developed metro system that connects the main tourist sites like the Bell Tower and the Giant Wild Goose Pagoda.",
+                        "walking": "Walking atop the ancient City Wall is a popular activity, and the Muslim Quarter is a vibrant pedestrian street famous for street food.",
+                        "airport": "Xi'an Xianyang International Airport (XIY) is about 45 minutes from the city center, accessible by airport bus and taxi."
+                    },
+                    "image-url": "https://cdn1.matadornetwork.com/blogs/1/2019/03/Bell-tower-at-sunset-1200x900.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d422088.99823689315!2d108.63755776041305!3d34.25950673902582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x366379e922ac17b9%3A0x85d466fda794582e!2sXi&#39;An%2C%20Shaanxi%2C%20China!5e0!3m2!1sen!2sus!4v1766778124396!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Switzerland",
+        "background-image-url": "https://images.goway.com/production/hero/iStock-539167007.jpg?VersionId=V0d0ExSYFQapWixAIM4GDFYI7qFw4NPq",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Zurich",
+                "details": {
+                    "annual tourists": "1,300,000 (International)",
+                    "popular attractions": [
+                        "Lake Zurich",
+                        "Bahnhofstrasse (Shopping)",
+                        "Old Town (Altstadt)",
+                        "Grossmünster Church",
+                        "Swiss National Museum",
+                        "Uetliberg Mountain",
+                        "Lindt Home of Chocolate",
+                        "Zurich Zoo"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are very expensive in Zurich. Uber is available and slightly more affordable, but public transit is preferred.",
+                        "buses": "An exceptional network of trams and buses. Most visitors use the Swiss Travel Pass or the Zurich Card for unlimited travel.",
+                        "walking": "The historic city center and the lakeside promenades are highly walkable and very safe.",
+                        "airport": "Zurich Airport (ZRH) is a major hub and is only a 10-minute train ride from the main central station (HB)."
+                    },
+                    "image-url": "https://globalrescue.com/grcom/Zurich-Elevated.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d172913.79100289964!2d8.224916301709627!3d47.37725150575644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900b9749bea219%3A0xe66e8df1e71fdc03!2sZ%C3%BCrich%2C%20Switzerland!5e0!3m2!1sen!2sus!4v1766778408903!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+             "rank": 2,
+                "city_name": "Geneva",
+                "details": {
+                    "annual tourists": "1,100,000 (International)",
+                    "popular attractions": [
+                        "Jet d'Eau",
+                        "Lake Geneva",
+                        "Palace of Nations (UN)",
+                        "CERN (Globe of Science and Innovation)",
+                        "St. Pierre Cathedral",
+                        "Old Town (Vieille Ville)",
+                        "Patek Philippe Museum",
+                        "Reformation Wall"
+                    ],
+                    "transportation": {
+                        "taxi": "Standard taxis are expensive; many tourists opt for the free 'Geneva Transport Card' provided by hotels for local transit.",
+                        "buses": "Efficient trams and buses run by TPG cover the entire city and even cross into neighboring France.",
+                        "walking": "The Old Town is hilly but compact. The lakefront paths are flat and perfect for exploring the Jet d'Eau on foot.",
+                        "airport": "Geneva Airport (GVA) is very close to the city; all arriving passengers can get a free 80-minute transit ticket from machines in the baggage area."
+                    },
+                    "image-url": "https://www.geneve.com/fileadmin/_processed_/7/9/csm_nuit_2200px_6df6b192da.webp",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44180.48212560629!2d6.101839406175115!3d46.204882053255076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c650693d0e2eb%3A0xa0b695357b0bbc39!2sGeneva%2C%20Switzerland!5e0!3m2!1sen!2sus!4v1766778522051!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Lucerne",
+                "details": {
+                    "annual tourists": "900,000",
+                    "popular attractions": [
+                        "Chapel Bridge (Kapellbrücke)",
+                        "Lion Monument",
+                        "Lake Lucerne (Boat tours)",
+                        "Swiss Museum of Transport",
+                        "Mount Pilatus",
+                        "Mount Rigi",
+                        "Old Town Squares",
+                        "Glacier Garden"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are available but rarely needed for tourists since the town is compact.",
+                        "buses": "Lucerne has an excellent bus system, and many attractions are reached by cogwheel trains, cable cars, or lake steamers.",
+                        "walking": "Lucerne is arguably one of the most walkable cities in Europe, with most historic sites concentrated in a car-free zone.",
+                        "airport": "There is no major airport in Lucerne; most visitors arrive by train from Zurich (approx. 45-60 minutes)."
+                    },
+                    "image-url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/27/16/lucerne-overview.jpg?width=1200&height=1200&fit=crop",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d87006.98895221332!2d8.234851839528263!3d47.040850786539394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478ffa2a79547379%3A0xaef02ad1409952af!2sLucerne%2C%20Switzerland!5e0!3m2!1sen!2sus!4v1766778579302!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "background-image-url": "https://content.r9cdn.net/rimg/dimg/5c/40/a026743b-city-14418-16dd9fbbd63.jpg?width=1366&height=768&xhint=1590&yhint=2182&crop=true",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Abidjan",
+                "details": {
+                    "annual tourists": "2,070,000 (International to country)",
+                    "popular attractions": [
+                        "St. Paul's Cathedral",
+                        "Plateau District (Skyline)",
+                        "Banco National Park",
+                        "Museum of Civilizations",
+                        "Treichville Market",
+                        "CAVA (Artisan Center)",
+                        "Ébrié Lagoon",
+                        "Plateau Mosque"
+                    ],
+                    "transportation": {
+                        "taxi": "Red 'compteur' taxis have meters and are for private use. Orange 'woro-woro' taxis follow set routes and are shared.",
+                        "buses": "The SOTRA bus system is extensive, and water buses (bateaux-bus) cross the lagoon to avoid traffic.",
+                        "walking": "The Plateau district is walkable during business hours, but the city is large and traffic-heavy; transport is usually required.",
+                        "airport": "Félix-Houphouët-Boigny International Airport (ABJ) is connected to the city by taxis and airport shuttles."
+                    },
+                    "image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQBa9Z-It8EpCS_etea_-VukyUyL4_f1AFw&s",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127118.2881486804!2d-4.062066947526093!3d5.348615523978184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1ea5311959121%3A0x3fe70ddce19221a6!2sAbidjan%2C%20C%C3%B4te%20d&#39;Ivoire!5e0!3m2!1sen!2sus!4v1766779069882!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Yamoussoukro",
+                "details": {
+                    "annual tourists": "180,000",
+                    "popular attractions": [
+                        "Basilica of Our Lady of Peace",
+                        "Presidential Palace",
+                        "Crocodile Lake (Lac aux Crocodiles)",
+                        "Felix Houphouet-Boigny Foundation",
+                        "Yamoussoukro Mosque",
+                        "The 'Great Schools' District",
+                        "Hôtel du Parlement"
+                    ],
+                    "transportation": {
+                        "taxi": "Green taxis are the main way to get around; since the city has very wide boulevards and little traffic, they are fast and cheap.",
+                        "buses": "Inter-city buses from Abidjan (3-4 hours) arrive at various private company stations in town.",
+                        "walking": "The city was designed with massive scale; while the area around the Basilica is walkable, the distances between sites are huge.",
+                        "airport": "Yamoussoukro International Airport (ASK) has very limited scheduled service; most visitors arrive by road."
+                    },
+                    "image-url": "https://discover-ivorycoast.com/wp-content/uploads/2019/01/basilique-Notre-Dame-de-la-Paix-de-Yamoussoukro-2.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126771.77584111254!2d-5.363537841261644!3d6.816230424496562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfb8913a41c945f7%3A0x21701f1a1623eede!2sYamoussoukro%2C%20C%C3%B4te%20d&#39;Ivoire!5e0!3m2!1sen!2sus!4v1766779208702!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Grand-Bassam",
+                "details": {
+                    "annual tourists": "250,000",
+                    "popular attractions": [
+                        "National Museum of Costume",
+                        "Historic Colonial District (UNESCO)",
+                        "Grand-Bassam Beach",
+                        "Old Post Office",
+                        "Governor's Palace",
+                        "Artisan Village",
+                        "Maison Ganamet Ruins"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are available for local trips, though the historic 'Quartier France' is best explored slowly.",
+                        "buses": "Frequent minibuses (gbakas) run from Abidjan's Treichville or Adjamé districts (approx. 45-60 minutes).",
+                        "walking": "The UNESCO World Heritage site of Quartier France is a pedestrian-friendly area perfect for seeing colonial architecture.",
+                        "airport": "No local airport; it is a short 20-30 minute drive from Abidjan's airport."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/b3/3f/6b/img-20171207-wa0023-largejpg.jpg?w=1000&h=1000&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31786.17613718729!2d-3.7677529443502396!3d5.219894952443607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1f808ca98fad9%3A0x361353be4879393c!2sGrand-Bassam%2C%20C%C3%B4te%20d&#39;Ivoire!5e0!3m2!1sen!2sus!4v1766779265689!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Cameroon",
+        "background-image-url": "https://www.gokitetours.com/wp-content/uploads/2024/12/10-Best-Attractions-in-Mount-Cameroon-National-Park-1200x720.webp",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Douala",
+                "details": {
+                    "annual tourists": "900,000 (International to Cameroon)",
+                    "popular attractions": [
+                        "Doual'art Museum",
+                        "Maritime Museum of Douala",
+                        "Flower Market",
+                        "Espace Doual'art",
+                        "La Nouvelle Liberte Statue",
+                        "St. Peter and Paul Cathedral",
+                        "Wouri River Waterfront",
+                        "Akwa Palace"
+                    ],
+                    "transportation": {
+                        "taxi": "Yellow taxis are the primary mode of transit. They are shared by default; ask for a 'déplacement' for a private ride and negotiate before entry.",
+                        "buses": "City buses are rare; 'bendskin' (motorcycle taxis) are common for short hops but can be risky in heavy traffic.",
+                        "walking": "Walking is common in neighborhoods like Akwa or Bonanjo, but the city is sprawling, humid, and lacks consistent sidewalks.",
+                        "airport": "Douala International Airport (DLA) is the busiest in the country; official taxis are available outside the terminal."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/86/f1/42/caption.jpg?w=1200&h=700&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127357.54623208214!2d9.659402699442694!3d4.036070834826089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1061128be2e1fe6d%3A0x92daa1444781c48b!2sDouala%2C%20Cameroon!5e0!3m2!1sen!2sus!4v1766779470839!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Yaounde",
+                "details": {
+                    "annual tourists": "150,000",
+                    "popular attractions": [
+                        "National Museum of Cameroon",
+                        "Reunification Monument",
+                        "Mvog-Betsi Zoo",
+                        "Benedictine Museum of Mont Febe",
+                        "Basilica Marie-Reine-des-Apotres",
+                        "Central Market",
+                        "Palais des Congrès",
+                        "Mount Febe (Viewpoint)"
+                    ],
+                    "transportation": {
+                        "taxi": "Shared yellow taxis are the standard way to get around the city's seven hills. Private taxis can be hired by the hour.",
+                        "buses": "Modern coach buses (VIP buses) connect Yaounde to Douala (3.5 hours) but city-wide transit is mostly taxi-based.",
+                        "walking": "The city is very hilly, making walking strenuous. The central government district is more pedestrian-friendly during the day.",
+                        "airport": "Yaoundé Nsimalen International Airport (NSI) is about 45 minutes south of the city center."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f5/96/97/img-20191022-223020-674.jpg?w=1100&h=-1&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254777.8971033275!2d11.345640154530653!3d3.8306319932400577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x108bcf7a309a7977%3A0x7f54bad35e693c51!2sYaound%C3%A9%2C%20Cameroon!5e0!3m2!1sen!2sus!4v1766779516322!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Mount Cameroon (Buea)",
+                "details": {
+                    "annual tourists": "25,000",
+                    "popular attractions": [
+                        "Mount Cameroon Summit Trek",
+                        "Lava Flow sites",
+                        "Mount Cameroon Race of Hope",
+                        "Upper Farms (Trailhead)",
+                        "German Colonial Architecture in Buea",
+                        "Limbe Wildlife Centre (Nearby)",
+                        "Limbe Botanical Gardens (Nearby)"
+                    ],
+                    "transportation": {
+                        "taxi": "Local taxis in Buea are used to reach the mountain trailheads. Agree on a price for drop-offs at 'Upper Farms'.",
+                        "buses": "Minibuses and shared taxis connect Buea to the coastal town of Limbe and the city of Douala.",
+                        "walking": "The primary reason for visiting is the multi-day hike to the summit (4,040m), which must be done with a registered guide.",
+                        "airport": "No local airport; visitors fly into Douala and take a 1.5-hour car ride to Buea."
+                    },
+                    "image-url": "https://discover-cameroon.com/wp-content/uploads/2018/10/P1030141.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63669.31071214882!2d9.22532755072574!3d4.15498503700098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10613259651819a3%3A0x754210aa92e62bff!2sBuea%2C%20Cameroon!5e0!3m2!1sen!2sus!4v1766779650244!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Denmark",
+        "background-image-url": "https://www.lexika-translations.com/wp-content/uploads/2018/04/Kodan_.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Copenhagen",
+                "details": {
+                    "annual tourists": "4,000,000",
+                    "popular attractions": [
+                        "Tivoli Gardens",
+                        "The Little Mermaid Statue",
+                        "Nyhavn Harbor",
+                        "Amalienborg Palace",
+                        "Rosenborg Castle",
+                        "Christiansborg Palace",
+                        "National Museum",
+                        "Ny Carlsberg Glyptotek",
+                        "CopenHill",
+                        "The King's Garden"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are readily available and can be hailed or booked via apps.",
+                        "buses": "A very efficient network of buses and a world-class metro system serve the city.",
+                        "walking": "Copenhagen is highly pedestrian and bicycle-friendly, with many historic areas best explored on foot.",
+                        "airport": "Copenhagen Airport (CPH) is directly connected to the city center by a 15-minute train or metro ride."
+                    },
+                    "image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoXM36QRM0svdsrcLMhGFXAnXYqFk71Kbt8w&s",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d72000.4850528742!2d12.51142375248301!3d55.67133656545615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652533c5c803d23%3A0x4dd7edde69467b8!2sCopenhagen%2C%20Denmark!5e0!3m2!1sen!2sus!4v1766780610184!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Aarhus",
+                "details": {
+                    "annual tourists": "1,400,000",
+                    "popular attractions": [
+                        "ARoS Aarhus Art Museum",
+                        "Den Gamle By (The Old Town)",
+                        "The Latin Quarter",
+                        "Moesgaard Museum",
+                        "Tivoli Friheden",
+                        "Aarhus Cathedral",
+                        "Marselisborg Palace",
+                        "Dokk1"
+                    ],
+                    "transportation": {
+                        "taxi": "Available throughout the city and at major transit hubs.",
+                        "buses": "An extensive local bus network serves the city and surrounding region.",
+                        "walking": "The compact city center and the Latin Quarter are perfect for walking.",
+                        "airport": "Aarhus Airport (AAR) is connected to the city by a dedicated airport shuttle bus."
+                    },
+                    "image-url": "https://media.architecturaldigest.com/photos/5bfc252a54719d268fefcf70/16:9/w_2560%2Cc_limit/GettyImages-926737750.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d71065.00384193743!2d10.099574334604116!3d56.17817210268592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c4cb15397788b%3A0x8c4dd7d9912ea2af!2sAarhus%2C%20Denmark!5e0!3m2!1sen!2sus!4v1766780699997!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Odense",
+                "details": {
+                    "annual tourists": "500,000",
+                    "popular attractions": [
+                        "H.C. Andersen's House",
+                        "The Funen Village",
+                        "Odense Zoo",
+                        "Brandts Art Hall",
+                        "Egeskov Castle (Nearby)",
+                        "Munke Mose Park",
+                        "St. Canute's Cathedral"
+                    ],
+                    "transportation": {
+                        "taxi": "Easily available for local trips.",
+                        "buses": "The city has a reliable bus network and a modern light rail system.",
+                        "walking": "The historic old town is highly walkable and maintains a fairy-tale charm.",
+                        "airport": "Most visitors arrive via train from Copenhagen (1.5 hours) rather than local flights."
+                    },
+                    "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/12/28/f9/4a.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d145055.44782066176!2d10.233013776000014!3d55.38433203270397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464cd935429724c1%3A0x3b1e34d53b2ff5ec!2sOdense%2C%20Denmark!5e0!3m2!1sen!2sus!4v1766780804518!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
     }
 ]

@@ -1418,7 +1418,7 @@
             }
         ]
     },
-     {
+    {
         "name": "Belize",
         "background-image-url": "https://www.anywhere.com/img-a/belize/destinations/ambergris-caye/ambergis-caye.jpg",
         "top_cities": [
@@ -1468,8 +1468,8 @@
                         "walking": "Walking is okay in the Tourism Village and Fort George areas, but it is not recommended for tourists to walk long distances or explore outside the center at night.",
                         "airport": "Philip S.W. Goldson International (BGP) is 15km from the city. Taxis have a fixed rate (~$25 USD)."
                     },
-                    "image-url": "",
-                    "map-url": ""
+                    "image-url": "https://belize.com/wp-content/uploads/2020/10/old-belize-beach-aerial-view.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60880.97785959454!2d-88.25549911441864!3d17.504595750882284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5c584b483377cf%3A0xe1dbdc6e9012ff22!2sBelize%20City%2C%20Belize!5e0!3m2!1sen!2sus!4v1766715008646!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             },
             {
@@ -1492,8 +1492,593 @@
                         "walking": "Everything on the island is within a 15-minute walk. The roads are made of sand and unpaved.",
                         "airport": "Caye Caulker Airport (CUK) is served by Tropic Air and Maya Island Air. Most visitors arrive via water taxi from Belize City or San Pedro."
                     },
-                    "image-url": "",
-                    "map-url": ""
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Belize_Caye_Caulker-221.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60793.92030838007!2d-88.06936851284456!3d17.76253449643609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5c8dc6ad1bc049%3A0xf823dbc01663d790!2sCaye%20Caulker!5e0!3m2!1sen!2sus!4v1766715062867!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Bolivia",
+        "background-image-url": "https://www.humboldttravel.co.uk/wp-content/uploads/2019/09/RSZ-LagunaColorado.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "La Paz",
+                "details": {
+                    "annual tourists": "600,000",
+                    "popular attractions": [
+                        "Mi Teleférico (Cable car system)",
+                        "Witches' Market (Mercado de las Brujas)",
+                        "Valley of the Moon (Valle de la Luna)",
+                        "Plaza Murillo",
+                        "Calle Jaén",
+                        "Basilica of San Francisco",
+                        "Death Road (biking tours)",
+                        "Tiwanaku Ruins (day trip)",
+                        "Killi Killi Viewpoint",
+                        "Cholita Wrestling"
+                    ],
+                    "transportation": {
+                        "taxi": "Use 'Radio Taxis' (with phone numbers on top) rather than unmarked cars. Apps like Uber and InDrive are popular and safer.",
+                        "buses": "The city has colorful 'micros' (minibuses). 'PumaKatari' buses are modern, government-run, and much more comfortable for tourists.",
+                        "walking": "The city is extremely steep and at a very high altitude. Walking is physically demanding; the Teleférico is the best 'transport' for views and ease.",
+                        "airport": "El Alto International Airport (LPB) is one of the highest in the world. Taxis or airport shuttles are the main ways to descend into the La Paz basin."
+                    },
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_del_centro_de_La_Paz.jpg/1200px-Vista_del_centro_de_La_Paz.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122403.42318908124!2d-68.20647933092428!3d-16.520696195893148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915edf0a04f5a40f%3A0x57dbfc76b4458ab3!2sLa%20Paz%2C%20Bolivia!5e0!3m2!1sen!2sus!4v1766715283267!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 2,
+                "city_name": "Uyuni",
+                "details": {
+                    "annual tourists": "300,000",
+                    "popular attractions": [
+                        "Salar de Uyuni (Salt Flats)",
+                        "Train Cemetery",
+                        "Incahuasi Island",
+                        "Colchani (Salt processing village)",
+                        "Ojos del Salar",
+                        "Dakar Monument",
+                        "Laguna Colorada (3-day tours)",
+                        "Arbol de Piedra"
+                    ],
+                    "transportation": {
+                        "taxi": "Local taxis are cheap and plentiful within the small town.",
+                        "buses": "Buses connect Uyuni to La Paz, Potosi, and Sucre. The town itself is small enough that you won't need buses for local transit.",
+                        "walking": "The town of Uyuni is very small and flat, making it easy to walk. Most time is spent in 4x4 vehicles for salt flat tours.",
+                        "airport": "Uyuni Airport (UYU) has daily flights to La Paz. Taxis meet all arriving flights."
+                    },
+                    "image-url": "https://cdn.britannica.com/00/196200-050-A18811BA/Uyuni-Salt-Flat-Bolivia.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29904.873553747875!2d-66.84790163109236!3d-20.460707837189286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x93ffbad958d3f2bd%3A0x1455841e2c4e6653!2sUyuni%2C%20Bolivia!5e0!3m2!1sen!2sus!4v1766715497707!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Potosi",
+                "details": {
+                    "annual tourists": "120,000",
+                    "popular attractions": [
+                        "Cerro Rico Mine Tours",
+                        "Casa Nacional de la Moneda",
+                        "San Francisco Convent",
+                        "Plaza 10 de Noviembre",
+                        "Santa Teresa Convent Museum",
+                        "Tarapaya Hot Springs",
+                        "Cathedral of Potosi"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are the standard way to reach the mines or the bus terminal. Agree on the fare first.",
+                        "buses": "Minibuses run set routes through the steep streets. There are frequent bus connections to Sucre (3 hours).",
+                        "walking": "The colonial center is beautiful but steep and at over 4,000m altitude. Take it very slow to avoid altitude sickness.",
+                        "airport": "Potosi Airport (POI) has limited domestic service; most travelers arrive by bus from Sucre or Uyuni."
+                    },
+                    "image-url": "https://www.wanderlustmagazine.com/wp-content/uploads/2023/10/hr-t9fp7p_1500.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60148.99083155529!2d-65.7920882511849!3d-19.571132724718293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x93f94e0e72e5d423%3A0xaae8f4290ef1f4e8!2sPotosi%2C%20Bolivia!5e0!3m2!1sen!2sus!4v1766715552088!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Brazil",
+        "background-image-url": "https://images.goway.com/production/featured_images/shutterstock_1276835941.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Rio de Janeiro",
+                "details": {
+                    "annual tourists": "2,300,000",
+                    "popular attractions": [
+                        "Christ the Redeemer",
+                        "Sugarloaf Mountain",
+                        "Copacabana Beach",
+                        "Ipanema Beach",
+                        "Selarón Steps",
+                        "Maracanã Stadium",
+                        "Tijuca National Park",
+                        "Museum of Tomorrow",
+                        "Santa Teresa Neighborhood",
+                        "Botanical Garden"
+                    ],
+                    "transportation": {
+                        "taxi": "Yellow taxis are metered and plentiful. Uber is widely used and often preferred by tourists for safety and tracking.",
+                        "buses": "The MetroRio is clean, safe, and efficient. City buses (BRT) are extensive but can be confusing and prone to theft; use with caution.",
+                        "walking": "The beachfront promenades are perfect for walking. In the city center and hills, stick to busy streets and avoid walking alone at night.",
+                        "airport": "Galeão International (GIG) and Santos Dumont (SDU). Use official airport taxis or Uber; avoid 'private' offers from individuals."
+                    },
+                    "image-url": "https://www.ytravelblog.com/wp-content/uploads/2022/09/christ-the-redeemer-rio-de-janeiro.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3788495.8441910483!2d-47.944523647051575!3d-21.984360082798613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x981894cae28ac3%3A0x349c31ac10583d0!2sState%20of%20Rio%20de%20Janeiro%2C%20Brazil!5e0!3m2!1sen!2sus!4v1766715824554!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 2,
+                "city_name": "São Paulo",
+                "details": {
+                    "annual tourists": "2,500,000",
+                    "popular attractions": [
+                        "Ibirapuera Park",
+                        "São Paulo Museum of Art (MASP)",
+                        "Avenida Paulista",
+                        "Municipal Market (Mercadão)",
+                        "Liberdade (Japanese District)",
+                        "Batman's Alley (Beco do Batman)",
+                        "Pinacoteca de São Paulo",
+                        "Theatro Municipal",
+                        "Catedral da Sé",
+                        "Edifício Itália"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are abundant but expensive. Uber and 99 are the most popular ride-hailing apps.",
+                        "buses": "The São Paulo Metro is world-class and the best way to avoid the city's infamous traffic jams.",
+                        "walking": "Avenida Paulista is very walkable, especially on Sundays when closed to cars. Other areas are massive; transport is usually required.",
+                        "airport": "Guarulhos (GRU) for international and Congonhas (CGH) for domestic. Traffic to GRU can take 1-2 hours depending on the time of day."
+                    },
+                    "image-url": "https://cdn1.matadornetwork.com/blogs/1/2011/05/Octavio-Frias-de-Oliveira-Bridge-in-Sao-Paulo-Brazil-1200x853.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3773426.468655331!2d-51.277192700652776!3d-22.542167754423513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce597d462f58ad%3A0x1e5241e2e17b7c17!2sState%20of%20S%C3%A3o%20Paulo%2C%20Brazil!5e0!3m2!1sen!2sus!4v1766715890738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Salvador",
+                "details": {
+                    "annual tourists": "600,000",
+                    "popular attractions": [
+                        "Pelourinho (Historic Center)",
+                        "Elevador Lacerda",
+                        "Church of Nosso Senhor do Bonfim",
+                        "Mercado Modelo",
+                        "Farol da Barra (Lighthouse)",
+                        "Rio Vermelho District",
+                        "Church and Convent of São Francisco",
+                        "Itapuã Beach"
+                    ],
+                    "transportation": {
+                        "taxi": "Standard taxis are available, but ride-sharing apps (Uber/99) are typically safer and cheaper.",
+                        "buses": "The city has a new Metro line connecting the airport to the center. Buses are plentiful but stick to the newer 'Salvador Card' buses.",
+                        "walking": "Pelourinho is a pedestrian-friendly UNESCO site. Use the Elevador Lacerda to move between the Upper and Lower cities.",
+                        "airport": "Salvador International Airport (SSA) is about 28km from the center, connected via Metro and bus."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/43/ac/8f/pelourinho.jpg?w=600&h=400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124451.05382620399!2d-38.50259285735833!3d-12.90158476698888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x716112050422ebd%3A0xf71c84369573db9d!2sSalvador%2C%20State%20of%20Bahia%2C%20Brazil!5e0!3m2!1sen!2sus!4v1766715940458!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Brunei Darussalam",
+        "background-image-url": "https://images.goway.com/production/hero_image/Sultan%20Omar%20Ali%20Saifudding%20Mosque_AdobeStock_104384777_0.jpeg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Bandar Seri Begawan",
+                "details": {
+                    "annual tourists": "1,100,000",
+                    "popular attractions": [
+                        "Sultan Omar Ali Saifuddien Mosque",
+                        "Jame' Asr Hassanil Bolkiah Mosque",
+                        "Kampong Ayer (Water Village)",
+                        "Royal Regalia Museum",
+                        "Istana Nurul Iman",
+                        "Tasek Lama Recreational Park",
+                        "Bandar Seri Begawan Waterfront",
+                        "Tamu Kianggeh (Market)",
+                        "Malay Technology Museum",
+                        "Brunei Museum"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are limited in number and often expensive; it is recommended to use the 'Dart' ride-hailing app (Brunei's version of Uber).",
+                        "buses": "Public buses (purple minibuses) are very affordable but stop running early, usually around 6:00 PM.",
+                        "walking": "The city center is walkable, and walking along the waterfront provides a great view of the water village.",
+                        "airport": "Brunei International Airport (BWN) is about 10-15 minutes from the center. Taxis and hotel shuttles are common."
+                    },
+                    "image-url": "https://mediaim.expedia.com/destination/1/4bdfd090e13370a7b32680dc357b8bcb.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63603.19460893298!2d114.89689047948617!3d4.906225506355156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3222f5b0540b731f%3A0xeeacf8c47cbae84b!2sBandar%20Seri%20Begawan%2C%20Brunei!5e0!3m2!1sen!2sus!4v1766716675866!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 2,
+                "city_name": "Ulu Temburong National Park",
+                "details": {
+                    "annual tourists": "15,000",
+                    "popular attractions": [
+                        "Canopy Walkway",
+                        "Belalong River",
+                        "Waterfalls and Natural Pools",
+                        "Night Jungle Walks",
+                        "Kayaking and Tubing",
+                        "Longboat Rides",
+                        "Ulu Ulu Resort"
+                    ],
+                    "transportation": {
+                        "taxi": "No land taxis operate inside the park. Most visitors arrive via organized tour packages from the capital.",
+                        "buses": "Not available. Access involves a speed boat from BSB to Bangar, followed by a car and then a longboat (temuai).",
+                        "walking": "Exploration within the park is strictly on foot via wooden boardwalks and steep staircases to the canopy towers.",
+                        "airport": "No local airport; visitors travel by boat and road from Bandar Seri Begawan (approx. 2 hours)."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/db/a9/a2/photo1jpg.jpg?w=1200&h=1200&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d865487.1676597117!2d114.82800583343291!3d4.206481883284789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32187240b616de63%3A0x926b091eb23960!2sUlu%20Temburong%20National%20Park!5e0!3m2!1sen!2sus!4v1766716767855!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Jerudong Park",
+                "details": {
+                    "annual tourists": "100,000",
+                    "popular attractions": [
+                        "Jerudong Park Playground",
+                        "Musical Fountain",
+                        "Jerudong Polo Club",
+                        "The Empire Brunei",
+                        "Jerudong Park Medical Centre",
+                        "Royal Brunei Golf & Country Club",
+                        "Diamond Arch"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis or Dart are necessary as Jerudong is about 20 minutes outside the city center.",
+                        "buses": "Buses run from BSB to Jerudong, but service is infrequent and ends early in the evening.",
+                        "walking": "The park area itself is vast; while walkable once inside, a car is needed to reach the various gates and the nearby Empire resort.",
+                        "airport": "Approx. 15 minutes from the airport; most visitors use private cars or taxis."
+                    },
+                    "image-url": "https://www.bruneitourism.com/wp-content/uploads/2019/08/jerudong-park.jpeg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1987.5043110972658!2d114.83409838856292!3d4.938199171014769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sJerudong%20Park!5e0!3m2!1sen!2sus!4v1766716908972!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Bhutan",
+        "background-image-url": "https://lp-cms-production.imgix.net/2025-01/GettyImages-1434727243.jpg?auto=compress&format=auto&fit=crop&q=50&w=1200&h=800",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Paro",
+                "details": {
+                    "annual tourists": "70,000",
+                    "popular attractions": [
+                        "Tiger's Nest (Paro Taktsang)",
+                        "Rinpung Dzong",
+                        "National Museum of Bhutan",
+                        "Kyichu Lhakhang",
+                        "Chele La Pass",
+                        "Drukgyel Dzong",
+                        "Paro Town Street",
+                        "Jangtsa Dumtseg Lhakhang",
+                        "Tamchoe Monastery",
+                        "Ugyen Pema Woedling Zangthopelri"
+                    ],
+                    "transportation": {
+                        "taxi": "Local taxis are the most common way to get to trailheads and nearby sites; prices are often fixed for tourists.",
+                        "buses": "There is no local city bus system; inter-district buses leave from the main station for Thimphu.",
+                        "walking": "The main street of Paro is very walkable and charming. However, attractions like Tiger's Nest require a strenuous hike.",
+                        "airport": "Paro International Airport (PBH) is the only international airport in Bhutan, located very close to the town center."
+                    },
+                    "image-url": "https://www.andbeyond.com/wp-content/uploads/sites/5/tigers-nest-paro-bhutan.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56675.70493334071!2d89.35930989774265!3d27.399704499337584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e19de85a6c39b7%3A0x1fa780f5a070190!2sParo%2C%20Bhutan!5e0!3m2!1sen!2sus!4v1766717219638!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+             "rank": 2,
+                "city_name": "Thimphu",
+                "details": {
+                    "annual tourists": "80,000",
+                    "popular attractions": [
+                        "Buddha Dordenma (Great Buddha Dordenma)",
+                        "Memorial Chorten",
+                        "Tashichho Dzong",
+                        "Motithang Takin Preserve",
+                        "National Library",
+                        "Royal Textile Academy",
+                        "Simtokha Dzong",
+                        "Dochula Pass (nearby)",
+                        "Thimphu Weekend Market",
+                        "Centenary Farmers Market"
+                    ],
+                    "transportation": {
+                        "taxi": "Abundant and easy to find; they use meters or fixed rates. It is the primary way for tourists to visit the Buddha statue.",
+                        "buses": "A local city bus service exists but is mostly used by locals. Most tourists travel with their mandatory private guide and driver.",
+                        "walking": "Thimphu is the only capital in the world without traffic lights. The main 'Norzin Lam' street is highly walkable.",
+                        "airport": "No airport in Thimphu; it is a 1.5-hour scenic drive from Paro Airport."
+                    },
+                    "image-url": "https://www.vacationindia.com/wp-content/uploads/2023/04/23-night-view-of-the-trashi-chhu-dzong-in-thimphu-with-rice-fields.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113271.1028700817!2d89.56408013525477!3d27.477913997804162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e19419962037b7%3A0x7c01ffe2660560d1!2sThimphu%2C%20Bhutan!5e0!3m2!1sen!2sus!4v1766717321154!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Punakha & Bumthang",
+                "details": {
+                    "annual tourists": "40,000",
+                    "popular attractions": [
+                        "Punakha Dzong",
+                        "Chimi Lhakhang (Fertility Temple)",
+                        "Punakha Suspension Bridge",
+                        "Jakar Dzong (Bumthang)",
+                        "Kurjey Lhakhang (Bumthang)",
+                        "Burning Lake (Mebar Tsho)",
+                        "Tamshing Lhakhang",
+                        "Khamsum Yulley Namgyal Chorten"
+                    ],
+                    "transportation": {
+                        "taxi": "Available in the town centers, but most travel between these distant valleys is done via private tourist vehicles.",
+                        "buses": "Public buses connect these regions to Thimphu, but the winding mountain roads make for long and bumpy journeys.",
+                        "walking": "Punakha is warmer and great for walking through rice paddies. Bumthang offers beautiful valley floor walks between monasteries.",
+                        "airport": "Bathpalathang Airport (BUT) in Bumthang has limited domestic flights from Paro. Punakha is only accessible by road."
+                    },
+                    "image-url": "https://www.andbeyond.com/wp-content/uploads/sites/5/punakha-valley-bhutan.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d452167.8381511229!2d90.12630389047379!3d27.699952831919543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375faf0a65c8d5d3%3A0xccfc0826502f078!2sBumthang%2C%20Bhutan!5e0!3m2!1sen!2sus!4v1766717423322!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Bostswana",
+        "background-image-url": "https://www.lionworldtravel.com/sites/default/files/1060-Botswana-Mkgadigadi-Cat-Rhebhardt-sunset_elephant-WM.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Maun (Okavango Delta Gateway)",
+                "details": {
+                    "annual tourists": "400,000",
+                    "popular attractions": [
+                        "Okavango Delta (Mokoro trips)",
+                        "Moremi Game Reserve",
+                        "Maun Wildlife Sanctuary",
+                        "Nhabe Museum",
+                        "Scenic Flights over the Delta",
+                        "Thamalakane River",
+                        "Elephant Havens Wildlife Foundation",
+                        "Cresta Riley's",
+                        "The Old Bridge Backpackers",
+                        "Cultural Village Tours"
+                    ],
+                    "transportation": {
+                        "taxi": "Local taxis and 'combis' (minibuses) are the primary way to get around town. Taxis are not metered; negotiate before the trip.",
+                        "buses": "Long-distance buses connect Maun to Gaborone and Francistown. These are generally reliable but slow.",
+                        "walking": "The town center is small but dusty and hot. Walking is fine for short distances, but most activities require 4x4 vehicles.",
+                        "airport": "Maun International Airport (MUB) is very busy with light aircraft heading to safari camps. It is located very close to the town center."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b2/b6/fe/elephant-bay-chobe.jpg?w=1400&h=1400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59987.13870647869!2d23.377703671364642!3d-20.000279832817117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19544d054c080299%3A0xad7cc125ed822f4b!2sMaun%2C%20Botswana!5e0!3m2!1sen!2sus!4v1766717768939!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+             "rank": 2,
+                "city_name": "Kasane (Chobe)",
+                "details": {
+                    "annual tourists": "300,000",
+                    "popular attractions": [
+                        "Chobe National Park",
+                        "Chobe River Sunset Cruise",
+                        "Sedudu Island",
+                        "Kazungula Bridge (Four-country border)",
+                        "Impila Island",
+                        "Caracal Biodiversity Center",
+                        "Seboba Nature Park",
+                        "Victoria Falls (day trip)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are available to transport tourists between lodges and the airport. Most safari activities include pickup.",
+                        "buses": "Buses run to Francistown and Gaborone. There are also international shuttles to Victoria Falls (Zimbabwe) and Livingstone (Zambia).",
+                        "walking": "The main road in Kasane is walkable, but be careful as elephants and other wildlife often wander through the town area.",
+                        "airport": "Kasane Airport (BBK) is just outside town and has flights from Gaborone and Johannesburg."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/65/fd/5d/caption.jpg?w=800&h=800&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60777.196386055264!2d25.132087954831675!3d-17.811670917408414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x195a9dc0331a2e35%3A0x23f9e2c759c3bc2e!2sKasane%2C%20Botswana!5e0!3m2!1sen!2sus!4v1766717871302!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Gaborone",
+                "details": {
+                    "annual tourists": "250,000",
+                    "popular attractions": [
+                        "Gaborone Game Reserve",
+                        "Mokolodi Nature Reserve",
+                        "Kgale Hill",
+                        "Three Dikgosi Monument",
+                        "National Museum and Art Gallery",
+                        "Main Mall",
+                        "Gaborone Dam",
+                        "SADC Headquarters"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are common. 'Special' taxis are private, while others are shared. Use the 'InDrive' app for better safety and pricing.",
+                        "buses": "Combis are the most popular way for locals to move. They follow specific routes and are very cheap.",
+                        "walking": "The Main Mall and Government enclave are walkable, but the city is sprawling and car-centric.",
+                        "airport": "Sir Seretse Khama International Airport (GBE) is about 15km from the city; taxis and shuttles are the main link."
+                    },
+                    "image-url": "https://i.natgeofe.com/k/8bc484fd-74a9-466d-9416-5b85d9358c6f/botswana-gaborone-capital_3x2.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116077.5109681594!2d25.84810294878244!3d-24.609128689259848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ebb5b3c2ceea9bf%3A0x49a1769397ae11a1!2sGaborone%2C%20Botswana!5e0!3m2!1sen!2sus!4v1766717913836!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Central African Republic",
+        "background-image-url": "https://kenzly.b-cdn.net/wp-content/uploads/2024/05/Central-African-Republic-1.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Bangui",
+                "details": {
+                    "annual tourists": "34,600",
+                    "popular attractions": [
+                        "Boganda National Museum",
+                        "Notre-Dame of Bangui Cathedral",
+                        "Ubangi River (Riverside dining)",
+                        "Place de la République",
+                        "Central Market (Grand Marché)",
+                        "Presidential Palace (Exterior)",
+                        "Boali Waterfalls (Chutes de Boali - day trip)",
+                        "Zinga (Traditional village nearby)",
+                        "Crocodile Lake (Lac Aux Crocodiles)",
+                        "The Big Mosque"
+                    ],
+                    "transportation": {
+                        "taxi": "Yellow taxis are the standard; they are not metered, so negotiate the fare before starting. Shared taxis follow fixed routes and are very cheap.",
+                        "buses": "Minibuses and shared vans (taxi-brousse) are the main form of public transport. They are often crowded and follow informal schedules.",
+                        "walking": "The city center and riverside are walkable during the day, but many streets are unpaved and can be muddy or dusty. Avoid walking at night.",
+                        "airport": "Bangui M'Poko International Airport (BGF) is the main gateway. Use official airport taxis or pre-arranged hotel shuttles for safety."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/84/bb/d7/caption.jpg?w=500&h=500&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63650.79912461201!2d18.53599927919039!3d4.378306755057762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10b8ef1ced57aa03%3A0x9bd6c5df6fe5519!2sBangui%2C%20Central%20African%20Republic!5e0!3m2!1sen!2sus!4v1766718258387!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+             "rank": 2,
+                "city_name": "Dzanga-Sangha (Bayanga)",
+                "details": {
+                    "annual tourists": "5,000",
+                    "popular attractions": [
+                        "Dzanga Bai (Elephant viewing platform)",
+                        "Western Lowland Gorilla Tracking",
+                        "Agile Mangabey Tracking",
+                        "Net Hunting with Ba’Aka Pygmies",
+                        "Sangha River Boat Trips",
+                        "Night Forest Walks",
+                        "Medicinal Plant Tours",
+                        "Dzanga-Ndoki National Park"
+                    ],
+                    "transportation": {
+                        "taxi": "No traditional taxis; transportation is typically handled by safari lodges using 4x4 vehicles.",
+                        "buses": "Public transport is extremely difficult; most tourists arrive via chartered flights or private 4x4 convoys from Bangui or Cameroon.",
+                        "walking": "Exploration within the park is strictly on foot with expert trackers and guides through dense rainforest.",
+                        "airport": "Access is usually via the Bayanga airstrip for charter flights. The journey from Bangui by road can take 12-15 hours."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/18/be/65/caption.jpg?w=1200&h=1200&s=1",
+                    "map-url": "<iframe src=/https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31877.54190916824!2d16.23053834384875!3d2.904551991679307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1097cc1a294b6d6b%3A0xde6bd6b4156c8812!2sBayanga%2C%20Central%20African%20Republic!5e0!3m2!1sen!2sus!4v1766718318718!5m2!1sen!2sus/ width=/600/ height=/450/ style=/border:0;/ allowfullscreen=/ loading=/lazy/ referrerpolicy=/no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Berbérati",
+                "details": {
+                    "annual tourists": "2,000",
+                    "popular attractions": [
+                        "Berbérati Grand Marché",
+                        "St. Joseph Cathedral",
+                        "Mambéré Riverfront",
+                        "Liana Bridges (nearby)",
+                        "Artisanal Diamond Mining Sites",
+                        "Local Craft Workshops",
+                        "Mambéré-Kadéï Forest Trails"
+                    ],
+                    "transportation": {
+                        "taxi": "Motorbike taxis (clandos) are the most common way to get around town and nearby villages.",
+                        "buses": "Bush taxis (taxi-brousse) connect Berbérati to Bangui and the Cameroon border, though the roads are often in poor condition.",
+                        "walking": "The town center and local markets are easily explored on foot, which is the best way to experience the local pace of life.",
+                        "airport": "Berbérati Airport (BBT) has an unpaved runway and primarily serves chartered or humanitarian flights."
+                    },
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Rond-point-de-la-ville-de-Berberati-copyrights-CNC.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31830.401910131826!2d15.761311700111452!3d4.259062923167758!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1095001b3ab7c691%3A0xab72609467318f63!2sBerb%C3%A9rati%2C%20Central%20African%20Republic!5e0!3m2!1sen!2sus!4v1766718382836!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Canada",
+        "background-image-url": "https://blog.onevasco.com/wp-content/uploads/country-image-Canada.jpg",
+        "top_cities": [
+            {
+               "rank": 1,
+                "city_name": "Toronto",
+                "details": {
+                    "annual tourists": "27,000,000",
+                    "popular attractions": [
+                        "CN Tower",
+                        "Royal Ontario Museum",
+                        "Ripley's Aquarium",
+                        "Distillery District",
+                        "Toronto Islands",
+                        "St. Lawrence Market",
+                        "Art Gallery of Ontario",
+                        "Casa Loma",
+                        "Niagara Falls (day trip)",
+                        "Eaton Centre"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are metered and everywhere. Uber and Lyft are very popular. The Presto card is used for all public transit.",
+                        "buses": "The TTC (Toronto Transit Commission) operates an extensive network of subways, streetcars, and buses that run 24/7.",
+                        "walking": "Downtown Toronto is very walkable, and the PATH (underground walkway) connects miles of the city center, perfect for winter.",
+                        "airport": "Toronto Pearson (YYZ) is connected to downtown by the UP Express train (25 mins). Billy Bishop (YTZ) is on an island in the harbor."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2f/e4/toronto.jpg?w=1400&h=1400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184551.9097723493!2d-79.54286668777472!3d43.718370958168585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cb90d7c63ba5%3A0x323555502ab4c477!2sToronto%2C%20ON%2C%20Canada!5e0!3m2!1sen!2sus!4v1766718543449!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+             "rank": 2,
+                "city_name": "Vancouver",
+                "details": {
+                    "annual tourists": "10,000,000",
+                    "popular attractions": [
+                        "Stanley Park",
+                        "Granville Island",
+                        "Capilano Suspension Bridge",
+                        "Grouse Mountain",
+                        "Vancouver Aquarium",
+                        "Gastown Steam Clock",
+                        "Museum of Anthropology",
+                        "Whistler (day trip)",
+                        "English Bay Beach",
+                        "Queen Elizabeth Park"
+                    ],
+                    "transportation": {
+                        "taxi": "Readily available. The SkyTrain is the jewel of Vancouver transit, being fully automated and providing great views.",
+                        "buses": "Comprehensive bus and SeaBus (ferry) system. Use a Compass Card for easy travel across all zones.",
+                        "walking": "Vancouver is known as a 'walking city'. The Seawall is the world's longest uninterrupted waterfront path.",
+                        "airport": "Vancouver International Airport (YVR) is connected to downtown by the Canada Line (SkyTrain) in about 25 minutes."
+                    },
+                    "image-url": "https://media.timeout.com/images/106148123/750/562/image.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83327.3714834519!2d-123.20630459178065!3d49.25781819042534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673f143a94fb3%3A0xbb9196ea9b81f38b!2sVancouver%2C%20BC%2C%20Canada!5e0!3m2!1sen!2sus!4v1766718586166!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+              "rank": 3,
+                "city_name": "Montreal",
+                "details": {
+                    "annual tourists": "11,000,000",
+                    "popular attractions": [
+                        "Old Montreal (Vieux-Montréal)",
+                        "Notre-Dame Basilica",
+                        "Mount Royal Park",
+                        "Montreal Botanical Garden",
+                        "Jean-Talon Market",
+                        "The Biosphere",
+                        "Saint Joseph's Oratory",
+                        "Lachine Canal",
+                        "La Ronde",
+                        "Underground City (RESO)"
+                    ],
+                    "transportation": {
+                        "taxi": "Plentiful; Uber and Eva (local cooperative) are common. The Metro system is entirely underground and very artistic.",
+                        "buses": "STM operates a vast bus and metro network. Bixi is one of the world's most successful bike-sharing programs.",
+                        "walking": "Old Montreal is best seen on foot. In winter, the RESO (underground city) allows people to walk through the CBD indoors.",
+                        "airport": "Montreal-Trudeau (YUL) is served by the 747 Express Bus (24/7) and taxis. The REM light rail is currently under construction."
+                    },
+                    "image-url": "https://travel.destinationcanada.com/_next/image?url=https%3A%2F%2Fadmin.destinationcanada.com%2Fsites%2Fdefault%2Ffiles%2F2023-06%2FQC-Montreal-Skyline_hero.jpg&w=1920&q=75",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d178787.43121337757!2d-73.87668157821594!3d45.559304611001686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a541c64b70d%3A0x654e3138211fefef!2sMontreal%2C%20QC%2C%20Canada!5e0!3m2!1sen!2sus!4v1766718635349!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             }
         ]

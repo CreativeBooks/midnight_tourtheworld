@@ -48,7 +48,7 @@ async function renderCountryData() {
                         <h1>${country.name}</h1>
                     </div>
                     <hr style="margin-top:0px;">
-                    <h3>Some of the most visited cities are: ${cityNames}</h3>
+                    <h3>Some of the most visited cities/places are: ${cityNames}</h3>
                     <hr>
             `;
 

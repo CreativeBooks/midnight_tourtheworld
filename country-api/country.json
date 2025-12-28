@@ -1418,7 +1418,7 @@
             }
         ]
     },
-    {
+    {   
         "name": "Belize",
         "background-image-url": "https://www.anywhere.com/img-a/belize/destinations/ambergris-caye/ambergis-caye.jpg",
         "top_cities": [
@@ -1444,7 +1444,7 @@
                         "airport": "San Pedro Airport (SPR) receives frequent small-plane flights from Belize City (15 mins). Water taxis from the mainland are a cheaper alternative (1.5 hours)."
                     },
                     "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/45/4b/4e/san-pedro.jpg?w=1400&h=1400&s=1",
-                    "map-url": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30371.093240743514!2d-87.99746963304041!3d17.91411096617976!2m3!1f\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30371.093240743514!2d-87.99746963304041!3d17.91411096617976!2m3!1f' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             },
             {
@@ -1530,7 +1530,7 @@
                 }
             },
             {
-              "rank": 2,
+                "rank": 2,
                 "city_name": "Uyuni",
                 "details": {
                     "annual tourists": "300,000",
@@ -1555,7 +1555,7 @@
                 }
             },
             {
-              "rank": 3,
+                "rank": 3,
                 "city_name": "Potosi",
                 "details": {
                     "annual tourists": "120,000",

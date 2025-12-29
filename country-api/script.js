@@ -29,9 +29,11 @@ async function renderCountryData() {
 
     try {
         const response = await fetch(API_URL);
-        const text = await response.text(); 
-        console.log("Raw JSON length:", text.length);
-        const countries = JSON.parse(text);
+        if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+
+        const countries = await response.json();
+
+        const country = countries.find(c => c.name === selectedCountryName);
 
         if (country) {
             const backimage = country['background-image-url'];
@@ -135,7 +137,8 @@ async function renderCountryData() {
             mainContainer.innerHTML = `<h1>Country "${selectedCountryName}" not found.</h1>`;
         }
     } catch (error) {
-        console.error('FAILED TO PARSE JSON:', error.message);
+        console.error('Error:', error);
+        mainContainer.innerHTML = '<p style="color:red;">Error loading country data.</p>';
     }
 }
 

@@ -500,7 +500,7 @@
     },
     {
         "name": "Australia",
-        "background-image-url": "https://hblimg.mmtcdn.com/content/hubble/img/sydney/mmt/destination/m_Sydney_destination_l_571_857.jpg",
+        "background-image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/cf/69/07/sydney-harbour.jpg?w=900&h=500&s=1" ,
         "top_cities": [
             {
                 "rank": 1,
@@ -525,7 +525,7 @@
                         "walking": "The CBD and harbor foreshore are very walkable. Coastal walks, like the Bondi to Coogee path, are world-famous.",
                         "airport": "Sydney Airport (SYD) is connected to the city via the Airport Link train (approx. 15 mins) and various shuttle services."
                     },
-                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/cf/69/07/sydney-harbour.jpg?w=900&h=500&s=1",
+                    "image-url": "https://hblimg.mmtcdn.com/content/hubble/img/sydney/mmt/destination/m_Sydney_destination_l_571_857.jpg",
                     "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d424143.87587871496!2d150.60232037625775!3d-33.84780525229795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b129838f39a743f%3A0x3017d681632a850!2sSydney%20NSW%2C%20Australia!5e0!3m2!1sen!2sus!4v1766513594802!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             },
@@ -2481,6 +2481,89 @@
                     },
                     "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/12/28/f9/4a.jpg",
                     "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d145055.44782066176!2d10.233013776000014!3d55.38433203270397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464cd935429724c1%3A0x3b1e34d53b2ff5ec!2sOdense%2C%20Denmark!5e0!3m2!1sen!2sus!4v1766780804518!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' 'loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Egypt",
+        "background-image-url": "https://static.posters.cz/image/hp/106504.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Cairo",
+                "details": {
+                    "annual tourists": "12,200,000 (Arrivals to country)",
+                    "popular attractions": [
+                        "Giza Pyramid Complex",
+                        "Great Sphinx",
+                        "Egyptian Museum",
+                        "Grand Egyptian Museum (GEM)",
+                        "Khan el-Khalili Bazaar",
+                        "Saladin Citadel",
+                        "Al-Azhar Mosque",
+                        "Coptic Cairo (Hanging Church)",
+                        "Saqqara Step Pyramid",
+                        "Memphis Ruins"
+                    ],
+                    "transportation": {
+                        "taxi": "White taxis are metered; ride-hailing apps like Uber and Careem are highly recommended for tourists.",
+                        "buses": "Cairo has a massive bus network and the only metro system in the country, which is efficient for crossing the Nile.",
+                        "walking": "Walking is feasible in historic Islamic Cairo and downtown, but heavy traffic and heat make long-distance walking difficult.",
+                        "airport": "Cairo International Airport (CAI) is the primary hub, connected by taxi, shuttle, and the 'Sail to Egypt' promotional links."
+                    },
+                    "image-url": "https://media.cntraveler.com/photos/655cdf1d2d09a7e0b27741b5/16:9/w_2560%2Cc_limit/Cairo%2520Egypt_GettyImages-1370918272.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55251.33663474957!2d31.2172646237736!3d30.059556316911856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583fa60b21beeb%3A0x79dfb296e8423bba!2sCairo%2C%20Cairo%20Governorate%2C%20Egypt!5e0!3m2!1sen!2sus!4v1767106380103!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Luxor",
+                "details": {
+                    "annual tourists": "1,500,000 (Estimated)",
+                    "popular attractions": [
+                        "Valley of the Kings",
+                        "Karnak Temple Complex",
+                        "Luxor Temple",
+                        "Temple of Hatshepsut",
+                        "Colossi of Memnon",
+                        "Valley of the Queens",
+                        "Deir el-Medina",
+                        "Hot Air Ballooning over the Nile"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis and horse-drawn carriages (caleches) are common; negotiate prices beforehand.",
+                        "buses": "Intercity buses and trains connect Luxor to Cairo and Aswan.",
+                        "walking": "The East Bank (city center) is relatively walkable, especially along the Corniche.",
+                        "airport": "Luxor International Airport (LXR) receives domestic and some international charter flights."
+                    },
+                    "image-url": "",
+                    "map-url": ""
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Alexandria",
+                "details": {
+                    "annual tourists": "1,000,000 (Estimated)",
+                    "popular attractions": [
+                        "Bibliotheca Alexandrina",
+                        "Citadel of Qaitbay",
+                        "Catacombs of Kom El Shoqafa",
+                        "Montaza Palace Gardens",
+                        "Pompey's Pillar",
+                        "The Corniche",
+                        "Roman Amphitheatre",
+                        "Stanley Bridge"
+                    ],
+                    "transportation": {
+                        "taxi": "Yellow and black taxis are abundant; ride-sharing apps are also available.",
+                        "buses": "The city features a classic tram system and a comprehensive bus network.",
+                        "walking": "The Corniche is a scenic 15km promenade perfect for walking by the Mediterranean.",
+                        "airport": "Borg El Arab Airport (HBE) serves the city, located about 40km away."
+                    },
+                    "image-url": "",
+                    "map-url": ""
                 }
             }
         ]

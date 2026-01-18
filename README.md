@@ -10,5 +10,5 @@ This website was created using HTML, CSS, JavaScript, and Python with the occasi
 
 This was the first project in which I learned how to create an API. I created an API in order to create websites for every country if the user clicks on it. I went through many different ways in order to host the API. I didn't even have a proper host when I created the API, I used fastAPI and uvicorn which I later learned I would need to put on a host. From there I used Github Codespaces but that also wasn't a permanent. Then I used Cloud Oracle and that worked until I realized that I needed a domain. So then I used a domain on AWS with the server from Oracle.
 
-All of the countries that are colored dark blue are the ones who currently have data on the JSON file. 
+All of the countries that are colored blue are the ones who currently have data on the JSON file. 
 

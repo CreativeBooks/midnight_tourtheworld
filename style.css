@@ -53,7 +53,7 @@ svg path {
 }
 
 svg path:hover {
-    fill: #4099e2;
+    fill: #40e2ca;
     transition: 0.2s;
     cursor: pointer;
 }
@@ -115,5 +115,5 @@ svg path:hover {
 }
 
 .Afghanistan, .Angola, .Albania, #AE, .Argentina, .Armenia, .Australia, .Austria, .Azerbaijan, .Belgium, .Benin, #BF, .Bangladesh, .Bulgaria, #BA, .Belarus, .Belize, .Bolivia, .Brazil, #BN, .Bhutan, .Bostswana, #CF, .Canada, .China, .Switzerland, #CI, .Cameroon, .Denmark, .Egypt {
-    fill: rgb(17, 59, 110);
+    fill: rgb(128, 176, 234);
 }

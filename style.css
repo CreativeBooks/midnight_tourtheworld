@@ -114,5 +114,6 @@ svg path:hover {
     border-radius: 5px;
 }
 
-
-
+.Afghanistan, .Angola, .Albania, #AE, .Argentina, .Armenia, .Australia, .Austria, .Azerbaijan, .Belgium, .Benin, #BF, .Bangladesh, .Bulgaria, #BA, .Belarus, .Belize, .Bolivia, .Brazil, #BN, .Bhutan, .Bostswana, #CF, .Canada, .China, .Switzerland, #CI, .Cameroon, .Denmark, .Egypt {
+    fill: rgb(65, 175, 225);
+}

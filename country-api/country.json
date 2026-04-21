@@ -2651,7 +2651,7 @@
         "top_cities": [
             {
                 "rank": 1,
-                "city_name": "Brazzavilli",
+                "city_name": "Brazzaville",
                 "details": {
                     "annual tourists": "190,000",
                     "popular attractions": [
@@ -2719,7 +2719,159 @@
                 }
             }
         ]
+    },
+    {
+        "name": "Columbia",
+        "background-image-url": "https://uncovercolombia.com/site/assets/files/59542/cartagena-colombia-vacations.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Bogota",
+                "details": {
+                    "annual tourists": "1.9 million",
+                    "popular attractions": [
+                        "Monserrate",
+                        "Museo del Oro (Gold Museum)",
+                        "La Candelaria",
+                        "Museo Botero",
+                        "Plaza de Bolivar",
+                        "Salt Cathedral of Zipaquira"
+                    ],
+                    "transportation": {
+                        "taxi": "Use apps like Cabify or Didi to ensure a fixed, fair price." ,
+                        "buses": "The TransMilenio (articulated red buses) has its own lanes and is the fastest way to cross the city, but it gets very crowded.",
+                        "walking": "Stick to the La Candelaria and Chapinero districts during the day. Be cautious with your phone out on busy streets.",
+                        "airport": "El Dorado (BOG). Use the official taxi stand or the Cabify/Uber apps. Avoid random street taxis here."
+                    },
+                    "image-url": "https://media.worldnomads.com/Explore/colombia/bogota-one-day-itinerary.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254508.51141489705!2d-74.107807!3d4.64829755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9bfd2da6cb29%3A0x239d635520a33914!2sBogot%C3%A1%2C%20Bogota%2C%20Colombia!5e0!3m2!1sen!2sus!4v1776804422916!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Medellin",
+                "details": {
+                    "annual tourists": "1.2 million",
+                    "popular attractions": [
+                        "Comuna 13",
+                        "Plazo Botero",
+                        "Metrocable",
+                        "Guatape & El Penol",
+                        "Parque Arvi",
+                        "El Poblado"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis use meters here, which is more reliable than in other cities.",
+                        "buses": "Medellín has the country's only Metro system. It is clean, safe, and very efficient.",
+                        "walking": "Very walkable in the Laureles and El Poblado neighborhoods.",
+                        "airport": "José María Córdova (MDE) is 45 minutes away. You can take a white airport taxi (fixed rate) or the 'Aeropuerto' green bus to the city center."
+                    },
+                    "image-url": "https://www.voyagers.travel/_ipx/w_2400&f_webp&q_85/google/travel-web-app-1.appspot.com/flamelink/media/Medellin%20colombia%20-%20Canva%20-%20Sebastian%20Saldarriaga%20Torres.jpg%3Falt=media",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126916.73961650311!2d-75.5812115!3d6.24420345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4428dfb80fad05%3A0x42137cfcc7b53b56!2sMedell%C3%ADn%2C%20Medellin%2C%20Antioquia%2C%20Colombia!5e0!3m2!1sen!2sus!4v1776804620011!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Cartagena",
+                "details": {
+                    "annual tourists": "900,000",
+                    "popular attractions": [
+                        "The Walled City",
+                        "Castillo San Felip de Barajas",
+                        "Gestemani",
+                        "Rosario Islands",
+                        "Convento de la Popa",
+                        "The City Walls (Las Murallas)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis in Cartagena do not use meters. You must negotiate and agree on the price before you close the car door.",
+                        "buses": "The Transcaribe is the main bus system, but most tourists stick to the smaller 'busetas' or taxis.",
+                        "walking": "The Walled City and Gestemani are best explored extirely on foot.",
+                        "airport": "Rafael Nunex (CTG) is very close to the city. Use the electronic kiosks at the exit and get a printed taxi ticket with a set price."
+                    },
+                    "image-url": "https://www.otherwayround.travel/wp-content/uploads/2020/07/small-group-tours-of-colombia-2.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125576.60720642218!2d-75.50852545!3d10.40019875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef625e7ae9d1351%3A0xb161392e033f26ca!2sCartagena%2C%20Bolivar%2C%20Colombia!5e0!3m2!1sen!2sus!4v1776804874844!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+     {
+        "name": "Costa Rica",
+        "background-image-url": "https://www.traveloffpath.com/wp-content/uploads/2025/01/Costa-Rica-Soars-In-Popularity-Despite-US-Travel-Advisory.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "San Jose",
+                "details": {
+                    "annual tourists": "2.2 million",
+                    "popular attractions": [
+                        "Teatro Nacional",
+                        "Museo del Oro Precolombino",
+                        "Museo del Jade",
+                        "Mercado Central",
+                        "Parque La Sabana",
+                        "Barrio Amon"
+                    ],
+                    "transportation": {
+                        "taxi": "Uber is widely used and often preferred for transparent pricing, Official taxis are red with a yellow triangle on the door." ,
+                        "buses": "The city is the hub for all long-distance buses. Inside the city, buses are cheap but require cash.",
+                        "walking": "The pedestrian-only Avenida Central is great with walking, but stick to well-lit areas.",
+                        "airport": "Juan Santamaria Inernational (SJO) is actually in Alajuela, about 30-60 minutes from downtown. Use official orange airport taxis or Uber."
+                    },
+                    "image-url": "https://gotripzi.com/_astro/san-jose-cr-hero.l-dYFAqC.webp",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125759.38928838276!2d-84.11334505!3d9.93554565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0e342c50d15c5%3A0xe6746a6a9f11b882!2sSan%20Jos%C3%A9%20Province%2C%20San%20Jos%C3%A9%2C%20Costa%20Rica!5e0!3m2!1sen!2sus!4v1776806219869!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "La Fortuna",
+                "details": {
+                    "annual tourists": "1.5 million",
+                    "popular attractions": [
+                        "Arenal Volcano National Park",
+                        "La Fortuna Waterfall",
+                        "Tabacon Thermal Resort",
+                        "Mistico Hanging Bridges",
+                        "Lake Arenal",
+                        "Sloth Territory"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are plentiful in the town square. Uber is available but has fewewr drivers than San Jose.",
+                        "buses": "Public buses to the National Park or hot springs are infrequent; most tourists use private shuttles or EasyRide vans.",
+                        "walking": "The town center is very walkable and safe but attractions like the volcano and waters require a vehicle.",
+                        "airport": "Most visitors fly into SJO or LIR and take a 3-hour shuttle. There is a small airstrip for Sansa flights."
+                    },
+                    "image-url": "https://dvnak526bu6js.cloudfront.net/new/Fortuna/la-fortuna-downtown-town-city-buildings-arenal-volcano-costa-rica.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15693.557455004522!2d-84.64038835000001!3d10.46994025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa00c890660e999%3A0x69e3a87bd2572ce6!2sAlajuela%20Province%2C%20La%20Fortuna%2C%20Costa%20Rica!5e0!3m2!1sen!2sus!4v1776806590867!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Tamarindo",
+                "details": {
+                    "annual tourists": "800,000",
+                    "popular attractions": [
+                        "Tamarindo Beach",
+                        "Las Baulas National Marine Park",
+                        "Tamarindo Estuary",
+                        "Playa Conchal",
+                        "Catamaran Sunset Cruises",
+                        "Tamarindo Night Market"
+                    ],
+                    "transportation": {
+                        "taxi": "Shared taxis are common for getting to nearby beaches like Playa Avellanas.",
+                        "buses": "The Tamarindo Shuttles and public buses connect to Liberia and San Jose daily.",
+                        "walking": "The main strip is very walkable. Many people also rent Gold Carts, which are the unofficial prefrred mode of transport for tourists here.",
+                        "airport": "Daniel Oduber Quiros Inernational (LIR) in Liberia is only 1 hour away. This is much better than flying into San Jose."
+                    },
+                    "image-url": "https://res.cloudinary.com/vacationscostarica-com/image/upload/f_auto/q_auto/v1650823626/tamarindo_diria_beachfront_overview_guanacaste_7945a0a8c0?_a=BBGAABZE0",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15702.045940198905!2d-85.83806990000001!3d10.3008886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f9e39409203c30f%3A0xbb189f5e2cc1f893!2sGuanacaste%20Province%2C%20Tamarindo%2C%20Costa%20Rica!5e0!3m2!1sen!2sus!4v1776806872681!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
     }
+
+
 
 
     

@@ -2537,8 +2537,8 @@
                         "walking": "The East Bank (city center) is relatively walkable, especially along the Corniche.",
                         "airport": "Luxor International Airport (LXR) receives domestic and some international charter flights."
                     },
-                    "image-url": "",
-                    "map-url": ""
+                    "image-url": "https://www.egypttoursportal.com/images/2017/11/luxor-the-ancient-city-egypt-tours-portal.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922008.0776679482!2d32.91675645!3d25.48522725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x144905009a9154d9%3A0xaface7ce9b7720d!2sLuxor%20Governorate%2C%20Egypt!5e0!3m2!1sen!2sus!4v1776719266401!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             },
             {
@@ -2562,10 +2562,166 @@
                         "walking": "The Corniche is a scenic 15km promenade perfect for walking by the Mediterranean.",
                         "airport": "Borg El Arab Airport (HBE) serves the city, located about 40km away."
                     },
-                    "image-url": "",
-                    "map-url": ""
+                    "image-url": "https://betamedia.experienceegypt.eg/media/experienceegypt/img/Original/2022/8/7/2022_8_7_18_27_31_356.jpeg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d218360.18826593956!2d29.954885900000004!3d31.224110850000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14f5c49126710fd3%3A0xb4e0cda629ee6bb9!2sAlexandria%2C%20Alexandria%20Governorate%2C%20Egypt!5e0!3m2!1sen!2sus!4v1776719335115!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "background-image-url": "https://www.un.org/en/spotlight-on-drcongo",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Kinshasa",
+                "details": {
+                    "annual tourists": "400,000",
+                    "popular attractions": [
+                        "Lola ya Bonobo",
+                        "National Museum of Kinshasa",
+                        "Zongo Falls",
+                        "Symphonie des Arts",
+                        "Marche des Valeurs",
+                        "Kinkole Fish Market"
+                    ],
+                    "transportation": {
+                        "taxi": "Use 'Tazi-Express' (private, marked cars). Avoid the yellow 'Esprit de Vie' shared vans unless you are a seasoned traveler, as they are often overcrowded" ,
+                        "buses": "Large Transco buses follow set routes and are affordable, but they are frequently stuck in heavy traffic.",
+                        "walking": "Walking is safe in Gombe (the administrative district) during the day walking at night or in perpheral communes without a local guide.",
+                        "airport": "N'Djili International (FIH)is roughly 25km from the center. Always arrnage a hotel pickup in advancve; unofficial airport transport can be reliable."
+                    },
+                    "image-url": "https://www.hilton.com/im/en/FIHKNHI/19395345/night-exterior.jpg?impolicy=crop&cw=4780&ch=2676&gravity=NorthWest&xposition=0&yposition=196&rw=768&rh=430",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127297.67664875882!2d15.240342772895554!3d-4.401299216116141!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a3130fe066a8b%3A0x168b7e4e1f52378d!2sKinshasa%2C%20Democratic%20Republic%20of%20the%20Congo!5e0!3m2!1sen!2sus!4v1776719075984!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Lubumbashi",
+                "details": {
+                    "annual tourists": "90,000",
+                    "popular attractions": [
+                        "St. Peter and Paul Catherdral",
+                        "Lubumbashi Zoo",
+                        "National Museum of Lubumbashi",
+                        "Lake Kipopo",
+                        "The Kiubo Falls",
+                        "J.A.C.K. Sanctuary",
+                        "Muyambo Park",
+                        "Lake Tshangalele"
+                    ],
+                    "transportation": {
+                        "taxi": "Reliable taxis are available at the airport and major hotels. Hotel-arranged shuttles are the safest bet for newcomers.",
+                        "buses": "Minibuses serve most routes. They are cheap but lack fixed schedules.",
+                        "walking": "The city center is relatively walkable during daylight hours, but sidewalks can be uneven or non-existent.",
+                        "airport": "Lubumbashi International (FBM). It is closer to the city center (20–40 mins) than Kinshasa’s airport."
+                    },
+                    "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0a/b0/89/0e.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125032.60628932969!2d27.5021916!3d-11.6753421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19723ea34874cbd9%3A0xa1c6f5a74f805b2f!2sLubumbashi%2C%20Democratic%20Republic%20of%20the%20Congo!5e0!3m2!1sen!2sus!4v1776719715429!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Goma",
+                "details": {
+                    "annual tourists": "40,000",
+                    "popular attractions": [
+                        "Virunga National Park",
+                        "Mount Nyiragongo",
+                        "Lake Kivu",
+                        "Senkwekwe",
+                        "Lac Vert",
+                        "Goma Artisan Market"
+                    ],
+                    "transportation": {
+                        "taxi": "Car taxis are available, but Motorcycle Taxis (Toleka) are the dominant form of transport. Use them with caution and only during the day.",
+                        "buses": "Few formal buses; most residents rely on shared minibuses or motorbikes.",
+                        "walking": "Goma is quite spread out and the volcanic rock terrain can be tough on shoes. Walking along the lakefront is popular but stay alert.",
+                        "airport": "Goma International Airport (GOM). Note that the runway was partially covered by lava in 2002 and 2021, though it remains operational."
+                    },
+                    "image-url": "https://rwandaecocompany.com/wp-content/uploads/2020/01/goma-district.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63810.34214878586!2d29.208108499999998!3d-1.6587696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dd0f5ff03ccf71%3A0x8702d152f9f905e7!2sGoma%2C%20Democratic%20Republic%20of%20the%20Congo!5e0!3m2!1sen!2sus!4v1776719896345!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Republic of the Congo",
+        "background-image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/53/ee/c4/loufoulakari-falls.jpg?w=1200&h=700&s=1",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Brazzavilli",
+                "details": {
+                    "annual tourists": "190,000",
+                    "popular attractions": [
+                        "Basilique St. Anna",
+                        "Les Rapides",
+                        "Pierre Savorgnan de Brazza Memorial",
+                        "Poto-Poto School of Painting",
+                        "The Corniche",
+                        "Lésio-Louna Gorilla Reserve"
+                    ],
+                    "transportation": {
+                        "taxi": "Green-and-white taxis are everywhere. They are shared by default; for a private ride, ask for 'course' and negotiate the price (usually 700–1,500 CFA within the center)." ,
+                        "buses": "Large 'Transco' buses and smaller minibuses follow set routes. They are cheap but can be very crowded.",
+                        "walking": "The Gombe and Centre-Ville areas are quite walkable and safe during the day.",
+                        "airport": "Maya-Maya Airport (BZV) is modern and very close to the city center."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d6/21/cb/brazzaville.jpg?w=1100&h=-1&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d509294.77397523436!2d14.897560954710322!3d-4.246440150461515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a32ac441bb83b%3A0xab3deababe7de443!2sBrazzaville%2C%20Republic%20of%20the%20Congo!5e0!3m2!1sen!2sus!4v1776721967955!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Pointe-Noire",
+                "details": {
+                    "annual tourists": "100,000",
+                    "popular attractions": [
+                        "Côte Sauvage",
+                        "Diosso Gorges",
+                        "Loango National Park",
+                        "The Pointe-Noire Lighthouse",
+                        "Tchimpounga Chimpanzee Rehabilitation Center",
+                        "Grand Marché"
+                    ],
+                    "transportation": {
+                        "taxi": "Blue-and-white taxis are the standard. Similar to Brazzaville, they are shared unless you pay for a private 'course.'",
+                        "buses": "'Coasters' (minibuses) serve most districts.",
+                        "walking": "Walking along the beach or in the Centre is common, but keep an eye on your belongings in crowded market areas.",
+                        "airport": "Agostinho-Neto International Airport (PNR)."
+                    },
+                    "image-url": "https://www.libreville-aeroport.com/wp-content/uploads/2019/11/pointe-noire-2-750x500-c-default.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254453.8139999719!2d11.71291011657897!3d-4.797360187379064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a60a53485724a37%3A0xef9e1b9adf4a9095!2sPointe-Noire%2C%20Republic%20of%20the%20Congo!5e0!3m2!1sen!2sus!4v1776722181436!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Dolisie",
+                "details": {
+                    "annual tourists": "20,000",
+                    "popular attractions": [
+                        "Dimonika Biosphere Reserve",
+                        "Mayombe Forest",
+                        "Mont Nabemba",
+                        "Dolisie Cathederal",
+                        "The Railway Station",
+                        "Local Palm Plantations"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are fewer than in the big cities but are the primary way for visitors to get around.",
+                        "buses": "Dolisie is a major stop for long-distance buses traveling the paved highway between Brazzaville and Pointe-Noire.",
+                        "walking": "The city is small enough that many people walk, though the tropical heat can be intense.",
+                        "airport": "Dolisie Airport (DIS) has limited domestic flights, primarily from Brazzaville."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/58/e8/d4/chutes-de-madiaba-a-sossi.jpg?w=1400&h=-1&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127331.21637117694!2d12.588568095669896!3d-4.200600111853742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a66f89016181653%3A0xb0556a9ae1115884!2sDolisie%2C%20Republic%20of%20the%20Congo!5e0!3m2!1sen!2sus!4v1776722327468!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
                 }
             }
         ]
     }
+
+
+    
+
 ]

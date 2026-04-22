@@ -2795,7 +2795,7 @@
             }
         ]
     },
-     {
+    {
         "name": "Costa Rica",
         "background-image-url": "https://www.traveloffpath.com/wp-content/uploads/2025/01/Costa-Rica-Soars-In-Popularity-Despite-US-Travel-Advisory.jpg",
         "top_cities": [
@@ -2869,7 +2869,233 @@
                 }
             }
         ]
+    },
+    {
+        "name": "Cuba",
+        "background-image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f5/33/cuba.jpg?w=1200&h=700&s=1",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Havana",
+                "details": {
+                    "annual tourists": "1.2 million",
+                    "popular attractions": [
+                        "Old Havana",
+                        "The Malecon",
+                        "El Capitolio",
+                        "Plaza de la Revolucion",
+                        "Fabrica de Arte Cubano",
+                        "Morro Castle"
+                    ],
+                    "transportation": {
+                        "taxi": "You'll see yellow state taxis and Almendrones (Class American cars). Always agree on the price before staring you jounrye in a classic car." ,
+                        "buses": "Gazelas (minibuses) run set routes for locals. For interprovincial travel, use the Viazul bus system, which is the only reliable coach service for tourists.",
+                        "walking": "Old Havana and Central Havana are extremely walkable, though sidewalks can be uneven.",
+                        "airport": "Jose Marti International (HAV). It is the most common entry point; use official yellow taxis to get to the city center."
+                    },
+                    "image-url": "https://whc.unesco.org/uploads/thumbs/site_0204_0002-1200-630-20151104164703.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29349.22440559738!2d-82.3126067!3d23.1463537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88cd79a330925259%3A0x142229cc76b7d63d!2sOld%20Havana%2C%20Havana%2C%20Cuba!5e0!3m2!1sen!2sus!4v1776890738872!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Varadero",
+                "details": {
+                    "annual tourists": "600,000",
+                    "popular attractions": [
+                        "Varadeo Beach",
+                        "Satruno Cave",
+                        "Parque Josone",
+                        "Varahicacos Ecological Reserve",
+                        "Mansion Xanadu",
+                        "Varadero Municipal Museum"
+                    ],
+                    "transportation": {
+                        "taxi": "Coco Taxis are populat for short, fun rides within the resort trip.",
+                        "buses": "The Varadero Beach Tour is a double decker hop on hop off bus that runs the length of the peninsula for a small flat daily fee.",
+                        "walking": "The main town area *near the Calle) is very walkable, but the resort trip is quite long.",
+                        "airport": "Juan Gualberto Gomez Airport (VRA). Many visitors fly directly here to avoid the 2-hour drive from Havana."
+                    },
+                    "image-url": "https://media-cdn.tripadvisor.com/media/photo-s/16/02/7b/03/paradisus-varadero-resort.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117378.17554998888!2d-81.2149294!3d23.167718649999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d307c11ac4c263%3A0x390db0c32f899588!2sVaradero%2C%20Cuba!5e0!3m2!1sen!2sus!4v1776890990817!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Santiago de Cuba",
+                "details": {
+                    "annual tourists": "150,000",
+                    "popular attractions": [
+                        "Castillo de San Pedro de la Roca",
+                        "Parque Cespedes",
+                        "Santa Ifigenia Cemetary",
+                        "Moncada Barracks",
+                        "Casa de la Trova",
+                        "Basilica of Our Lady of Charity of El Cobre"
+                    ],
+                    "transportation": {
+                        "taxi": "Shared taxis follow specific routes. Motorcycle taxis are also much more common here than in Havana.",
+                        "buses": "Viazul buses connect Santiago to other major hubs like Holhuin and Camaguey.",
+                        "walking": "Be prepared for hills. Unlike Havana, Santiago is built on sloping terrain, making walking a bit of a workout.",
+                        "airport": "Antonio Maceo Airport (SCU). It serves some international flights and regular domestic flights from Havana."
+                    },
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Santiago_de_cuba_al_atardecer.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119955.93249739407!2d-75.82609670000001!3d20.02433605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ece5be79192656b%3A0xe7195bec460b1a38!2sSantiago%20de%20Cuba%2C%20Cuba!5e0!3m2!1sen!2sus!4v1776891381314!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Czech Republic",
+        "background-image-url": "https://www.opulentroutes.com/wp-content/uploads/2021/04/czech-republic.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Prague",
+                "details": {
+                    "annual tourists": "10 million",
+                    "popular attractions": [
+                        "Prague Castly & St. Vitus Cathedral",
+                        "Charles Bridge",
+                        "The Astronomical Clock",
+                        "Petrin Lookout Tower & Funicular",
+                        "Muller Villa",
+                        "The Jewish Quarter"
+                    ],
+                    "transportation": {
+                        "taxi": "Stick to Uber or Bolt. Avoid hailing random taxis on the street to prevent overcharging." ,
+                        "buses": "use the PID Litacka app to buy tickets. The city has three more metro lines (A, B, C) and massive tram network.",
+                        "walking": "The Royal Way (from Old Town to the Castle) is best on foot, but wear comfortable shoes for the cobblestones.",
+                        "airport": "Vaclav Havel Airport (PRG). Use the Airport Express (AE) bus to reach the Main Train Station in 30 minutes."
+                    },
+                    "image-url": "https://www.pragueexperience.com/images/photos/xxxlarge/prague-christmas-markets.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d327861.4557145016!2d14.4656836!3d50.05974005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b939c0970798b%3A0x400af0f66164090!2sPrague%2C%20Czechia!5e0!3m2!1sen!2sus!4v1776892448811!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Brno",
+                "details": {
+                    "annual tourists": "800,000",
+                    "popular attractions": [
+                        "Villa Tugendhat",
+                        "Spilberk Castle",
+                        "The Labyrinth Under Vegetable market",
+                        "St. Peter and Paul Cathedral",
+                        "The Oxxuary at St. James Church",
+                        "10-Z Bunker"
+                    ],
+                    "transportation": {
+                        "taxi": "Bolt is very active here and usually cheaper than traditional taxi companies.",
+                        "buses": "The Salina is the heartbeat of the city. Tickets are easily bought via contacless card raders inside the vehicles.",
+                        "walking": "The historic center is compact and largely pedestrianized.",
+                        "airport": "Brno-Turany (BRN). Mostly serves regional and seasonal flights. Most visitors arrive via a 2.5 hour train from Prague."
+                    },
+                    "image-url": "https://www.rucksack.se/wp-content/uploads/2021/10/Brno-sevardheter-Tjeckien-1686.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d166842.62583056602!2d16.577928049999997!3d49.2021525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4712943ac03f5111%3A0x400af0f6614b1b0!2sBrno%2C%20Czechia!5e0!3m2!1sen!2sus!4v1776892843756!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Ostrava",
+                "details": {
+                    "annual tourists": "300,000",
+                    "popular attractions": [
+                        "Dolni Vitkovice",
+                        "Bolt Tower",
+                        "The New Town Hall Tower",
+                        "Silesian Ostrava Castle",
+                        "Landek Park",
+                        "Stodolni Street"
+                    ],
+                    "transportation": {
+                        "taxi": "Use the Liftago app, which is a Czech-specific app that lets you choose your driver based on their rating and price.",
+                        "buses": "Ostrava has a very modern tram fleet. Use a credit card to check-in and check-out on any tram of bus for the best fare.",
+                        "walking": "While the center is walkable, the lower Vitkovice area is vast, expect to walk several kilometers to see the whole site.",
+                        "airport": "Leos Janacek Airport (OSR). Connects via train or bus to the Ostrava-Scinov station."
+                    },
+                    "image-url": "https://www.amazingczechia.com/wp-content/uploads/2017/05/ostrava-panorama.jpg",
+                    "map-url": "<iframe src=;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d164749.33546669787!2d18.237400299999997!3d49.819748849999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4711586a3124e79d%3A0x891973fb9f9e9144!2sOstrava%2C%20Czechia!5e0!3m2!1sen!2sus!4v1776893087588!5m2!1sen!2sus; width=;600; height=;450; style=;border:0;; allowfullscreen=; loading=;lazy; referrerpolicy=;no-referrer-when-downgrade;></iframe>"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Albania",
+        "background-image-url": "https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/blt7eabbe45a39a4f08/6828b9a0a4165a8fd0ade48a/BCC-2025-EXPLORER-ALBANIA-FIRST_TIME_IN_COUNTRY-HEADER-MOBILE.jpg?format=webp&auto=avif&quality=60&crop=4%3A3&width=1440",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Tirana",
+                "details": {
+                    "annual tourists": "4.5 million",
+                    "popular attractions": [
+                        "Skanderbeg Square",
+                        "Bunk'Art 1 & 2",
+                        "Dajti Exspres",
+                        "The Pyramid of Tirana",
+                        "The New Bazaar",
+                        "Blloku District"
+                    ],
+                    "transportation": {
+                        "taxi": "Use apps like VrapOn or Ups Taxi for transparent pricing." ,
+                        "buses": "Local buses are very cheap but require cash. Use the Gjirafa website/app to check intercity schedules.",
+                        "walking": "The city center is flat and very walkable. Be bold when crossing streets; drivers can be very assertive.",
+                        "airport": "Tirana International (TIA). Use the LU-NA shuttle bus (every hour) or official taxis."
+                    },
+                    "image-url": "https://gotripzi.com/cdn-cgi/image/onerror=redirect,width=3200,height=2400,fit=cover,format=png/_astro/tirana-al-city.BYE7-_Po.webp",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95868.2159231733!2d19.817823200000003!3d41.3331847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1350310470fac5db%3A0x40092af10653720!2sTiran%C3%AB%2C%20Albania!5e0!3m2!1sen!2sus!4v1776893956450!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Durres",
+                "details": {
+                    "annual tourists": "1.5 million",
+                    "popular attractions": [
+                        "Durres Amphitheatre",
+                        "The Venetian Tower",
+                        "Archaeological Museum",
+                        "Durres Beach",
+                        "Sfinksi",
+                        "Cape of Rodon"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis are plentiful near the Port and the City Hall; always negotiate the price beforehand.",
+                        "buses": "Frequent buses run between Tirana and Durres throughout thr day.",
+                        "walking": "The Volga seasire promenade is a beautiful, dedicated walking area.",
+                        "airport": "Accessible via TIA; many travelers take a direct taxi or abus from Trana"
+                    },
+                    "image-url": "https://albaniatouristplaces.com/wp-content/uploads/2023/02/durres-things-to-do1.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95868.2159231733!2d19.817823200000003!3d41.3331847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134fd97c5fbbbcc7%3A0x77f377eae6cd81ee!2sDurr%C3%ABs%2C%20Albania!5e0!3m2!1sen!2sus!4v1776894147814!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Vlore",
+                "details": {
+                    "annual tourists": "1.2 million",
+                    "popular attractions": [
+                        "Lungomare",
+                        "Independence Monument",
+                        "Zvernec Monastery",
+                        "Llogara Pass",
+                        "Sazan Island",
+                        "Kanine Castle"
+                    ],
+                    "transportation": {
+                        "taxi": "Local taxis are the best way to reach secluded beaches like Radhime just south of the city.",
+                        "buses": "Inercity buses arrive at the central station near the stadium.",
+                        "walking": "The city's main tourist area (Lungomare) is designe specifically for pedestrians.",
+                        "airport": "Vlora International (VLO) is the newest option. If flying into TIA expect a 2.5 hour bus/drive."
+                    },
+                    "image-url": "https://i.natgeofe.com/n/8e7ed875-9ef5-465d-945f-ccdb451e63df/albania.jpg",
+                    "map-url": "<iframe src'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95868.2159231733!2d19.817823200000003!3d41.3331847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134fd97c5fbbbcc7%3A0x77f377eae6cd81ee!2sDurr%C3%ABs%2C%20Albania!5e0!3m2!1sen!2sus!4v1776894147814!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
     }
+
 
 
 

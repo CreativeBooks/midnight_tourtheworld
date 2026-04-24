@@ -3094,6 +3094,81 @@
                 }
             }
         ]
+    },
+    {
+        "name": "Djibouti",
+        "background-image-url": "https://wallpapercave.com/wp/wp2275187.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Djibouti City",
+                "details": {
+                    "annual tourists": "160,000",
+                    "popular attractions": [
+                        "Hamoudi Mosque",
+                        "European Quarter",
+                        "African Quarter",
+                        "Khor Ambado Beach",
+                        "Moucha & Maskali Islands",
+                        "Place Menelik"
+                    ],
+                    "transportation": {
+                        "taxi": "Green and white taxis are the standard. They do not have meters, so negotiate the price before the car moces. Private courses are safer and move comfortable to tourists." ,
+                        "buses": "Small green minibuses run set routes. They are extremely cheap but often very crowded and lack air conditioning.",
+                        "walking": "The Plateau is walkable and safe during the day, but tropical heat makes long walks dificult.",
+                        "airport": "Djibouti-Ambouli International (JIB). It is very close to the city center. Ensure you have your eVisa ready."
+                    },
+                    "image-url": "https://www.travelthewholeworld.com/wp-content/uploads/2014/01/Djibouti-City-Downtown.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d174690.08138905515!2d43.07778692690974!3d11.545651346270041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x162300cfde391eb3%3A0xa12a9a3a7d2821ac!2sDjibouti!5e0!3m2!1sen!2sus!4v1776976748594!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Tadjoura",
+                "details": {
+                    "annual tourists": "40,000",
+                    "popular attractions": [
+                        "Lake Assal",
+                        "The Old Part",
+                        "Day Forest National Park",
+                        "Plage de Sables Blancs",
+                        "Seven Brothers Islands",
+                        "The Whitewashed Quarter"
+                    ],
+                    "transportation": {
+                        "taxi": "Limited compaared to the capital. Most transparent is done via shared minibuses heading toward the mountains or Lake Assal.",
+                        "buses": "Furgons (minibuses) leave the capital daily for Tadjoura, though the journey is long and hot (3-4 hours).",
+                        "walking": "The town is very compact and best explored entirely on foot.",
+                        "airport": "Whie there is a small airstrip, most visitors arrive via the ferry from Djibouti City."
+                    },
+                    "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/60/3c/1c/khor-ambado-plage.jpg?w=600&h=400&s=1",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125090.76853930565!2d43.07778692690974!3d11.545651346270041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1622e76a6c79cd97%3A0xafd94571d2da795c!2sTadjoura%2C%20Djibouti!5e0!3m2!1sen!2sus!4v1776978591610!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Ali Sabieh",
+                "details": {
+                    "annual tourists": "20,000",
+                    "popular attractions": [
+                        "Ali Sabieh Mountain",
+                        "Grand Bara Desert",
+                        "Lake Abbe",
+                        "Ali Sabieh Centrial Souq",
+                        "Old Ethio-Djibouti Railway Station",
+                        "Peteroglyphs of Arta"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis here are mostly used for short hops in town. For the desert, you must hire a 4WD with a driver.",
+                        "buses": "Frequent minibuses connect Ali Sabieh to the capital; the road is paved and relatively fast.",
+                        "walking": "Safe and common within the town center, but a vehicle is mandatory for any of the regional attractions.",
+                        "airport": "No commericial airport; arrive via the modern electronic railway or by road."
+                    },
+                    "image-url": "https://upload.wikimedia.org/wikipedia/commons/6/63/View_of_Ali_Sabieh.JPG",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15658.05160104111!2d42.70804445!3d11.14960935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1624a7e37ecf7d87%3A0x422675be7632d06e!2sAli%20Sabieh%2C%20Djibouti!5e0!3m2!1sen!2sus!4v1776978878875!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                }
+            }
+        ]
     }
 
 

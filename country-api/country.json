@@ -32,6 +32,10 @@
                     "restaurants": {
                         "name":"",
                         "food":""
+                    },
+                    "hotels":{
+                        "name":"",
+                        "details":""
                     }
                     
                 }

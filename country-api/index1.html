@@ -242,8 +242,8 @@
                     
                     let hotelList = `<h2>Hotels</h2><br><p>`;
                     country.top_cities.forEach(city => {
-                    const stay = city.details.hotels || 'Information Not Available';
-                    hotelList += `<b>${city.city_name}: </b> ${stay} <br><br>`;
+                    const details = city.details.hotels || 'Information Not Available';
+                    hotelList += `<b>${city.city_name}: </b> ${details} <br><br>`;
                     });
                     hotelList += `</p>`;
 

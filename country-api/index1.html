@@ -232,13 +232,23 @@
                     countryHtml += `<hr><h1 style="margin-bottom:10px;" id="dynamic-trans">Restaurants + Hotels</h1>`;
                     countryHtml += `<div class="container">`;
                     
-                    let restaurant = = `<h2>Restaurant</h2><br><p>`;
+                    let restaurantList = `<h2>Restaurant</h2><br><p>`;
                     country.top_cities.forEach (city => {
                     const food = city.details.restaurants || 'Information Not Available';
-                    restaurant += '<b>${city.city_name}: </b> ${food} <br><br>'
+                    restaurantList += `<b>${city.city_name}: </b> ${food} <br><br>`
                     });
 
-                    restaurant += '<p>'
+                    restaurantList += `<p>`;
+                    
+                    let hotelList = `<h2>Hotels</h2><br><p>`;
+                    country.top_cities.forEach(city => {
+                    const stay = city.details.hotels || 'Information Not Available';
+                    hotelList += `<b>${city.city_name}: </b> ${stay} <br><br>`;
+                    });
+                    hotelList += `</p>`;
+
+                    countryHtml += `<div class="ccontent">${restaurantList}</div>`;
+                    countryHtml += `<div class="ccontent">${hotelList}</div>`;
 
 
                     countryHtml += `</div>`; 

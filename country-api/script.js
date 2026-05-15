@@ -130,7 +130,29 @@ async function renderCountryData() {
                     
             countryHtml += `<div class="ccontent">${airportTips}</div>`;
             countryHtml += `<div class="ccontent">${publicTips}</div>`;
-            countryHtml += `</div></div>`;
+
+            countryHtml += `<hr><h1 style="margin-bottom:10px;" id="dynamic-rest-hotel">Restaurants + Hotels</h1>`;
+            countryHtml += `<div class="container">`;
+            
+            let restaurantList = `<h2>Restaurant</h2><br><p>`;
+            country.top_cities.forEach(city => {
+                const food = city.details.restaurants || 'Information Not Available';
+                restaurantList += `<b>${city.city_name}: </b> ${food} <br><br>`;
+            });
+            restaurantList += `</p>`; 
+            
+            let hotelList = `<h2>Hotels</h2><br><p>`;
+            country.top_cities.forEach(city => {
+                const hotels = city.details.hotels || 'Information Not Available';
+                hotelList += `<b>${city.city_name}: </b> ${hotels} <br><br>`;
+            });
+            hotelList += `</p>`;
+
+            countryHtml += `<div class="ccontent">${restaurantList}</div>`;
+            countryHtml += `<div class="ccontent">${hotelList}</div>`;
+            countryHtml += `</div>`;
+            
+            countryHtml += `</div>`;
 
             mainContainer.innerHTML = countryHtml;
         } else {

@@ -28,7 +28,12 @@
                         "airport": "Use official airport taxis or arrange a hotel pickup in advance. Avoid accepting rides from individuals inside or outside the terminals."
                     },
                     "image-url": "https://www.laurewanders.com/wp-content/uploads/2025/03/Places-to-Visit-in-Kabul-Sakhi-Shrine-1024x683.jpg",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d420615.25486517954!2d68.57385472041007!3d34.55212029789309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38d1694c3c1e6d49%3A0xebdf473578214429!2sKabul%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765586371223!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d420615.25486517954!2d68.57385472041007!3d34.55212029789309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38d1694c3c1e6d49%3A0xebdf473578214429!2sKabul%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765586371223!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": {
+                        "name":"",
+                        "food":""
+                    }
+                    
                 }
             },
             {

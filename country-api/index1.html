@@ -220,12 +220,26 @@
                             <b>Walking: </b>${walking}<br>
                             <br>
                         `;
+                    
                     });
                     publicTips += `</p>`;
 
                     
                     countryHtml += `<div class="ccontent">${airportTips}</div>`;
                     countryHtml += `<div class="ccontent">${publicTips}</div>`;
+
+                    // --- Restaurant Section ---
+                    countryHtml += `<hr><h1 style="margin-bottom:10px;" id="dynamic-trans">Restaurants + Hotels</h1>`;
+                    countryHtml += `<div class="container">`;
+                    
+                    let restaurant = = `<h2>Restaurant</h2><br><p>`;
+                    country.top_cities.forEach (city => {
+                    const food = city.details.restaurants || 'Information Not Available';
+                    restaurant += '<b>${city.city_name}: </b> ${food} <br><br>'
+                    });
+
+                    restaurant += '<p>'
+
 
                     countryHtml += `</div>`; 
                     countryHtml += `</div>`; 

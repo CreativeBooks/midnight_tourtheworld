@@ -131,7 +131,7 @@ async function renderCountryData() {
             countryHtml += `<div class="ccontent">${airportTips}</div>`;
             countryHtml += `<div class="ccontent">${publicTips}</div>`;
 
-            countryHtml += `</div>`;
+            // countryHtml += `</div>`;
             //--- Restaurant + Hotels Section
             countryHtml += `<hr><h1 style="margin-bottom:10px;" id="dynamic-rest-hotel">Restaurants + Hotels</h1>`;
             countryHtml += `<div class="container">`;

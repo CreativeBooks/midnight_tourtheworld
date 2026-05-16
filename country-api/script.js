@@ -156,6 +156,7 @@ async function renderCountryData() {
             countryHtml += `<div class="ccontent">${restaurantTips}</div>`;
             countryHtml += `<div class="ccontent">${hotelTips}</div>`;
 
+            countryHtml += `</div>`
             
             
             countryHtml += `</div></div>`;

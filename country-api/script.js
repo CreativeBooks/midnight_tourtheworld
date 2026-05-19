@@ -139,19 +139,47 @@ async function renderCountryData() {
                     
             let restaurantTips = `<h2>Restaurants</h2><br><p>`;
             country.top_cities.forEach(city => {
-                const details = city.details.restaurants || 'Information not available.';
-                restaurantTips += `<b>${city.city_name}:</b> ${details} <br><br>`;
-            });
-            restaurantTips += `</p>`;
+            // Print the City Name
+            restaurantTips += `<div><b>${city.city_name}</b></div>`;
+    
+            const restaurants = city.details.restaurants;
+    
+            // Check if the array exists and has items
+            if (Array.isArray(restaurants) && restaurants.length > 0) {
+                restaurants.forEach(rest => {
+                    // Indents the restaurant info block inside the city
+                    restaurantTips += `<div style="margin-left: 20px; margin-bottom: 5px;">
+                        <strong>${rest.name}:</strong> ${rest.description}
+                    </div>`;
+                });
+            } else {
+                restaurantTips += `<div style="margin-left: 20px; color: gray;">Information not available.</div>`;
+            }     
+            restaurantTips += `<br>`; // Extra space between cities
+        });
 
                     
             let hotelTips = `<h2>Hotels</h2><br><p>`;
             country.top_cities.forEach(city => {
-                const hotels = city.details.hotels || 'Information not available.';
-                hotelTips += `<b>${city.city_name}:</b> ${hotels} <br><br>`;
-                        
-            });
-            hotelTips += `</p>`;
+            // Print the City Name
+            hotelTips += `<div><b>${city.city_name}</b></div>`;
+            
+            const hotels = city.details.hotels;
+            
+            // Check if the array exists and has items
+            if (Array.isArray(hotels) && hotels.length > 0) {
+                hotels.forEach(hotel => {
+                    // Indents the hotel info block inside the city
+                    hotelTips += `<div style="margin-left: 20px; margin-bottom: 5px;">
+                        <strong>${hotel.name}:</strong> ${hotel.description}
+                    </div>`;
+                });
+            } else {
+                hotelTips += `<div style="margin-left: 20px; color: gray;">Information not available.</div>`;
+            }
+            hotelTips += `<br>`; // Extra space between cities
+        });
+            // hotelTips += `</p>`;
 
                     
             countryHtml += `<div class="ccontent">${restaurantTips}</div>`;

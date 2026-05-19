@@ -149,7 +149,7 @@ async function renderCountryData() {
                 restaurants.forEach(rest => {
                     // Indents the restaurant info block inside the city
                     restaurantTips += `<div style="margin-left: 20px; margin-bottom: 5px;">
-                        <strong>${rest.name}:</strong> ${rest.description}
+                        <strong>${restaurant.name}:</strong> ${restaurant.description}
                     </div>`;
                 });
             } else {

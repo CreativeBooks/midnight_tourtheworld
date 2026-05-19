@@ -137,7 +137,7 @@ async function renderCountryData() {
             countryHtml += `<div class="container">`;
 
                     
-            let restaurantTips = `<h2>Airport</h2><br><p>`;
+            let restaurantTips = `<h2>Restaurants</h2><br><p>`;
             country.top_cities.forEach(city => {
                 const details = city.details.restaurants || 'Information not available.';
                 restaurantTips += `<b>${city.city_name}:</b> ${details} <br><br>`;
@@ -145,7 +145,7 @@ async function renderCountryData() {
             restaurantTips += `</p>`;
 
                     
-            let hotelTips = `<h2>Local Public Transport</h2><br><p>`;
+            let hotelTips = `<h2>Hotels</h2><br><p>`;
             country.top_cities.forEach(city => {
                 const hotels = city.details.hotels || 'Information not available.';
                 hotelTips += `<b>${city.city_name}:</b> ${hotels} <br><br>`;

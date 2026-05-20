@@ -96,23 +96,27 @@
                     "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52702.13213621964!2d62.16987039102475!3d34.35344909923775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f3ce6a894be6cf7%3A0x9db9f81752d677c4!2sHerat%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765588219399!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
                     "restaurants": [
                         {
-                        "name":"wdadsdsa",
-                        "description":"wtwrwer"
+                            "name": "PARMIS Luxury Restaurant",
+                            "description": "PARMIS Luxury Restaurant offers an elegant environment perfect for family gatherings to celebrations. They provide a diverse selecction of authentic presented Aghan dishes, spacious seating arrangments designed for groups, and it is centrally located on Ghahreman Melli Boulevard with fast serice."
                         },
                         {
-                        "name":"dfgdfg",
-                        "description":"qeqewe"
+                            "name": "Anar Restaurant",
+                            "description": "Anar Restaurant is for those looking for a dramatic culinary experience by combing traditional flavors with a view of Herat. It is located on the eleventh floor of the Berang Tower. Additionally, if offers extended evening hours, often staying open past 11:30 PM."
                         }
-
                     ],
-                    "hotel":[
+                    "hotels": [
                         {
-                        "name":"qweqeqe",
-                        "description":"qeqweqe"
+                            "name": "Herat Star Hotel",
+                            "description": "Star rating is 4.6. Herat Star Hotel provides convenient airport transfer services, complimentary buffet breakfast with international dishes, and relaxation facilities. For more information regarding facilities and booking, please visit <a href='https://heratstarhotel.com/' target='_blank'>https://heratstarhotel.com/</a>."
+
                         },
                         {
-                        "name":"qeqeqwe",
-                        "description":"qeqweqweq"
+                            "name": "Nazary Four Star Hotel",
+                            "description": "Like the name, this hotel's star rating is 4 stars. Nazary Four Star Hotel provides multiple event setups including dedicated spaces for weddings and conferences, in-house restaurant and coffee shop serving local and international flavors, and string security panel. For more information regarding facilities and booking, please visit <a href='https://nazaryhotel.com/' target='_blank'>https://nazaryhotel.com/</a>."
+                        },
+                        {
+                            "name": "Arg Hotel",
+                            "description": "The star rating for this hotel is a 4.5. The Arg hotel provides complimentary high-speed Wi-Fi and 24 hour room service, fully equiped swimming pool accessible to all guests, and flexible accommodation types ranging from single rooms to spacious apartments. For more information regarding facilites and bookoing, please visit <a href='https://arghotel.af/' target='_blank'>https://arghotel.af/</a>."
                         }
                     ]
                 }

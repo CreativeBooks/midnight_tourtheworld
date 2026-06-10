@@ -117,3 +117,11 @@ svg path:hover {
 .Afghanistan, .Angola, .Albania, #AE, .Argentina, .Armenia, .Australia, .Austria, .Azerbaijan, .Belgium, .Benin, #BF, .Bangladesh, .Bulgaria, #BA, .Belarus, .Belize, .Bolivia, .Brazil, #BN, .Bhutan, .Bostswana, #CF, .Canada, .China, .Switzerland, #CI, .Cameroon, .Denmark, .Egypt {
     fill: rgb(128, 176, 234);
 }
+
+a {
+    color:white;
+}
+
+a :hover{
+    color:aqua
+}

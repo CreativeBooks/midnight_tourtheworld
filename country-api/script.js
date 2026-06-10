@@ -145,7 +145,7 @@ async function renderCountryData() {
             if (Array.isArray(restaurants) && restaurants.length > 0) {
                 restaurants.forEach(rest => {
                     restaurantTips += `<div style="margin-left: 20px; margin-bottom: 5px;">
-                        <strong>${rest.name}:</strong> ${rest.description || ''}
+                        <strong>${rest.name}:</strong> ${rest.description || ''} 
                     </div>`;
                 });
             } else {

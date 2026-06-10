@@ -29,14 +29,35 @@
                     },
                     "image-url": "https://www.laurewanders.com/wp-content/uploads/2025/03/Places-to-Visit-in-Kabul-Sakhi-Shrine-1024x683.jpg",
                     "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d420615.25486517954!2d68.57385472041007!3d34.55212029789309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38d1694c3c1e6d49%3A0xebdf473578214429!2sKabul%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765586371223!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-                    "restaurants": {
-                        "name":"",
-                        "food":""
-                    },
-                    "hotels":{
-                        "name":"",
-                        "details":""
-                    }
+                    "restaurants": [
+                        {
+                            "name":"Ziyafat Restaurant",
+                            "food":"Ziyafat Restuarant provides an expansive dining experience and treats traditional Agfghan cuisine with fine-dining standards. It features a specialized menu highlighting expertly prepared Afghan kebabs, mantu, and ashak. Additionally, the restauarnt provides multi-room configurations, giving diners a choice between public and private seating."
+                        },
+                        {
+                            "name":"Prime Steakhouse",
+                            "food":"Prime Steakhouse provides a sophisticated Western flair to Kabul and it is located within modern Majid Mall. Featuring an extensive selection of excellent quality steaks, high accessibility due to prime location within a mall, and extensive evening hours."
+                        },
+                        {
+                            "name":"Le Bistro",
+                            "food":"Le Bistro is a blend between traditional and contemporary taste and it is known for its environment as well as authentic Aghan food. It offers a comfortable atmosphere, making it ideal for family gatherings and group dinners and it features a prime location."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"Kabul Grand Hotel",
+                            "details":"The star rating for this hotel is 4.3 and it provides extensive wellness facilities, 24-hour front desk services, high-speed wifit, and fine-dining culinary options on hotel grounds. For more information regarding facilites and booking, please visit <a href='https://kabulgrandhotel.com/' target='_blank'>https://kabulgrandhotel.com/</a>."
+                        },
+                        {
+                            "name":"Kabul Star Hotel & Restaurant",
+                            "details":"The star rating for this hotel is 4.1 and it provides well equiped recreational features, on-site loungers, designated picnic area, and conveniant airport transfer services. For more information regarding facilites and booking, please visit <a href='https://kabulstarhotel.af/' target='_blank'>https://kabulstarhotel.af/</a>."
+                        },
+                        {
+                            "name":"Park Star Hotel",
+                            "details":"Park Star Hotel has a star rating of 4.3 and it provides distinct premium options (such as 2 indoor swimming pools and a traditional sauna), access to executive lounge, and convenient transport options plus complimentary parking. For more information regarding facilites and booking, please visit <a href='https://www.parkstarhotel.af/' target='_blank'>https://www.parkstarhotel.af/</a>. "
+                        }
+                    ]
                     
                 }
             },
@@ -61,14 +82,36 @@
                     },
                     "image-url": "https://koryogroup.com/ckeditor_assets/pictures/3881/content_Afghanistan_koryo_tours_4696.jpg",
                     "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102361.78810045123!2d67.06552143473954!3d36.703202407121054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f34b8a3605314bd%3A0xb27a5e1a6c1fcf71!2sMazar-i-Sharif%2C%20Afghanistan!5e0!3m2!1sen!2sus!4v1765587418968!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-                    "restaurants": {
-                        "name":"",
-                        "food":""
-                    },
-                    "hotels":{
-                        "name":"",
-                        "details":""
-                    }
+                    "restaurants": [
+                        {
+                            "name":"Mansour Restaurant",
+                            "food":"This restaurant provides conveniency by staying open 24 hours a day and by doing this it allows late-night or early travelers reliability. Additionally, Mansour Restaurant features a spacious set up as well as authentic Afghan dishes."
+                        },
+                        {
+                            "name":"Bilal Restaurant",
+                            "food":"The Bilal Restaurant is highly accessible and it is a great place for a formal meal of evening gathering. Furthermore, the restaurant is located within the city center and it tailored for larger groups."
+                        },
+                        {
+                            "name":"Sultansofra Restaurant",
+                            "food":"This restaurant is known for its impeccable presentation and culinary offerings. It combines traditional Afghan culinary traditions with popular international menu items."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"Kefayat Hotel",
+                            "details":"The star rating for the hotel Kefayat Hotel is 4.7 and the hotel is located centrally within the city of Mazar-i-Sharif. The hotel is regarded for their maintainance of cleanliness and security. For more information regarding facilites and booking, please visit <a href='https://www.booking.com/hotel/af/kefayat.html?chal_t=1781037228073&force_referer=https%3A%2F%2Fwww.google.com%2F' target='_blank'>https://www.booking.com/hotel/af/kefayat.html?chal_t=1781037228073&force_referer=https%3A%2F%2Fwww.google.com%2F</a>."
+                        },
+                        {
+                            "name":"Rahat Hotel",
+                            "details":"Rahat Hotel has a star rating of 4.3 and it is conveniently located near many commercial zones. Moreover, the hotel features friendly staff along with configurations suited for short-term vacations. For more information regarding facilites and booking, please visit <a href='https://www.booking.com/hotel/af/rahat.html' target='_blank'>https://www.booking.com/hotel/af/rahat.html</a>."
+                        },
+                        {
+                            "name":"Burj Ghazanfar",
+                            "details":"This hotel has a star rating of 4.3 and the hotel features mdoern amenities as well has local businesses alongside said amenities. Its convenient location makes it ideal for walking to commericial points. For more information regarding facilites and booking, please visit <a href='https://kitetravel.net/st_hotel/the-burj-ghazanfar-hotel/' target='_blank'>https://kitetravel.net/st_hotel/the-burj-ghazanfar-hotel/</a>."
+                        }
+                        
+                    ]
                 }
             },
             {
@@ -116,7 +159,7 @@
                         },
                         {
                             "name": "Arg Hotel",
-                            "description": "The star rating for this hotel is a 4.5. The Arg hotel provides complimentary high-speed Wi-Fi and 24 hour room service, fully equiped swimming pool accessible to all guests, and flexible accommodation types ranging from single rooms to spacious apartments. For more information regarding facilites and bookoing, please visit <a href='https://arghotel.af/' target='_blank'>https://arghotel.af/</a>."
+                            "description": "The star rating for this hotel is a 4.5. The Arg hotel provides complimentary high-speed Wi-Fi and 24 hour room service, fully equiped swimming pool accessible to all guests, and flexible accommodation types ranging from single rooms to spacious apartments. For more information regarding facilites and booking, please visit <a href='https://arghotel.af/' target='_blank'>https://arghotel.af/</a>."
                         }
                     ]
                 }

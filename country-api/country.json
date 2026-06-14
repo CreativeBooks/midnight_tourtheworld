@@ -32,30 +32,30 @@
                     "restaurants": [
                         {
                             "name":"Ziyafat Restaurant",
-                            "food":"Ziyafat Restuarant provides an expansive dining experience and treats traditional Agfghan cuisine with fine-dining standards. It features a specialized menu highlighting expertly prepared Afghan kebabs, mantu, and ashak. Additionally, the restauarnt provides multi-room configurations, giving diners a choice between public and private seating."
+                            "description":"Ziyafat Restuarant provides an expansive dining experience and treats traditional Agfghan cuisine with fine-dining standards. It features a specialized menu highlighting expertly prepared Afghan kebabs, mantu, and ashak. Additionally, the restauarnt provides multi-room configurations, giving diners a choice between public and private seating."
                         },
                         {
                             "name":"Prime Steakhouse",
-                            "food":"Prime Steakhouse provides a sophisticated Western flair to Kabul and it is located within modern Majid Mall. Featuring an extensive selection of excellent quality steaks, high accessibility due to prime location within a mall, and extensive evening hours."
+                            "description":"Prime Steakhouse provides a sophisticated Western flair to Kabul and it is located within modern Majid Mall. Featuring an extensive selection of excellent quality steaks, high accessibility due to prime location within a mall, and extensive evening hours."
                         },
                         {
                             "name":"Le Bistro",
-                            "food":"Le Bistro is a blend between traditional and contemporary taste and it is known for its environment as well as authentic Aghan food. It offers a comfortable atmosphere, making it ideal for family gatherings and group dinners and it features a prime location."
+                            "description":"Le Bistro is a blend between traditional and contemporary taste and it is known for its environment as well as authentic Aghan food. It offers a comfortable atmosphere, making it ideal for family gatherings and group dinners and it features a prime location."
                         }
                         
                     ],
                     "hotels":[
                         {
                             "name":"Kabul Grand Hotel",
-                            "details":"The star rating for this hotel is 4.3 and it provides extensive wellness facilities, 24-hour front desk services, high-speed wifit, and fine-dining culinary options on hotel grounds. For more information regarding facilites and booking, please visit <a href='https://kabulgrandhotel.com/' target='_blank'>https://kabulgrandhotel.com/</a>."
+                            "description":"The star rating for this hotel is 4.3 and it provides extensive wellness facilities, 24-hour front desk services, high-speed wifit, and fine-dining culinary options on hotel grounds. For more information regarding facilites and booking, please visit <a href='https://kabulgrandhotel.com/' target='_blank'>https://kabulgrandhotel.com/</a>."
                         },
                         {
                             "name":"Kabul Star Hotel & Restaurant",
-                            "details":"The star rating for this hotel is 4.1 and it provides well equiped recreational features, on-site loungers, designated picnic area, and conveniant airport transfer services. For more information regarding facilites and booking, please visit <a href='https://kabulstarhotel.af/' target='_blank'>https://kabulstarhotel.af/</a>."
+                            "description":"The star rating for this hotel is 4.1 and it provides well equiped recreational features, on-site loungers, designated picnic area, and conveniant airport transfer services. For more information regarding facilites and booking, please visit <a href='https://kabulstarhotel.af/' target='_blank'>https://kabulstarhotel.af/</a>."
                         },
                         {
                             "name":"Park Star Hotel",
-                            "details":"Park Star Hotel has a star rating of 4.3 and it provides distinct premium options (such as 2 indoor swimming pools and a traditional sauna), access to executive lounge, and convenient transport options plus complimentary parking. For more information regarding facilites and booking, please visit <a href='https://www.parkstarhotel.af/' target='_blank'>https://www.parkstarhotel.af/</a>. "
+                            "description":"Park Star Hotel has a star rating of 4.3 and it provides distinct premium options (such as 2 indoor swimming pools and a traditional sauna), access to executive lounge, and convenient transport options plus complimentary parking. For more information regarding facilites and booking, please visit <a href='https://www.parkstarhotel.af/' target='_blank'>https://www.parkstarhotel.af/</a>. "
                         }
                     ]
                     
@@ -85,15 +85,15 @@
                     "restaurants": [
                         {
                             "name":"Mansour Restaurant",
-                            "food":"This restaurant provides conveniency by staying open 24 hours a day and by doing this it allows late-night or early travelers reliability. Additionally, Mansour Restaurant features a spacious set up as well as authentic Afghan dishes."
+                            "description":"This restaurant provides conveniency by staying open 24 hours a day and by doing this it allows late-night or early travelers reliability. Additionally, Mansour Restaurant features a spacious set up as well as authentic Afghan dishes."
                         },
                         {
                             "name":"Bilal Restaurant",
-                            "food":"The Bilal Restaurant is highly accessible and it is a great place for a formal meal of evening gathering. Furthermore, the restaurant is located within the city center and it tailored for larger groups."
+                            "description":"The Bilal Restaurant is highly accessible and it is a great place for a formal meal of evening gathering. Furthermore, the restaurant is located within the city center and it tailored for larger groups."
                         },
                         {
                             "name":"Sultansofra Restaurant",
-                            "food":"This restaurant is known for its impeccable presentation and culinary offerings. It combines traditional Afghan culinary traditions with popular international menu items."
+                            "description":"This restaurant is known for its impeccable presentation and culinary offerings. It combines traditional Afghan culinary traditions with popular international menu items."
                         }
                         
                     ],
@@ -104,11 +104,11 @@
                         },
                         {
                             "name":"Rahat Hotel",
-                            "details":"Rahat Hotel has a star rating of 4.3 and it is conveniently located near many commercial zones. Moreover, the hotel features friendly staff along with configurations suited for short-term vacations. For more information regarding facilites and booking, please visit <a href='https://www.booking.com/hotel/af/rahat.html' target='_blank'>https://www.booking.com/hotel/af/rahat.html</a>."
+                            "description":"Rahat Hotel has a star rating of 4.3 and it is conveniently located near many commercial zones. Moreover, the hotel features friendly staff along with configurations suited for short-term vacations. For more information regarding facilites and booking, please visit <a href='https://www.booking.com/hotel/af/rahat.html' target='_blank'>https://www.booking.com/hotel/af/rahat.html</a>."
                         },
                         {
                             "name":"Burj Ghazanfar",
-                            "details":"This hotel has a star rating of 4.3 and the hotel features mdoern amenities as well has local businesses alongside said amenities. Its convenient location makes it ideal for walking to commericial points. For more information regarding facilites and booking, please visit <a href='https://kitetravel.net/st_hotel/the-burj-ghazanfar-hotel/' target='_blank'>https://kitetravel.net/st_hotel/the-burj-ghazanfar-hotel/</a>."
+                            "description":"This hotel has a star rating of 4.3 and the hotel features mdoern amenities as well has local businesses alongside said amenities. Its convenient location makes it ideal for walking to commericial points. For more information regarding facilites and booking, please visit <a href='https://kitetravel.net/st_hotel/the-burj-ghazanfar-hotel/' target='_blank'>https://kitetravel.net/st_hotel/the-burj-ghazanfar-hotel/</a>."
                         }
                         
                     ]

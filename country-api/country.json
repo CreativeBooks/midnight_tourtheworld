@@ -100,7 +100,7 @@
                     "hotels":[
                         {
                             "name":"Kefayat Hotel",
-                            "details":"The star rating for the hotel Kefayat Hotel is 4.7 and the hotel is located centrally within the city of Mazar-i-Sharif. The hotel is regarded for their maintainance of cleanliness and security. For more information regarding facilites and booking, please visit <a href='https://www.booking.com/hotel/af/kefayat.html?chal_t=1781037228073&force_referer=https%3A%2F%2Fwww.google.com%2F' target='_blank'>https://www.booking.com/hotel/af/kefayat.html?chal_t=1781037228073&force_referer=https%3A%2F%2Fwww.google.com%2F</a>."
+                            "description":"The star rating for the hotel Kefayat Hotel is 4.7 and the hotel is located centrally within the city of Mazar-i-Sharif. The hotel is regarded for their maintainance of cleanliness and security. For more information regarding facilites and booking, please visit <a href='https://www.booking.com/hotel/af/kefayat.html?chal_t=1781037228073&force_referer=https%3A%2F%2Fwww.google.com%2F' target='_blank'>https://www.booking.com/hotel/af/kefayat.html?chal_t=1781037228073&force_referer=https%3A%2F%2Fwww.google.com%2F</a>."
                         },
                         {
                             "name":"Rahat Hotel",
@@ -193,7 +193,36 @@
                         "airport": "Services such as Yango, Heetch, an Allo are available in Luanda for transportation. Many hotels provide airport pickup and droppoff."
                     },
                     "image-url": "https://pohcdn.com/sites/default/files/styles/big_gallery_image/public/text_gallery/Luanda-3.jpg",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126152.95307894894!2d13.201702225075662!3d-8.853523338765648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a51f15cdc8d2c7d%3A0x850c1c5c5ecc5a92!2sLuanda%2C%20Angola!5e0!3m2!1sen!2sus!4v1766444815214!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126152.95307894894!2d13.201702225075662!3d-8.853523338765648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a51f15cdc8d2c7d%3A0x850c1c5c5ecc5a92!2sLuanda%2C%20Angola!5e0!3m2!1sen!2sus!4v1766444815214!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"Lookal Mar - Marisqueria",
+                            "description":"This restaurant is recognized as the best destination for seafood lovers and it is located on the beachfront of llha de Luanda. It is famous for its feijoada de marisco and it is known for its upbeat atmosphere that draws tourists."
+                        },
+                        {
+                            "name":"Restaurante Pimms",
+                            "description":"Restaurante Pimms features a sophisticated culinary experience which is heavily inspired by traditional Portugese flavors and international fine dining. Its menu highlights local seafood and premium imported meats and it is centrally located in a secure neighborhood."
+                        },
+                        {
+                            "name":"Restaurante Oon Dah Avennida",
+                            "description":"This restaurant is known for its chic design elements and the venue focusses on high-end fusion cusine that captures global dining trends which honoring regional textures. The menu is diverse, combining innovative cooking methods and classic intercontinental flavors."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"InterContinental Luanda Miramar by IHG",
+                            "description":"The star rating is 4.6. This hotel is one of the premiur luxury properties in the captial and provides panoramic views of the Atlantic Ocean as well as the Luanda Bay skyline. Some facilities include an outdoor pool, fitness center, and a spa. For more information regarding facilites and booking, please visit <a href='https://www.ihg.com/intercontinental/hotels/us/en/luanda/ladha/hoteldetail?Cm_mmc=FM-_-PS-_-B-_-Geo&dp=true&gad_source=1&gad_campaignid=20877946445&gbraid=0AAAAAD4keY_bEEtyah914V2VHDloQMVAB&gclid=EAIaIQobChMI8fj2oOqKlQMVOTcIBR2dEArUEAAYASAAEgLCq_D_BwE' target='_blank'>https://www.ihg.com/intercontinental/hotels/us/en/luanda/ladha/hoteldetail?Cm_mmc=FM-_-PS-_-B-_-Geo&dp=true&gad_source=1&gad_campaignid=20877946445&gbraid=0AAAAAD4keY_bEEtyah914V2VHDloQMVAB&gclid=EAIaIQobChMI8fj2oOqKlQMVOTcIBR2dEArUEAAYASAAEgLCq_D_BwE</a>."
+                        },
+                        {
+                            "name":"Epic Sana Hotel (Luanda)",
+                            "description":"The star rating for this hotel is 4.4 and this hotel is known for its urban design and multi-lingual sesrvice. Some facilities include on-site restaurants, spa & wellness center, and an outdoor swimming pool with views of the oceanfront. For more information regarding facilites and booking, please visit <a href='https://www.sanahotels.com/en/hotel/epic-sana-luanda/online-discounts/limited-time-deal/?utm_campaign=limited_time_deal&utm_source=google&utm_medium=paid_search&utm_term=epicluanda&gad_source=1&gad_campaignid=19695242365&gbraid=0AAAAADLhc0Cyfiza8RyJ94DiKDSo2Rnr4&gclid=EAIaIQobChMI1amC4-qKlQMVkzMIBR0hYDHLEAAYASAAEgI3hvD_BwE' target='_blank'>https://www.sanahotels.com/en/hotel/epic-sana-luanda/online-discounts/limited-time-deal/?utm_campaign=limited_time_deal&utm_source=google&utm_medium=paid_search&utm_term=epicluanda&gad_source=1&gad_campaignid=19695242365&gbraid=0AAAAADLhc0Cyfiza8RyJ94DiKDSo2Rnr4&gclid=EAIaIQobChMI1amC4-qKlQMVkzMIBR0hYDHLEAAYASAAEgI3hvD_BwE</a>."
+                        },
+                        {
+                            "name":"Hotel Presidente",
+                            "description":"This hotel has a star rating of 4.2 and it is a historic landmark hotel located on the Largo 17 de Setembro waterfront. It offers flexible conference layouts, high-speed wifi, dining rooms, and an evening bar. For more information regarding facilites and booking, please visit <a href='https://www.hotelpresidenteluanda.com/en' target='_blank'>https://www.hotelpresidenteluanda.com/en</a>. "
+                        }
+                    ]
                 }
             },
             {
@@ -216,7 +245,36 @@
                         "airport": "Ride to center of city is about 10-15 minutes and the most reliable transportation options would be taxis or prearranged hotel shuttles."
                     },
                     "image-url": "https://cdn.prod.website-files.com/63ffc00250b39a7c67ac3ba5/64131e785da37236790be908_Lubango.jpg",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d123375.19324485592!2d13.446098334129797!3d-14.910618516376607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ba34b79115f7f23%3A0xcaa20e87e439fb10!2sLubango%2C%20Angola!5e0!3m2!1sen!2sus!4v1766445304794!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d123375.19324485592!2d13.446098334129797!3d-14.910618516376607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ba34b79115f7f23%3A0xcaa20e87e439fb10!2sLubango%2C%20Angola!5e0!3m2!1sen!2sus!4v1766445304794!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"Sá da Bandeira Lounge Bar",
+                            "description":"Sá da Bandeira Lounge Bar is highly known for its diverse menu, especially praised for its international dishes and selection of Japanese sushi. The restaurant features a modern ambianca, excellent for formal dinners."
+                        },
+                        {
+                            "name":"Café do Monte",
+                            "description":"This restaurant offers a bridge between classic, traditional African dishes and European staples. Café de Monte is a casual, family-friendly setting great for relaxed lunch or dinner. This restaurant is highly rated for its pizza and freshly brewed coffee."
+                        },
+                        {
+                            "name":"Ombolo Yapia",
+                            "description":"Ombolo Yapia serves as a highly popular local hub for authentic regional specialties and international breakfast choices. This restaurant offers generous portions with reasonable prices. They are known for a casual atmosphere and friendly staff."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"Pululukwa Resort",
+                            "description":"The Pululukwa Resort is considered one of the most stunning eco-resorts in the region. It features an on-site restaurant which services local and international dishes. For more information regarding facilites and booking, please visit <a href='https://www.hoteisangola.com/en/alojamento/hotels/lubango/pululukwa-resort.html' target='_blank'>https://www.hoteisangola.com/en/alojamento/hotels/lubango/pululukwa-resort.html/</a>."
+                        },
+                        {
+                            "name":"Hotel Serra de Chela",
+                            "description":"This hotel has a 4.6 star review and it provides a premium experience at the foot of the mountains. It is an all time favorite for international travelers and business profressionals. This hotel features an outdoor swimming pool and tennis courts as well views of the surrounding Huila Highlands. For more information regarding facilites and booking, please visit <a href='https://www.hoteisangola.com/en/alojamento/hotels/lubango/hotel-serra-chela.html' target='_blank'>https://www.hoteisangola.com/en/alojamento/hotels/lubango/hotel-serra-chela.html</a>."
+                        },
+                        {
+                            "name":"Hotel Chik Chik Lubango",
+                            "description":"Hotel Chik Chik Lubango is a modern high-rise hotel located near the city center and it is an excellent space for exploring the town and mountain passes. For more information regarding facilites and booking, please visit <a href='https://www.hoteisangola.com/en/alojamento/hotels/lubango/hotel-chik-chik-lubango.html' target='_blank'>https://www.hoteisangola.com/en/alojamento/hotels/lubango/hotel-chik-chik-lubango.html</a>. "
+                        }
+                    ]
                 }
             },
             {
@@ -240,7 +298,36 @@
                         "airport": "Catumbela Airport serves the city. Taxis are the main way to reach the center, and arranging a transfer through your hotel is recommended."
                     },
                     "image-url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Palacio_das_Bolas_%2819819765355%29.jpg",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62301.93124263719!2d13.355312234354423!3d-12.590772048645642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1bafd10adecd1033%3A0x9f62cf882e30a616!2sBenguela%2C%20Angola!5e0!3m2!1sen!2sus!4v1766458901163!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62301.93124263719!2d13.355312234354423!3d-12.590772048645642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1bafd10adecd1033%3A0x9f62cf882e30a616!2sBenguela%2C%20Angola!5e0!3m2!1sen!2sus!4v1766458901163!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"Tudo na Brasa",
+                            "description":"Tudo na Brasa is known for its lively and fast services and it is frequented by locals and tourits for its traditional grilled dishes. It is famous for its speciality, Leitao a Bairrada (traditional Portugese suckling pig)."
+                        },
+                        {
+                            "name":"Sal e Brasa - Campo de tiro",
+                            "description":"This restaurant features a family focused dining concepy and it located on the outskirts of town. It has an extensive meny which features premium grilled meats and fresh fish selections."
+                        },
+                        {
+                            "name":"Marisqueria Sani",
+                            "description":"This restaurant offers an authentic setting dedicated to celebrating the region's coastal bounty. They have a wide array of local fish and premium seagood plates. "
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"Flow Hotel",
+                            "description":"This hotel is located across from the Ombaka National Stadium and it highly regarded for its accommodations. Some of its facilities include an adult swimming pool (dedicated childrens pool available), fitness center, garden area, and airport shuttle. For more information regarding facilites and booking, please visit <a href='https://www.hoteisangola.com/en/alojamento/hotels/benguela-municipio/flow-hotel-benguela.html' target='_blank'>https://www.hoteisangola.com/en/alojamento/hotels/benguela-municipio/flow-hotel-benguela.html</a>."
+                        },
+                        {
+                            "name":"Aparthotel Mil Cidades, llc",
+                            "description":"This hotel offers a relaxed environment located in the heart of town along Avenida Aires de Almeida Santos. Some facilities include outdoor swimming pool, in-room laundry, and lounge bars. For more information regarding facilites and booking, please visit <a href='https://www.hoteisangola.com/en/alojamento/hotels/benguela-municipio/aparthotel-mil-cidades-benguela.html' target='_blank'>https://www.hoteisangola.com/en/alojamento/hotels/benguela-municipio/aparthotel-mil-cidades-benguela.html</a>."
+                        },
+                        {
+                            "name":"Hotel Praia Morena",
+                            "description":"Hotel Praia Morena provides a standard of coastal hospitality. Some facilites include an on-site dining space with culinary favorites and functional business meeting amenities. For more information regarding facilites and booking, please visit <a href='https://www.hoteisangola.com/en/alojamento/hotels/benguela-municipio/hotel-praia-morena.html' target='_blank'>https://www.hoteisangola.com/en/alojamento/hotels/benguela-municipio/hotel-praia-morena.html</a>. "
+                        }
+                    ]
                 }
             }
         ]

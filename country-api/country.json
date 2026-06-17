@@ -360,12 +360,41 @@
                         "airport": "Tirana International Airport (TIA) is about 20-30 minutes by car. Hourly shuttle buses and 24/7 taxis are the primary connection methods."
                     },
                     "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/13/e1/76/6a.jpg",
-                    "map-url":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47934.11336687134!2d19.776623561124975!3d41.33317735423635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1350310470fac5db%3A0x40092af10653720!2sTiran%C3%AB%2C%20Albania!5e0!3m2!1sen!2sus!4v1766459555521!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47934.11336687134!2d19.776623561124975!3d41.33317735423635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1350310470fac5db%3A0x40092af10653720!2sTiran%C3%AB%2C%20Albania!5e0!3m2!1sen!2sus!4v1766459555521!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"Oliveta Restaurant",
+                            "description":"This restaurant is known for its fresh ingredients and great atmosphere, perfect for those looking for a premium dining experience. Oliveta Restaurant has consistently earned top reviews from patrons when regarding its quality and service."
+                        },
+                        {
+                            "name":"Rossini Restaurant Tirana",
+                            "description":"Rossini is centrally located, attracting patrons who appreciate a combination of traditional and modern flavors. This restaurant features an extensive menu which is available from early morning until late at night."
+                        },
+                        {
+                            "name":"Makamona Restaurant",
+                            "description":"This restaurat is a favorite among locals and visitors. Makamona focusses on creating a sophisticated dining experience and it is well regarded for its attention to detail as well as creative flavor combinations."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"The Plaza",
+                            "description":"The Plaza has a star rating of 4.7 and it islocated within the heart of the city. This hotel is known for its modern architecture and extensive amenities. For more information regarding facilites and booking, please visit <a href='https://www.guestreservations.com/the-plaza-tirana/booking?utm_source=google&utm_medium=cpc&utm_campaign=991005091&gad_source=1&gad_campaignid=991005091&gbraid=0AAAAADiMQMbEva7nkAHGuLwuDzHLQwtt0&gclid=EAIaIQobChMI1diRppqNlQMVY09_AB1RaDL8EAAYAiAAEgJfQ_D_BwE' target='_blank'>https://www.guestreservations.com/the-plaza-tirana/booking?utm_source=google&utm_medium=cpc&utm_campaign=991005091&gad_source=1&gad_campaignid=991005091&gbraid=0AAAAADiMQMbEva7nkAHGuLwuDzHLQwtt0&gclid=EAIaIQobChMI1diRppqNlQMVY09_AB1RaDL8EAAYAiAAEgJfQ_D_BwE</a>."
+                        },
+                        {
+                            "name":"Tirana Marriott",
+                            "description":"Tirana Marriott has a star rating of 4.8 stars and it is located near Sheshi Italia. This hotel features an on-site restaurant and well-equipped fitness center.For more information regarding facilites and booking, please visit <a href='https://www.guestreservations.com/tirana-marriott/booking?utm_source=google&utm_medium=cpc&utm_campaign=22108216026&gad_source=1&gad_campaignid=22108216026&gbraid=0AAAAADiMQMZFo-D1CthRC7_DtLNUNdNsM&gclid=EAIaIQobChMI5LG71ZqNlQMVXLMDAB04Fg5cEAAYAiAAEgK5j_D_BwE' target='_blank'>https://www.guestreservations.com/tirana-marriott/booking?utm_source=google&utm_medium=cpc&utm_campaign=22108216026&gad_source=1&gad_campaignid=22108216026&gbraid=0AAAAADiMQMZFo-D1CthRC7_DtLNUNdNsM&gclid=EAIaIQobChMI5LG71ZqNlQMVXLMDAB04Fg5cEAAYAiAAEgK5j_D_BwE</a>."
+                        },
+                        {
+                            "name":"Xheko Imperial Luxury Hotel & Spa",
+                            "description":"This hotel has a star rating of 4.7 and is recognized for its blend of traditional charm and modern luxury. Some facilities include a rooftop eatery, lobby bar, and spa. For more information regarding facilites and booking, please visit <a href='https://xheko-imperial.com/?gad_source=1&gad_campaignid=23626540458&gbraid=0AAAAADmv2nVFrPKD97hSYXuEm-T00eq5U&gclid=EAIaIQobChMIncqT7ZuNlQMVu7cDAB3LrQuIEAAYBCAAEgLC2fD_BwE' target='_blank'>https://xheko-imperial.com/?gad_source=1&gad_campaignid=23626540458&gbraid=0AAAAADmv2nVFrPKD97hSYXuEm-T00eq5U&gclid=EAIaIQobChMIncqT7ZuNlQMVu7cDAB3LrQuIEAAYBCAAEgLC2fD_BwE</a>. "
+                        }
+                    ]
                 }
             },
             {
                 "rank": 2,
-                "city_name": "Sarande",
+                "city_name": "Saranda",
                 "details": {
                     "annual tourists": "800,000",
                     "popular attractions": [
@@ -385,7 +414,36 @@
                         "airport": "Sarande has no airport. Most visitors arrive via ferry from Corfu, Greece (30-70 mins) or by a 4-5 hour bus/car ride from Tirana."
                     },
                     "image-url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/52/9b/cc/sarande.jpg?w=900&h=-1&s=1",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40019.73005120775!2d19.960206151237443!3d39.87498223294524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x135b14ffafac5431%3A0xd6d55e7e08a21910!2sSarand%C3%AB%2C%20Albania!5e0!3m2!1sen!2sus!4v1766459679518!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=''loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40019.73005120775!2d19.960206151237443!3d39.87498223294524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x135b14ffafac5431%3A0xd6d55e7e08a21910!2sSarand%C3%AB%2C%20Albania!5e0!3m2!1sen!2sus!4v1766459679518!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=''loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"Traditional Restaurant Argjiro",
+                            "description":"This restaurant specializes in authentic and traditional dishes, and it is highly rated by patrons in regards to food quality. They are open late daily, perfect for holiday schedules."
+                        },
+                        {
+                            "name":"Haxhi",
+                            "description":"This restaurant is a favorite among locals and visitors. It is known for its menu, filled with authentic and local flavors. It has consistent operating hours throughout the week."
+                        },
+                        {
+                            "name":"Taverna Del Mare",
+                            "description":"Taverna Del Mare is a popular local spot due to its fresh offerings and seaside dining. This restaurant offers traditional Mediterranean dining. Furthermore, it is open until late evening daily."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"Saranda Palace",
+                            "description":"The star rating for this hotel stands at 4.5. This hotel offers direct beach access and, additionally, it features a swimming pool for quests. For more information regarding facilites and booking, please visit <a href='https://www.online-reservations.com/?hotelid=1853197&gacc=gmcc&gad_source=1&gad_campaignid=21242510393&gbraid=0AAAAACsYb7m9nyNTTugwnwI3Ahc32dObm&gclid=EAIaIQobChMI2cmn16CNlQMVRSvUAR1AfgFVEAAYAiAAEgLShPD_BwE' target='_blank'>https://www.online-reservations.com/?hotelid=1853197&gacc=gmcc&gad_source=1&gad_campaignid=21242510393&gbraid=0AAAAACsYb7m9nyNTTugwnwI3Ahc32dObm&gclid=EAIaIQobChMI2cmn16CNlQMVRSvUAR1AfgFVEAAYAiAAEgLShPD_BwE</a>."
+                        },
+                        {
+                            "name":"Hotel Apollon",
+                            "description":"Apollon has a star rating of 4.6 and it is a beachfront getaway. Some of its amenities include a restaurant and complimentary breakfast as a part of the stay. For more information regarding facilites and booking, please visit <a href='https://www.bedroomvillas.com/property/hotel-apollon-sarande/BC-539560?gad_source=1&gad_campaignid=22695359189&gbraid=0AAAAAo96O9B1ObwxPz1qZSxQ-WlWdiUK7&gclid=EAIaIQobChMI4M2g_6CNlQMVMS3UAR2qdgeaEAAYAiAAEgK8F_D_BwE' target='_blank'>https://www.bedroomvillas.com/property/hotel-apollon-sarande/BC-539560?gad_source=1&gad_campaignid=22695359189&gbraid=0AAAAAo96O9B1ObwxPz1qZSxQ-WlWdiUK7&gclid=EAIaIQobChMI4M2g_6CNlQMVMS3UAR2qdgeaEAAYAiAAEgK8F_D_BwE</a>."
+                        },
+                        {
+                            "name":"Hotel Ramo Saranda",
+                            "description":"This hotel has a star rating of 4.8 stars and it is moslty known for its welcoming environment as well has reliable service. For more information regarding facilites and booking, please visit <a href='https://www.online-reservations.com/?hotelid=5239473&gad_source=1&gad_campaignid=13184073298&gbraid=0AAAAAD-Rb7UJFHvmyixQdigWFNmxs6Yfo&gclid=EAIaIQobChMIgezCw6GNlQMVPCfUAR3FNTOYEAAYASAAEgJ8ZPD_BwE' target='_blank'>https://www.online-reservations.com/?hotelid=5239473&gad_source=1&gad_campaignid=13184073298&gbraid=0AAAAAD-Rb7UJFHvmyixQdigWFNmxs6Yfo&gclid=EAIaIQobChMIgezCw6GNlQMVPCfUAR3FNTOYEAAYASAAEgJ8ZPD_BwE</a>. "
+                        }
+                    ]
                 }
             },
             {
@@ -411,7 +469,36 @@
                         "airport": "Located just 30-40 minutes from Tirana International Airport. A direct shuttle bus (Adis Travel) costs around 600 Lek, or taxis can be hired for ~25-30 EUR."
                     },
                     "image-url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/94/b3/3a/durres-castle.jpg?w=1200&h=-1&s=1",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95870.98009375!2d19.38395615955221!3d41.331306415890595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134fd97c5fbbbcc7%3A0x77f377eae6cd81ee!2sDurr%C3%ABs%2C%20Albania!5e0!3m2!1sen!2sus!4v1766459782551!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95870.98009375!2d19.38395615955221!3d41.331306415890595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134fd97c5fbbbcc7%3A0x77f377eae6cd81ee!2sDurr%C3%ABs%2C%20Albania!5e0!3m2!1sen!2sus!4v1766459782551!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"Ventus Harbor Restaurant",
+                            "description":"This restaurant is rated for its location and excellent food quality. It is known for its elegant atmosphere and beautiful views of the harbor. It's menu offers local and international influences."
+                        },
+                        {
+                            "name":"Sky Rooftop Restolounge & Traditional",
+                            "description":"This rooftop offers a unique dining experience as well as fantastic views plus ambiance. It is a great choice for evening dinners."
+                        },
+                        {
+                            "name":"Saly Restaurant",
+                            "description":"This restaurant is celebrated for its high-quality food in addition to its invivting environment. Its menu consistently receives high marks from patrons."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"Hotel Villa Pascucci",
+                            "description":"Hotel Villa Pascucci features a star rating of 4.7 stars and its designed for those looking for a mix of luxury and relaxation. Some features include an on-site restaurant as well as spa and wellness center. For more information regarding facilites and booking, please visit <a href='https://villapascucci.com/' target='_blank'>https://villapascucci.com/</a>."
+                        },
+                        {
+                            "name":"Adriatik Hotel, BW Premier Collection",
+                            "description":"This hotel has a star rating of 4.8 and it is perfect for people who was a full resort experience. Some of its amenities include a private beach area, 2 restaurants, 4 bars, tennis courts, and outdoor pools. For more information regarding facilites and booking, please visit <a href='https://adriatikhotelbwpremiercollection.reservationstays.com/hotels/3elX2EGk?utm_source=adwords_semro&utm_campaign=G%3ARS%3AUS-ROW%3APMAX%3ADSA-Chains&gad_source=1&gad_campaignid=21520621616&gbraid=0AAAAAo1QcNkmyYM9j7VdEfDHsMN-Lp4PV&gclid=EAIaIQobChMIwo3vsaSNlQMVXLIDAB2GfAmeEAAYASAAEgIkJfD_BwE&redirect_auth_retry=true' target='_blank'>https://adriatikhotelbwpremiercollection.reservationstays.com/hotels/3elX2EGk?utm_source=adwords_semro&utm_campaign=G%3ARS%3AUS-ROW%3APMAX%3ADSA-Chains&gad_source=1&gad_campaignid=21520621616&gbraid=0AAAAAo1QcNkmyYM9j7VdEfDHsMN-Lp4PV&gclid=EAIaIQobChMIwo3vsaSNlQMVXLIDAB2GfAmeEAAYASAAEgIkJfD_BwE&redirect_auth_retry=true</a>."
+                        },
+                        {
+                            "name":"Palace Hotel & SPA",
+                            "description":"This hotel has a star rating of 4.4 and is provides a comfortable experience with beautiful sea views. Some of its facilities include 2 pools and a private beach area for guests. For more information regarding facilites and booking, please visit <a href='https://palacehotel.al/' target='_blank'>https://palacehotel.al/</a>. "
+                        }
+                    ]
                 }
             }
         ]

@@ -118,11 +118,17 @@ svg path:hover {
     fill: rgb(128, 176, 234);
 }
 
-a {
+.content a, .ccontent a {
     color:white;
-    overflow-wrap: break-word;
+    text-decoration: underline;
 }
 
-a :hover{
+.content a :hover, .ccontent a :hover{
     color:aqua
+}
+
+.content, .ccontent {
+    word-wrap: break-word;      
+    overflow-wrap: break-word;  
+    word-break: break-all;
 }

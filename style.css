@@ -123,7 +123,7 @@ svg path:hover {
     text-decoration: underline;
 }
 
-.content a :hover, .ccontent a :hover{
+.content a:hover, .ccontent a:hover{
     color:aqua
 }
 
@@ -131,4 +131,5 @@ svg path:hover {
     word-wrap: break-word;      
     overflow-wrap: break-word;  
     word-break: break-all;
+    max-width: 100%
 }

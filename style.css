@@ -120,6 +120,7 @@ svg path:hover {
 
 a {
     color:white;
+    overflow-wrap: break-word;
 }
 
 a :hover{

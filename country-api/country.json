@@ -554,7 +554,7 @@
                         },
                         {
                             "name":"Four Seasons Restor Dubai at Jumeirah Beach",
-                            "description":"This hotel has a star rating of 4.7 and it is celebrated for its lush gardens. It is the perfect fit for those who want direct beach access and easy acess to the city's main attractions. For more information regarding facilites and booking, please visit <a href='https://www.fourseasons.com/dubaijb/' target='_blank'>this website"
+                            "description":"This hotel has a star rating of 4.7 and it is celebrated for its lush gardens. It is the perfect fit for those who want direct beach access and easy acess to the city's main attractions. For more information regarding facilites and booking, please visit <a href='https://www.fourseasons.com/dubaijb/' target='_blank'>this website</a>."
                         },
                         {
                             "name":"Mandarin Oriental Jumeira, Dubai",
@@ -610,7 +610,7 @@
                         },
                         {
                             "name":"The Ritz-Carlton Abu Dhabi, Grand Canal",
-                            "description":"This hotel has a star rating of 4.6 and it overlooks the Grand Canal. The property features an outdoor swimming pool, spa, and a collection of restaurants. For more information regarding facilites and booking, please visit <a href='https://www.ritzcarlton.com/en/hotels/auhrz-the-ritz-carlton-abu-dhabi-grand-canal/overview/' target='_blank'>this website"
+                            "description":"This hotel has a star rating of 4.6 and it overlooks the Grand Canal. The property features an outdoor swimming pool, spa, and a collection of restaurants. For more information regarding facilites and booking, please visit <a href='https://www.ritzcarlton.com/en/hotels/auhrz-the-ritz-carlton-abu-dhabi-grand-canal/overview/' target='_blank'>this website</a>."
                         },
                         {
                             "name":"The St. Regis Saadiyat Island Restort",
@@ -665,7 +665,7 @@
                         },
                         {
                             "name":"Sheraton Sharjah Beach Resort & Spa",
-                            "description":"This hotel is rated 4.4 stars and it is the ideal choice for guests who are looking for a classic beach getaway with leisure facilities. For more information regarding facilites and booking, please visit <a href='https://www.beachclubs.ae/sharjah/sheraton-sharjah-beach-resort-spa' target='_blank'>this website"
+                            "description":"This hotel is rated 4.4 stars and it is the ideal choice for guests who are looking for a classic beach getaway with leisure facilities. For more information regarding facilites and booking, please visit <a href='https://www.beachclubs.ae/sharjah/sheraton-sharjah-beach-resort-spa' target='_blank'>this website</a>."
                         },
                         {
                             "name":"PULLMAN SHARJAH",
@@ -704,7 +704,36 @@
                         "airport": "Ezeiza (EZE) is the main international hub (45 mins away), while Aeroparque (AEP) is for domestic flights and located within the city limits."
                     },
                     "image-url": "https://images.squarespace-cdn.com/content/v1/52efc94ae4b01409c74273d6/1585836711975-N7XHQ1OEB1VT1Q28Y0NP/BuenosAires-1815x1200.jpg",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.27456551473!2d-58.51569989937324!3d-34.61579604814654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos%20Aires%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463057212!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d105073.27456551473!2d-58.51569989937324!3d-34.61579604814654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca3b4ef90cbd%3A0xa0b3812e88e88e87!2sBuenos%20Aires%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463057212!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"Don Julio",
+                            "description":"Don Julio is frequently ranked among the best restaurants in the world, they elevate the classic Argentine steakhouse experience into a culinary art form."
+                        },
+                        {
+                            "name":"Aramburu",
+                            "description":"This restaurant is a sophisticated fine dining establishment located in the historic Pasaje del Correo in Recoleta. They focuss on seasonal ingrediants sourced from all across Argentina."
+                        },
+                        {
+                            "name":"Mishiguene",
+                            "description":"Mishiguene brings a twist by honoring and reinventing Jewish diaspora cuisine. They feature a high energy atmosphere, often accompanies by live music and interactive table service."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"Four Seasons Hotel Buenos Aires",
+                            "description":"The Four Seasons Hotel Buenos Aires has a star rating of 4.7 and it is located in the Retiro neighborhood. It features an outdoor heated pool as well as fine dining restaurants. For more information regarding facilites and booking, please visit <a href='https://www.fourseasons.com/buenosaires/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Palacio Duhau - Park Hyatt Buenos Aires",
+                            "description":"This hotel is rated 4.7 stars and it is situated in the heart of the Recoleta district. They have an underground art gallery as well as distint dining venues. For more information regarding facilites and booking, please visit <a href='hyatt.com/en-US/hotel/argentina/palacio-duhau-park-hyatt-buenos-aires/bueph' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Alvear Palace Hotel",
+                            "description":"The Alvear Palace Hotel stands as the most historic and legendary grand luxury properties in Latin America. It features a rooftop bar and indoor pool. For more information regarding facilites and booking, please visit <a href='https://alvearpalace.com/' target='_blank'>this website</a>. "
+                        }
+                    ]
                 }
             },
             {
@@ -730,7 +759,36 @@
                         "airport": "Teniente Luis Candelaria Airport (BRC) is about 15km from the city center. Public buses and shuttles are available."
                     },
                     "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d0/5f/0a/cerro-campanario.jpg?w=600&h=-1&s=1",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96169.09141472145!2d-71.4223156020613!3d-41.12832349342862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x961a7b1520c860e5%3A0x8210ae97cb7b9a65!2sSan%20Carlos%20de%20Bariloche%2C%20R%C3%ADo%20Negro%20Province%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463157915!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96169.09141472145!2d-71.4223156020613!3d-41.12832349342862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x961a7b1520c860e5%3A0x8210ae97cb7b9a65!2sSan%20Carlos%20de%20Bariloche%2C%20R%C3%ADo%20Negro%20Province%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463157915!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"Alto El Fuego",
+                            "description":"This restaurant is tucked away in a restored wooden cabin on a hillside near the town center. They provide an authentic and rustic Patagonian dining experience far from typical tourist traps."
+                        },
+                        {
+                            "name":"Quiven Patagonia",
+                            "description":"Quiven Patagonia delivers a masterful culinary experience through modern Patagonian fine dining. It is located away from the bustling city."
+                        },
+                        {
+                            "name":"La Fonda del Tio",
+                            "description":"This restaurant is famous for its rustic, high energy atmosphere and Patagonian tradition. It is the best spot for authentic Argentine comfort food and they have mammoth sized portions."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"Llao Llao Hotel",
+                            "description":"This hotel is rated 4.6 stars and is one of the most famous restorts in South America. It features an 18 hole gold course, indoor and outdoor pool, and a luxury spa. For more information regarding facilites and booking, please visit <a href='https://www.llaollao.com/en/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"El Casco",
+                            "description":"El Casco is rated 4.7 stars and it is a sophisticated lakeside retreat along the shores of Lake Nahuel Huapi. For more information regarding facilites and booking, please visit <a href='https://www.hoteldelcasco.com.ar/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Charming Residences & Suites with Private Spa",
+                            "description":"This hotel has a 4.7 star rating and it located ona cliffside overloooking Lake Nahuel Huapi. Each residence has a private spa as well as common pools and restaurants. For more information regarding facilites and booking, please visit <a href='https://www.charming-bariloche.com/' target='_blank'>this website</a>. "
+                        }
+                    ]
                 }
             },
             {
@@ -756,7 +814,36 @@
                         "airport": "Governor Francisco Gabrielli International Airport (MDZ) is a 15-20 minute drive from the city center."
                     },
                     "image-url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/06/71/96/93.jpg",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3359564.2306635547!2d-73.54696628358215!3d-34.68437999238633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9679745b5dd5fffd%3A0x902586f1d047824!2sMendoza%20Province%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463285282!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3359564.2306635547!2d-73.54696628358215!3d-34.68437999238633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9679745b5dd5fffd%3A0x902586f1d047824!2sMendoza%20Province%2C%20Argentina!5e0!3m2!1sen!2sus!4v1766463285282!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"Siete Fuegos by Francis Mallmann",
+                            "description":"This restaurant is located inside The Vines Resort & Spa and it celebrates the ancient art of open-fire cooking. Chef's masterfully employ seven fire cooking techniques using custom built iron structures, fire pits, and clay ovens."
+                        },
+                        {
+                            "name":"Azafran",
+                            "description":"Azafran is a Michelin starred culinary experience situated in the heart of Mendoza city. It is known for its inventive approach to traditional Argentine flavors. Guests can choose from beautifully curated tasting menus that put a contemporary twist on local ingredients."
+                        },
+                        {
+                            "name":"Casa Vigil (El Enemigo)",
+                            "description":"Casa Vigil is located in Chachingo, Maipu and it is a Michelin starred winery restaurant. It serves a multi course menu crafted from ingredients grown directly in the restaurant's organic vegetable garden."
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"The Vines Resort & Spa",
+                            "description":"This resort is rated 4.7 stars and it is located in the Uco Valley, directly between vineyards with a majestic view of the Andes. For more information regarding facilites and booking, please visit <a href='https://vinesresortandspa.com/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Entre Cielos Luxury Wine Hotel & Spa",
+                            "description":"Entre Cielos Luxury Wine Hotel & Spa is rated 4.6 stars and it is located in the Lujan de Cuyo winemaking region. It houses an upscale restaurant showcasing seasonal regional cuisine and an outdoor pool. For more information regarding facilites and booking, please visit <a href='https://entrecielos.com/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Park Hyatt Mendoza",
+                            "description":"This hotel is rated at 4.6 stars and it is for those who would much rather prefer an urban stay over. It features 3 restaurants, outdoor pool, spa, and casino. For more information regarding facilites and booking, please visit <a href='https://www.hyatt.com/park-hyatt/en-US/menph-park-hyatt-mendoza-hotel-casino-and-spa' target='_blank'>this website</a>. "
+                        }
+                    ]
                 }
             }
         ]

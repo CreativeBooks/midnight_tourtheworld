@@ -118,12 +118,12 @@ svg path:hover {
     fill: rgb(128, 176, 234);
 }
 
-.content a, .ccontent a {
+.ccontent a, .ccontent a:visited {
     color:white;
     text-decoration: underline;
 }
 
-.content a:hover, .ccontent a:hover{
+.ccontent a:hover {
     color:aqua
 }
 

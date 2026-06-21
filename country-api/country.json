@@ -876,7 +876,36 @@
                         "airport": "Zvartnots International Airport (EVN) is about 15-20 minutes from the center. The Airport Shuttle bus runs every 30 minutes, and app-based taxis are very cheap."
                     },
                     "image-url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/29/ac/2d/bild-1.jpg?w=1400&h=1400&s=1",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195168.42081631377!2d44.32375741985987!3d40.15327357431817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406aa2dab8fc8b5b%3A0x3d1479ae87da526a!2sYerevan%2C%20Armenia!5e0!3m2!1sen!2sus!4v1766498686375!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195168.42081631377!2d44.32375741985987!3d40.15327357431817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406aa2dab8fc8b5b%3A0x3d1479ae87da526a!2sYerevan%2C%20Armenia!5e0!3m2!1sen!2sus!4v1766498686375!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilites and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilites and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilites and booking, please visit <a href='' target='_blank'>this website</a>. "
+                        }
+                    ]
                 }
             },
             {
@@ -901,7 +930,36 @@
                         "airport": "Shirak Airport (LWN) serves mainly low-cost carriers and is located just a few kilometers from the city center."
                     },
                     "image-url": "https://www.utours.am/webroot/myfiles/images/blog/gy30.jpg",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96671.56210067439!2d43.7580048283618!3d40.784314993463894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041fb8b9b34fc9f%3A0x4f4bed0e45f99102!2sGyumri%2C%20Armenia!5e0!3m2!1sen!2sus!4v1766509461948!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96671.56210067439!2d43.7580048283618!3d40.784314993463894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041fb8b9b34fc9f%3A0x4f4bed0e45f99102!2sGyumri%2C%20Armenia!5e0!3m2!1sen!2sus!4v1766509461948!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilites and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilites and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilites and booking, please visit <a href='' target='_blank'>this website</a>. "
+                        }
+                    ]
                 }
             },
             {
@@ -926,7 +984,36 @@
                         "airport": "There is no local airport; visitors typically drive or take a bus from Yerevan (approx. 1.5 hours)."
                     },
                     "image-url": "https://www.wanderlustmagazine.com/wp-content/uploads/2023/10/cropped-shutterstock_520595992.jpg",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48375.69987497942!2d44.83271825263478!3d40.729435075786924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041acd13eb6c271%3A0xc2c4cd041074fe13!2sDilijan%2C%20Armenia!5e0!3m2!1sen!2sus!4v1766509546043!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48375.69987497942!2d44.83271825263478!3d40.729435075786924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041acd13eb6c271%3A0xc2c4cd041074fe13!2sDilijan%2C%20Armenia!5e0!3m2!1sen!2sus!4v1766509546043!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants": [
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        }
+                        
+                    ],
+                    "hotels":[
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilites and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilites and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilites and booking, please visit <a href='' target='_blank'>this website</a>. "
+                        }
+                    ]
                 }
             }
         ]
@@ -3602,7 +3689,330 @@
                 }
             }
         ]
+    },
+    {
+        "name": "United States",
+        "background-image-url": "https://www.fodors.com/wp-content/uploads/2019/01/16-US-Capitol-Washington-DC.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "New York City",
+                "details": {
+                    "annual tourists": "62,000,000",
+                    "popular attractions": [
+                        "Statue of Libery & Ellis Island",
+                        "Central Park",
+                        "Times Square",
+                        "Empire States Building",
+                        "The Metropoliton Museum of Art",
+                        "Broadway Theater District",
+                        "9/11 Memorial & Museum",
+                        "Brooklyn Bridge",
+                        "The High Line",
+                        "Grand Central Terminal"
+                    ],
+                    "transportation": {
+                        "taxi": "Yellow cabs can be hailed on the street. Ride sharing apps (Uber, Lyft) are popular and widely used." ,
+                        "buses": "The MTA subway operates 24/7 and is the fastest way of travel for long distances. ",
+                        "walking": "New York is very pedestrian friendly and most of Manhattan is organized on a grid system.",
+                        "airport": "There are 3 major airports: JFK, LGA (LaGuardia), EWR (Newark). JFK has direct connection by Airtrain to the subway whereas LGA has buses and taxis. "
+                    },
+                    "image-url": "https://upgradedpoints.com/wp-content/uploads/2018/08/New-York-City.jpg?auto=webp&disable=upscale&width=1200",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387196.07664419507!2d-74.3091488888783!3d40.696672698059345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1782054174067!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants":[
+                        {
+                            "name":"Le Bernardin",
+                            "description":"Le Bernardin is a Michelin starred French seafood restaurant and it offers a formal dining experience with great service and flawless tasting menus."
+                        },
+                        {
+                            "name":"Katz's Delicatessen",
+                            "description":"An iconic institution known for its massive pastrami on rye and classic deli atmosphere. It has been operating on the Lower East Side since 1888."
+                        },
+                        {
+                            "name":"Peter Luger Steak House",
+                            "description":"This restaurant is located in Brooklyn and it is a cash only steakhouse that has been serving steaks since 1887."
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"The Plaza",
+                            "description":"This hotel has a star rating of 4.6 and it is one of the most famous luxury hotels in the world. For more information regarding facilities and booking, please visit <a href='https://www.theplazany.com/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"The Ritz-Carlton New York, Central Park",
+                            "description":"The Ritz Carlton is rated 4.7 stars and it provides views of Central Park, spa, and an exclusive Club Lounge. For more information regarding facilities and booking, please visit <a href='https://www.ritzcarlton.com/en/hotels/new-york/central-park' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"1 Hotel Brooklyn Bridge",
+                            "description":"This hotel is rated 4.5 stars and it features a waterfront location with views of the Manhattan skyline and a rooftop pool. For more information regarding facilities and booking, please visit <a href='https://www.1hotels.com/brooklyn-bridge' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Los Angeles",
+                "details": {
+                    "annual tourists": "50,000,000",
+                    "popular attractions": [
+                        "Hollywood Walk of Fame",
+                        "Griffith Observatory",
+                        "Universal Studio Hollywood",
+                        "Santa Monica Pier",
+                        "The Getty Center",
+                        "Venice Beach Boardwalk",
+                        "Hollywood Sign",
+                        "Walt Disney Concert Hall",
+                        "Los Angeles County Museum of Art (LACMA)"
+                    ],
+                    "transportation": {
+                        "taxi": "Taxis must be reserved through a phone or found at designated stands, they cannot be easily hailed the the street. Ride sharing apps are dominant.",
+                        "buses": "The Metro system includes light rail and busses but due to the city sprawl, taxis are more recommended.",
+                        "walking": "LA is not traditionally walkable but specific neighborhoods (Santa Monica, West Hollywood, Downtown LA) are walkable.",
+                        "airport": "Los Angeles International Airport (LAX) is the primary hub and it can be accessed by the Flyaway bus, ride shares, and taxis. Traffic to and from LAX is severe."
+                    },
+                    "image-url": "https://media.timeout.com/images/105851513/750/562/image.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d423286.88301687845!2d-118.741381093792!3d34.020039193990165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2sLos%20Angeles%2C%20CA!5e0!3m2!1sen!2sus!4v1782055665216!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants":[
+                        {
+                            "name":"Providence",
+                            "description":"Providence is a multi Michelin starred restaurant featuring a tasting menu highlighting sustainable, wild caught ingredients."
+                        },
+                        {
+                            "name":"Musso & Frank Grill",
+                            "description":"Hollywood's oldest eatery and it offers a classic, old school atmosphere with famous martinis, red leather booths, and steaks."
+                        },
+                        {
+                            "name":"Republique",
+                            "description":"This restaurant is located inside a stunning historic building originally built for Charlie Chaplin. It is a French Inspited bakery, cafe, and restaurant."
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"The Beverly Hills Hotel",
+                            "description":"This hotel has a 4.7 star rating and it offers a lush tropical garden and a Polo Lounge. For more information regarding facilities and booking, please visit <a href='https://www.dorchestercollection.com/en/los-angeles/the-beverly-hills-hotel/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Hotel Bel-Air",
+                            "description":"Hotel Bel-Air is ratd 4.8 stars and it is located in the canyons on Los Angeles, offering a tranquil vacation. For more information regarding facilities and booking, please visit <a href='https://www.dorchestercollection.com/en/los-angeles/hotel-bel-air/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Santa Monica Proper Hotel",
+                            "description":"Rated 4.6 stars, this hotel blends coastal California vibes with modern luxury and features a rooftop pool. For more information regarding facilities and booking, please visit <a href='https://www.properhotel.com/santa-monica/' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Las Vegas",
+                "details": {
+                    "annual tourists": "40,000,000",
+                    "popular attractions": [
+                        "The Las Vegas Strip",
+                        "Fountains of Bellagio",
+                        "High Roller Observation Wheel",
+                        "Fremont Street Experience",
+                        "Red Rock Canyon National Conservation Area",
+                        "Hoover Dam",
+                        "Sphere at The Venetian",
+                        "Neon Museum",
+                        "Mob Museum"
+                    ],
+                    "transportation": {
+                        "taxi": "There are a lot of taxis, but they cannot be hailed on the street. In order to get a taxi you must wait at designated hotel taxi stands or use a ride share app (Uber, Lyft, etc.).",
+                        "buses": "The Deuce is a double decker bus that runs 24/7 on the Strip and to downtown Las Vegas.",
+                        "walking": "Many visitors walk up and down the Strip and due to sheer scale distances can look long but they aren't really.",
+                        "airport": "Harry Ried International Airport (LAS) is located right next to the Strip."
+                    },
+                    "image-url": "https://cms.inspirato.com/ImageGen.ashx?image=%2Fmedia%2F9464094%2Fgettyimages-535829219.jpg&width=1081.5",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206253.53244276452!2d-115.33980917167132!3d36.124887124957745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80beb782a4f57dd1%3A0x3accd5e6d5b379a3!2sLas%20Vegas%2C%20NV!5e0!3m2!1sen!2sus!4v1782081885505!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants":[
+                        {
+                            "name":"Hell's Kitchen",
+                            "description":"Hell's Kitchen is Gordan Ramsay's famous restaurant and it is located outside Caesars Palace. It's signature dishes are Beef Wellington and Sticky Toffee Pudding."
+                        },
+                        {
+                            "name":"Joël Robucho",
+                            "description":"Located in the MGM Grand, it is a three Michelin star restaurant. It provides a luxurious French fine dining experience in an art deco setting."
+                        },
+                        {
+                            "name":"Golden Steer Steakhouse",
+                            "description":"This restaurant has been operating since 1958 and it is an old school Vegas steakhouse. It features red leather banquettes, tuxedoed waiters, and table side Ceasar salads."
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"Bellagio Resort & Casino",
+                            "description":"Rated 4.7 stars, this resort is known for its fountains, indoor conservatory, and art gallery.  For more information regarding facilities and booking, please visit <a href='https://bellagio.mgmresorts.com/en.html' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"The Venetian Resort",
+                            "description":"This hotel is rated at 4.6 stars and it features a replica of Venice's canals, gaming floors, and massive pools. For more information regarding facilities and booking, please visit <a href='https://www.venetianlasvegas.com/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Wynn Las Vegas",
+                            "description":"Wynn is rated at 4.7 stars and offers an 18 hole golf course, designer boutiques, and luxurious spas. For more information regarding facilities and booking, please visit <a href='https://www.wynnlasvegas.com/' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "India",
+        "background-image-url": "https://www.tourmyindia.com/socialimg/north-india-tourism.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "New Delhi",
+                "details": {
+                    "annual tourists": "39,415,000",
+                    "popular attractions": [
+                        "Red Fort",
+                        "Qutub Minar",
+                        "Humayun's Tomb",
+                        "India Gate",
+                        "Lotus Temple",
+                        "Akshardam Temple",
+                        "Jama Masjid",
+                        "Chandni Chowk",
+                        "Rastrapati Bhavan",
+                        "Lodhi Gardens"
+                    ],
+                    "transportation": {
+                        "taxi": "Prepaid taxis and ride sharing apps (Uber and Ola) are widely available and recommended. Rickshaws are popular for short routes." ,
+                        "buses": "The Delhi Transport Corporation (DTC) has a large number of buses, but Delhi Metro is the preferred way to travel.",
+                        "walking": "Certain areas like Connaught Place and Lodhi Gardens are walkable but Delhi's size and traffic makes walking long distances impractical.",
+                        "airport": "Indira Ghandhi International Airport (DEL) directly connects to the city center with the Delhi Metro Airport Express line. "
+                    },
+                    "image-url": "",
+                    "map-url": "",
+                    "restaurants":[
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "",
+                "details": {
+                    "annual tourists": "",
+                    "popular attractions": [
+                        ")"
+                    ],
+                    "transportation": {
+                        "taxi": "",
+                        "buses": "",
+                        "walking": "",
+                        "airport": ""
+                    },
+                    "image-url": "",
+                    "map-url": "",
+                    "restaurants":[
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "",
+                "details": {
+                    "annual tourists": "",
+                    "popular attractions": [
+                        ""
+                    ],
+                    "transportation": {
+                        "taxi": "",
+                        "buses": "",
+                        "walking": "",
+                        "airport": ""
+                    },
+                    "image-url": "",
+                    "map-url": "",
+                    "restaurants":[
+                        {
+                            "name":"",
+                            "description":"Hell's Kitchen is Gordan Ramsay's famous restaurant and it is located outside Caesars Palace. It's signature dishes are Beef Wellington and Sticky Toffee Pudding."
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        },
+                        {
+                            "name":"",
+                            "description":""
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"",
+                            "description":".  For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":". For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"",
+                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            }
+        ]
     }
+
 
 
 

@@ -118,12 +118,12 @@ svg path:hover {
     fill: rgb(128, 176, 234);
 }
 
-a, a:visited {
+.hotel-link {
     color:white;
     text-decoration: underline;
 }
 
-a:hover {
+.hotel-link:hover {
     color:aqua
 }
 

@@ -3736,7 +3736,7 @@
                     "hotels":[
                         {
                             "name":"The Plaza",
-                            "description":"This hotel has a star rating of 4.6 and it is one of the most famous luxury hotels in the world. For more information regarding facilities and booking, please visit <a href='https://www.theplazany.com/' target='_blank'>this website</a>."
+                            "description":"This hotel has a star rating of 4.6 and it is one of the most famous luxury hotels in the world. For more information regarding facilities and booking, please visit <a class='hotel-link' href='https://www.theplazany.com/' target='_blank'>this website</a>."
                         },
                         {
                             "name":"The Ritz-Carlton New York, Central Park",

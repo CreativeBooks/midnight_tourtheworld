@@ -3886,8 +3886,179 @@
                         "walking": "Certain areas like Connaught Place and Lodhi Gardens are walkable but Delhi's size and traffic makes walking long distances impractical.",
                         "airport": "Indira Ghandhi International Airport (DEL) directly connects to the city center with the Delhi Metro Airport Express line. "
                     },
-                    "image-url": "",
-                    "map-url": "",
+                    "image-url": "https://www.christiesrealestate.com/resizer/v2/7DH5RMCRLVHWHOU5AKV4J2IG64.jpg?auth=fce78d64946e994fb47cad2b726c805478d1175fd3481fc7cd38c16ed89b1b89",
+                    "map-url": "<iframe src=https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224346.5400459505!2d77.04417459573722!3d28.52725274018154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x52c2b7494e204dce!2sNew%20Delhi%2C%20Delhi%2C%20India!5e0!3m2!1sen!2sus!4v1782180001365!5m2!1sen!2sus width=600 height=450 style=border:0; allowfullscreen= loading=lazy referrerpolicy=no-referrer-when-downgrade'></iframe>",
+                    "restaurants":[
+                        {
+                            "name":"Indian Accent",
+                            "description":"It is consistently tanked among Asia's best restaurants and it offers a modern take on traditional indian flavors in a sophisticated setting."
+                        },
+                        {
+                            "name":"Bukhara",
+                            "description":"This restaurant is located in the ITC Maurya and it specializes in slow cooked Northwest Frontier tandoori cuisine. They are most known for their Dal Bukhara."
+                        },
+                        {
+                            "name":"Karim's",
+                            "description":"This is a historic, bustling institution near Jama Masjid that serves traditional Mughlai dishes and kebabs."
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"The Leela Palace New Delhi",
+                            "description":"Rated at 4.8 stars, it stands as a testament to royal Indian grandeur and modern luxury. For more information regarding facilities and booking, please visit <a href='https://www.theleela.com/the-leela-palace-new-delhi' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"The Oberui, New Delhi",
+                            "description":"With a star rating of 4.7, this hotel offers legendary hospitality, clean air tech, and views of Humayun's Tomb. For more information regarding facilities and booking, please visit <a href='https://www.oberoihotels.com/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Taj Mahal, New Delhi",
+                            "description":"This hotel is rated 4.6 stars and it combines old world charm with comtemporary elegance. For more information regarding facilities and booking, please visit <a href='https://www.tajhotels.com/en-in' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "city_name": "Mumbai",
+                "details": {
+                    "annual tourists": "6,000,000",
+                    "popular attractions": [
+                        "Gateway of India",
+                        "Marine Drive",
+                        "Chhatrapati Shivaji Maharaj Terminus",
+                        "Elephanta Caves",
+                        "Haji Ali Dargah",
+                        "Juhu Beach",
+                        "Sanjay Gandhi National Park",
+                        "Colaba Causeway",
+                        "Crawford Market",
+                        "Siddhvinayak Temple"
+                    ],
+                    "transportation": {
+                        "taxi": "Black and yellow Kaali-Peeli taxis are everywhere and app based services (Uber and Ola) are still available, especially for long distances.",
+                        "buses": "The local train network is best but it gets extremely crowded during peak commute hours. There is also a bus system.",
+                        "walking": "South Mumbai (Colaba, Fort) is pedestrian friendly though navigating newer suburbs on foot can be challenging.",
+                        "airport": "Chhatrapati Shivaji Maharaj International Airport (BOM) is located in the northern suburbs and is well equipped by airport taxis and ride shares."
+                    },
+                    "image-url": "https://assets.cntraveller.in/photos/67060b030871a221e9f6bd88/3:2/w_5004,h_3336,c_limit/GettyImages-520120864.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d241318.22867141207!2d72.71354088946937!3d19.081434216033895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6306644edc1%3A0x5da4ed8f8d648c69!2sMumbai%2C%20Maharashtra%2C%20India!5e0!3m2!1sen!2sus!4v1782180938908!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants":[
+                        {
+                            "name":"Wasabi by Morimoto",
+                            "description":"Located inside the Taj Mahal Palace, this restaurant offers contemporary Japanese cuisine curated by Chef Masaharu Morimoto."
+                        },
+                        {
+                            "name":"Britannia & Co. Restaurant",
+                            "description":"This is a historic Parsi cafe in Ballard Estate famous for its Berry Pulav and vintage ambiance going back to the British era."
+                        },
+                        {
+                            "name":"Trishna",
+                            "description":"This restaurant is a globally renowned seafood destination in the Fort area, famous for its butter pepper garlic crab and traditional coastal Mangalorean dishes."
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"The Taj Mahal Palace, Mumbai",
+                            "description":"This hotel has a star rating of 4.8 stars and it's India's most lengendary harbor icon. It offers a view of the Gateway of India. For more information regarding facilities and booking, please visit <a href='https://www.tajhotels.com/en-in/hotels/taj-mahal-palace-mumbai' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"The Oberoi, Mumbai",
+                            "description":"With a 4.7 star rating, this hotel is located on Marine Drive and it offers panaramic views of the Arabian Sea. For more information regarding facilities and booking, please visit <a href='https://www.oberoihotels.com/' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"The St. Regis Mumbai",
+                            "description":"This 4.6 star hotel stands as the tallest hotel tower in the country and it is located in Lower Parel. For more information regarding facilities and booking, please visit <a href='https://www.marriott.com/search/findHotels.mi?searchType=InCity&destinationAddress.city=Mumbai&destinationAddress.country=IN&marriottBrands=JW,LC,RZ,WH,XR,EB&showMore=true&nst=paid&cid=PAI_GLB0004YXD_GLE000BIM7_GLF000OETB&ppc=ppc&pId=ustbppc&gclsrc=aw.ds&gad_source=1&gad_campaignid=1662376975&gbraid=0AAAAADilnidApoNDNUUOwzH8JcxKOVXKX&gclid=CjwKCAjwuuPRBhAnEiwA2Ji8emjJ8fSlvOjnMqudmWFVDkI7nLwgbBZiqZekeyWUF0XpDwU6kTsE-BoCxjYQAvD_BwE&deviceType=desktop-web&view=list#/0/' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Bengaluru",
+                "details": {
+                    "annual tourists": "12,000,000",
+                    "popular attractions": [
+                        "Bangalore Palace",
+                        "Cubbon Park",
+                        "Lalbagh Botanical Garden",
+                        "Tpi Sultan's Summer Palace",
+                        "Vidhana Soudha",
+                        "Nandi Hills",
+                        "Commercial Street",
+                        "Bannerghatta Biological Park",
+                        "Visvesvarya Industrial and Technological Museum",
+                        "ISKON Temple Bangalore"
+                    ],
+                    "transportation": {
+                        "taxi": "Ride sharing apps, such as Uber and Ola, are the primary choice and rickshaws are abundunt but their fares often require negotiation.",
+                        "buses": "BMTC opperates an efficient network of public buses. The Namma Metro is clean, fast, and expanding.",
+                        "walking": "Areas like MG Road, Indiranagar, and Cubbon Park are great for walking though sidewalks in other parts of the city are inconsistent.",
+                        "airport": "Kempegowda International Airport (BLR) is located 40km from the city center, heavily reliant on KIA airport shuttlebuses and taxis."
+                    },
+                    "image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6oE1jG2ul8iOmZuENXYsmpQN6sh30WcOGUZ72cenxzT2pCdihueZI20&s=10",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248815.9102245187!2d77.45715943254929!3d12.98792508838235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8517e4fe0!2sBengaluru%2C%20Karnataka%2C%20India!5e0!3m2!1sen!2sus!4v1782181844453!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants":[
+                        {
+                            "name":"Mavalli Tiffin Room (MTR)",
+                            "description":"This restaurant is famous for its authentic South Indian breakfast classics like Rava Idli and filter coffee."
+                        },
+                        {
+                            "name":"Karavalli",
+                            "description":"This restaurant is located at Vivanta Bengaluru and it showcases authentic coastal recipes from India's southwestern region."
+                        },
+                        {
+                            "name":"Toit",
+                            "description":"This restaurant is one of the most popular, it leads the city's pub culture with excellent crafted beers."
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"The Leela Palace Bengaluru",
+                            "description":"This hotel has a star rating of 4.8 stars and it is inspired by the Vijayanagara Empire.  For more information regarding facilities and booking, please visit <a href='https://www.theleela.com/the-leela-palace-bengaluru' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Taj West End, Bengaluru",
+                            "description":"With a 4.7 star rating, this hotel is located within 20 acres of lush gardens. For more information regarding facilities and booking, please visit <a href='https://www.tajhotels.com/en-in' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"ITC Gardenia, Bengaluru",
+                            "description":"The hotel has a star rating of 4.6 stars and it features a sustainable design inspired by Bengaluru's gardens. For more information regarding facilities and booking, please visit <a href='https://www.itchotels.com/in/en' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "name": "Saudi Arabia",
+        "background-image-url": "https://afar.brightspotcdn.com/dims4/default/bfded3e/2147483647/strip/true/crop/1000x667+0+0/resize/900x600!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2F6e%2F88%2Fa6ea44124d838499c3ee29c4a57c%2Fshutterstock-1224851173.jpg",
+        "top_cities": [
+            {
+                "rank": 1,
+                "city_name": "Riyadh",
+                "details": {
+                    "annual tourists": "25,000,000",
+                    "popular attractions": [
+                        "At-Turaif Worl Heritage Site (Diriyah)",
+                        "Edge of the World (Jebel Fihrayn)",
+                        "Kingdom Centre Sky Bridge",
+                        "Al Masmak Fortress",
+                        "National Museum of Saudi Arabia",
+                        "Boulevard City",
+                        "Souq Al Zal",
+                        "Al-Bujairi Terrace",
+                        "King Abdullah Financial District (KAFD)",
+                        "Al Faisaliah Tower"
+                    ],
+                    "transportation": {
+                        "taxi": "App ride shared services (Uber and Careem) are reliable and preferred. Street hailed taxis exist but fares should be negotiated or metered." ,
+                        "buses": "Newly introduced Riyadh Bus network offers extensive connectivity and the Riyadh Metro system provides efficient transit across core lines.",
+                        "walking": "Urban sprawl and high summer temperatures makes walking long distances impractical. Modern developments like KAFD, Boulevard, and Bujiari Terrace are good for walking.",
+                        "airport": "King Khalid International Airport (RUH) handles major traffic and it is located north of the city. It is connected via airport taxis and ride sharing."
+                    },
+                    "image-url": "https://www.passportsandpreemies.com/wp-content/uploads/2024/12/IMG_8790.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463879.6381178605!2d46.52281578652716!3d24.72483155317325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f03890d489399%3A0xba974d1c98e79fd5!2sRiyadh%20Saudi%20Arabia!5e0!3m2!1sen!2sus!4v1782183034563!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
                     "restaurants":[
                         {
                             "name":"",
@@ -3924,52 +4095,6 @@
                 "details": {
                     "annual tourists": "",
                     "popular attractions": [
-                        ")"
-                    ],
-                    "transportation": {
-                        "taxi": "",
-                        "buses": "",
-                        "walking": "",
-                        "airport": ""
-                    },
-                    "image-url": "",
-                    "map-url": "",
-                    "restaurants":[
-                        {
-                            "name":"",
-                            "description":""
-                        },
-                        {
-                            "name":"",
-                            "description":""
-                        },
-                        {
-                            "name":"",
-                            "description":""
-                        }
-                    ],
-                    "hotels":[
-                        {
-                            "name":"",
-                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
-                        },
-                        {
-                            "name":"",
-                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
-                        },
-                        {
-                            "name":"",
-                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
-                        }
-                    ]
-                }
-            },
-            {
-                "rank": 3,
-                "city_name": "",
-                "details": {
-                    "annual tourists": "",
-                    "popular attractions": [
                         ""
                     ],
                     "transportation": {
@@ -3983,7 +4108,7 @@
                     "restaurants":[
                         {
                             "name":"",
-                            "description":"Hell's Kitchen is Gordan Ramsay's famous restaurant and it is located outside Caesars Palace. It's signature dishes are Beef Wellington and Sticky Toffee Pudding."
+                            "description":""
                         },
                         {
                             "name":"",
@@ -3997,7 +4122,7 @@
                     "hotels":[
                         {
                             "name":"",
-                            "description":".  For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
                         },
                         {
                             "name":"",
@@ -4006,6 +4131,61 @@
                         {
                             "name":"",
                             "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                        }
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "city_name": "Bengaluru",
+                "details": {
+                    "annual tourists": "12,000,000",
+                    "popular attractions": [
+                        "Bangalore Palace",
+                        "Cubbon Park",
+                        "Lalbagh Botanical Garden",
+                        "Tpi Sultan's Summer Palace",
+                        "Vidhana Soudha",
+                        "Nandi Hills",
+                        "Commercial Street",
+                        "Bannerghatta Biological Park",
+                        "Visvesvarya Industrial and Technological Museum",
+                        "ISKON Temple Bangalore"
+                    ],
+                    "transportation": {
+                        "taxi": "Ride sharing apps, such as Uber and Ola, are the primary choice and rickshaws are abundunt but their fares often require negotiation.",
+                        "buses": "BMTC opperates an efficient network of public buses. The Namma Metro is clean, fast, and expanding.",
+                        "walking": "Areas like MG Road, Indiranagar, and Cubbon Park are great for walking though sidewalks in other parts of the city are inconsistent.",
+                        "airport": "Kempegowda International Airport (BLR) is located 40km from the city center, heavily reliant on KIA airport shuttlebuses and taxis."
+                    },
+                    "image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6oE1jG2ul8iOmZuENXYsmpQN6sh30WcOGUZ72cenxzT2pCdihueZI20&s=10",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248815.9102245187!2d77.45715943254929!3d12.98792508838235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8517e4fe0!2sBengaluru%2C%20Karnataka%2C%20India!5e0!3m2!1sen!2sus!4v1782181844453!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "restaurants":[
+                        {
+                            "name":"Mavalli Tiffin Room (MTR)",
+                            "description":"This restaurant is famous for its authentic South Indian breakfast classics like Rava Idli and filter coffee."
+                        },
+                        {
+                            "name":"Karavalli",
+                            "description":"This restaurant is located at Vivanta Bengaluru and it showcases authentic coastal recipes from India's southwestern region."
+                        },
+                        {
+                            "name":"Toit",
+                            "description":"This restaurant is one of the most popular, it leads the city's pub culture with excellent crafted beers."
+                        }
+                    ],
+                    "hotels":[
+                        {
+                            "name":"The Leela Palace Bengaluru",
+                            "description":"This hotel has a star rating of 4.8 stars and it is inspired by the Vijayanagara Empire.  For more information regarding facilities and booking, please visit <a href='https://www.theleela.com/the-leela-palace-bengaluru' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"Taj West End, Bengaluru",
+                            "description":"With a 4.7 star rating, this hotel is located within 20 acres of lush gardens. For more information regarding facilities and booking, please visit <a href='https://www.tajhotels.com/en-in' target='_blank'>this website</a>."
+                        },
+                        {
+                            "name":"ITC Gardenia, Bengaluru",
+                            "description":"The hotel has a star rating of 4.6 stars and it features a sustainable design inspired by Bengaluru's gardens. For more information regarding facilities and booking, please visit <a href='https://www.itchotels.com/in/en' target='_blank'>this website</a>."
                         }
                     ]
                 }

@@ -4061,131 +4061,140 @@
                     "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463879.6381178605!2d46.52281578652716!3d24.72483155317325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f03890d489399%3A0xba974d1c98e79fd5!2sRiyadh%20Saudi%20Arabia!5e0!3m2!1sen!2sus!4v1782183034563!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
                     "restaurants":[
                         {
-                            "name":"",
-                            "description":""
+                            "name":"Najd Village",
+                            "description":"This is an essential culinary landmark offering an authentic look into heritage dining. They feature traditional floor seating and classic Nadjdi dishes like Kasba and Jareesh."
                         },
                         {
-                            "name":"",
-                            "description":""
+                            "name":"Maiz",
+                            "description":"This restaurant is located in historic Diriyah and it offers a sophisticated, fine dining experience that elevates Saudi flavors into a contemporary multi course creation."
                         },
                         {
-                            "name":"",
-                            "description":""
+                            "name":"Myazu",
+                            "description":"An award winning Japanese restaurant well known for its architectural ambiance, sushi, and robata dishes."
                         }
                     ],
                     "hotels":[
                         {
-                            "name":"",
-                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                            "name":"The Ritz-Carlto, Riyadh ",
+                            "description":"This hotel has a star rating of 4.8 stars and it is surrounded by fountains and 600 year old olive trees. For more information regarding facilities and booking, please visit <a href='https://www.ritzcarlton.com/' target='_blank'>this website</a>."
                         },
                         {
-                            "name":"",
-                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                            "name":"Four Seasons Hotel Riyadh at Kingdom Centre",
+                            "description":"With a 4.7 star rating, this hotel occupies the Kingdom Centre tower which offres a panoramic sky views. For more information regarding facilities and booking, please visit <a href='https://www.fourseasons.com/riyadh/' target='_blank'>this website</a>."
                         },
                         {
-                            "name":"",
-                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                            "name":"Mansard Riyadh, A Radisson Collection Hotel",
+                            "description":"Rated at 4.6 stars, this hotel blends European architectural elegance with modern luxury. For more information regarding facilities and booking, please visit <a href='https://www.radissonhotels.com/en-us/' target='_blank'>this website</a>."
                         }
                     ]
                 }
             },
             {
                 "rank": 2,
-                "city_name": "",
+                "city_name": "Jeddah",
                 "details": {
-                    "annual tourists": "",
+                    "annual tourists": "15,000,000",
                     "popular attractions": [
-                        ""
+                        "Al-Balad (Historic Old Town)",
+                        "Jeddah Corniche",
+                        "King Fahd's Fountain",
+                        "Al-Rahmah Mosque (Floating Mosque)",
+                        "Al Tayebat International City Musuem",
+                        "Fakir Aquarium",
+                        "Red Sea Mall",
+                        "Jeddah Waterfront",
+                        "Historic Jeddah North Gate",
+                        "Athr Gallery"
                     ],
                     "transportation": {
-                        "taxi": "",
-                        "buses": "",
-                        "walking": "",
-                        "airport": ""
+                        "taxi": "Ride hailing platforms (Uber and Careem) operate and are highly recommended. Local white taxis are easily found near major commercial areas.",
+                        "buses": "Public bus routes cover major corridors, but most travelers prefer private vehicles, car rentals, or ride sharing.",
+                        "walking": "The historica alleys of Al-Balad and Jeddah Cornichee are designed for walking.",
+                        "airport": "King Abdulaziz International Airport (JED) features a built in transport hub, including Haramain High Speed Railway station."
                     },
-                    "image-url": "",
-                    "map-url": "",
+                    "image-url": "https://benkhan.com/images/articles/jeddah-city.jpg",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d475325.03136874636!2d38.88149252799707!3d21.449800166036365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c3d01fb1137e59%3A0xe059579737b118db!2sJeddah%20Saudi%20Arabia!5e0!3m2!1sen!2sus!4v1782266799906!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
                     "restaurants":[
                         {
-                            "name":"",
-                            "description":""
+                            "name":"Al Baik",
+                            "description":"This restaurant is Saudi Arabia's most iconic fast food institution and it is known for its broasted chicken and signature garlic sauce."
                         },
                         {
-                            "name":"",
-                            "description":""
+                            "name":"Toki",
+                            "description":"This restaurant is an upscale destination delivering authentic pan-Asian and Cantonese dishes in a luxurious setting."
                         },
                         {
-                            "name":"",
-                            "description":""
+                            "name":"Twina",
+                            "description":"Renowning for offering a Red Sea dining, allowing guests to pick fresh seafood to be cooked in traditional style."
                         }
                     ],
                     "hotels":[
                         {
-                            "name":"",
-                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                            "name":"The Ritz-Carlton, Jeddah",
+                            "description":"This hotel has a star rating of 4.7 stars and it overlooks the Red Sea, offering views of King Fahd's Fountain. For more information regarding facilities and booking, please visit <a href='https://www.ritzcarlton.com/' target='_blank'>this website</a>."
                         },
                         {
-                            "name":"",
-                            "description":". For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                            "name":"Rosewood Jeddah",
+                            "description":"With a 4.6 star rating, this hotel features 24 hour butler service and a rooftop pool. For more information regarding facilities and booking, please visit <a href='https://www.rosewoodhotels.com/en/jeddah' target='_blank'>this website</a>."
                         },
                         {
-                            "name":"",
-                            "description":" For more information regarding facilities and booking, please visit <a href='' target='_blank'>this website</a>."
+                            "name":"Shangri-La Jeddah",
+                            "description":"Rated 4.8 stars, this hotel is waterfront and stands tall on the Corniche. For more information regarding facilities and booking, please visit <a href='https://www.shangri-la.com/jeddah/shangrila/' target='_blank'>this website</a>."
                         }
                     ]
                 }
             },
             {
                 "rank": 3,
-                "city_name": "Bengaluru",
+                "city_name": "Mecca",
                 "details": {
-                    "annual tourists": "12,000,000",
+                    "annual tourists": "13,500,000",
                     "popular attractions": [
-                        "Bangalore Palace",
-                        "Cubbon Park",
-                        "Lalbagh Botanical Garden",
-                        "Tpi Sultan's Summer Palace",
-                        "Vidhana Soudha",
-                        "Nandi Hills",
-                        "Commercial Street",
-                        "Bannerghatta Biological Park",
-                        "Visvesvarya Industrial and Technological Museum",
-                        "ISKON Temple Bangalore"
+                        "Masjid al-Harem (The Great Mosque)",
+                        "The Kaaba",
+                        "Abraj Al Bait (Makkah Clock Tower)",
+                        "Jabal al-Nour (Cave of Hira)",
+                        "Clock Tower Museum",
+                        "Ghar Thowr (Cave of Thowr)",
+                        "Exhibition of the Two Holy Mosques Architecture",
+                        "Mina Valley",
+                        "Mount Arafat",
+                        "Jannat al-Mu'alla"
                     ],
                     "transportation": {
-                        "taxi": "Ride sharing apps, such as Uber and Ola, are the primary choice and rickshaws are abundunt but their fares often require negotiation.",
-                        "buses": "BMTC opperates an efficient network of public buses. The Namma Metro is clean, fast, and expanding.",
-                        "walking": "Areas like MG Road, Indiranagar, and Cubbon Park are great for walking though sidewalks in other parts of the city are inconsistent.",
-                        "airport": "Kempegowda International Airport (BLR) is located 40km from the city center, heavily reliant on KIA airport shuttlebuses and taxis."
+                        "taxi": "Taxis are all over the city and prices increase significantly during peak seasons like Ramadan and Hajj, making negotiation needed.",
+                        "buses": "There is an extensive, heavily utilized shuttle bus network that moves between hotels and the Grand Mosque around the clock.",
+                        "walking": "The central district surrounding Masjid al-Harem is built purely for foot traffic.",
+                        "airport": "Mecco does not have its own commericial airport. Visitors arrive via JED in Jeddah."
                     },
-                    "image-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6oE1jG2ul8iOmZuENXYsmpQN6sh30WcOGUZ72cenxzT2pCdihueZI20&s=10",
-                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248815.9102245187!2d77.45715943254929!3d12.98792508838235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8517e4fe0!2sBengaluru%2C%20Karnataka%2C%20India!5e0!3m2!1sen!2sus!4v1782181844453!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+                    "image-url": "https://sacredsites.com/images/middle_east/saudi_arabia/Mecca-Great-Mosque_H_01.webp",
+                    "map-url": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d475325.03136874636!2d38.88149252799707!3d21.449800166036365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15c21b4ced818775%3A0x98ab2469cf70c9ce!2sMakkah%20Saudi%20Arabia!5e0!3m2!1sen!2sus!4v1782268629492!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
                     "restaurants":[
                         {
-                            "name":"Mavalli Tiffin Room (MTR)",
-                            "description":"This restaurant is famous for its authentic South Indian breakfast classics like Rava Idli and filter coffee."
+                            "name":"Al Tazaj",
+                            "description":"This is a highly popular barbecue chicken chain celebrated for its fresh Arabian spiced grilled spring chicken."
                         },
                         {
-                            "name":"Karavalli",
-                            "description":"This restaurant is located at Vivanta Bengaluru and it showcases authentic coastal recipes from India's southwestern region."
+                            "name":"Afandim Restaurant",
+                            "description":"Bustling establishment offering a diverse menu of classic turkish, Middle Eastern, and international options."
                         },
                         {
-                            "name":"Toit",
-                            "description":"This restaurant is one of the most popular, it leads the city's pub culture with excellent crafted beers."
+                            "name":"Al Shorfa",
+                            "description":"This restaurnat is located inside the hotel complexes facing the santuary. It provides diners with a lookout over Masjid al-Harem."
                         }
                     ],
                     "hotels":[
                         {
-                            "name":"The Leela Palace Bengaluru",
-                            "description":"This hotel has a star rating of 4.8 stars and it is inspired by the Vijayanagara Empire.  For more information regarding facilities and booking, please visit <a href='https://www.theleela.com/the-leela-palace-bengaluru' target='_blank'>this website</a>."
+                            "name":"Makkah Clock Royal Tower, A Fairmoung Hotel.",
+                            "description":"This hotel has a star rating of 4.7 stars and stands inside the Abraj Al Bait complex. For more information regarding facilities and booking, please visit <a href='https://www.fairmont.com/makkah/' target='_blank' style='font-color:white;text-decoration:underline;'>this website</a>."
                         },
                         {
-                            "name":"Taj West End, Bengaluru",
-                            "description":"With a 4.7 star rating, this hotel is located within 20 acres of lush gardens. For more information regarding facilities and booking, please visit <a href='https://www.tajhotels.com/en-in' target='_blank'>this website</a>."
+                            "name":"Raffles Makkah Palace",
+                            "description":"With a 4.8 star rating, this hotel offers residential comfort with breaktaking views of the Kaaba. For more information regarding facilities and booking, please visit <a href='https://www.raffles.com/makkah/' target='_blank'>this website</a>."
                         },
                         {
-                            "name":"ITC Gardenia, Bengaluru",
-                            "description":"The hotel has a star rating of 4.6 stars and it features a sustainable design inspired by Bengaluru's gardens. For more information regarding facilities and booking, please visit <a href='https://www.itchotels.com/in/en' target='_blank'>this website</a>."
+                            "name":"Conrad Makkah",
+                            "description":"Rated 4.6 stars, this hotel offers a peaceful environment with effortless to the Holy Mosque via Jabal Omar. For more information regarding facilities and booking, please visit <a href='https://www.hilton.com/' target='_blank'>this website</a>."
                         }
                     ]
                 }
